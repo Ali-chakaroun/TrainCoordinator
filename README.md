@@ -19,3 +19,42 @@ This project extends the **FAIR Data Train (FDT)** framework by integrating:
 | ------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `http://localhost:6060/api/analysis/execute`      | `POST` | Executes a CWL workflow and returns the result.                                                                                                                     |
 | `http://localhost:6060/api/analysis/odrl-execute` | `POST` | Executes an ODRL policy request and returns the corresponding SPARQL query. *(Note: CWL workflows internally call this endpoint when verifying train permissions.)* |
+
+### `/api/analysis/odrl-execute` Payload Format
+
+This endpoint expects the request body in **raw** format, describing an ODRL request.  
+Example payload:
+
+```turtle
+@prefix odrl:   <http://www.w3.org/ns/odrl/2/> .
+@prefix ex:     <http://example.org/> .
+
+<http://example.org/request:se-query>
+    a odrl:Request ;
+    odrl:uid <https://www.wikidata.org/wiki/Q25670> ;
+    odrl:profile <https://www.wikidata.org/wiki/Q4382010> ;
+
+    odrl:permission [
+        odrl:target <http://example.org/graph/extract_data> ;
+        odrl:assignee ex:researcher ;
+        odrl:action odrl:read
+    ] .
+
+```
+---
+
+## 📂 File Paths
+
+The prototype stores its **workflows** and **local RDF-based data stations** in: **src/main/resources/workflow**
+
+This folder contains:  
+- **CWL Workflow files** — define the steps, inputs, and conditional execution logic for the analysis.  
+- **RDF files** — serve as *local data stations* from which the workflow extracts data using SPARQL queries.  
+
+### **ODRL Engine**
+The **ODRL engine configuration and policies** used for access control are located in: **src/main/resources/ODRL**
+
+This folder contains:
+- **Policies** — define permissions, prohibitions, and obligations for data access.  
+- **Engine** — policy engine that validates access requests against internal policies and if allowed, returns the corresponding SPARQL query file to execute.
+- **Data** - holds a sparql query for the requested data when the an data access request is accepted.

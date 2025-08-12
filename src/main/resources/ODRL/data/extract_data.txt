@@ -1,7 +1,6 @@
 PREFIX ex: <http://example.org/>
-PREFIX ex: <>
 
-FROM https://station1.fairdatatrain.org/graph/LData
+FROM DUMMY.DATABASE
 SELECT ?id ?attr ?val WHERE {
   ?row ex:ID ?id .
   ?row ?predicate ?val .

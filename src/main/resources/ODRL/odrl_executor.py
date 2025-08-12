@@ -24,8 +24,7 @@ def process_odrl_request(request_ttl_path: str) -> Optional[str]:
         if not filename.endswith(".ttl"):
             continue
         if not filename.startswith(target_name):
-            continue  # Skip policies not related to the current target
-        # print(f"🔍 Checking policy: {filename}")
+            continue  # Skip policies not related to the current request
         policy_path = os.path.join(policy_dir, filename)
         result = is_access_allowed(
             policy_file=policy_path,

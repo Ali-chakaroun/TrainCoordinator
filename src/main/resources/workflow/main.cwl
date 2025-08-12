@@ -36,36 +36,18 @@ steps:
     out: 
       - terminateData
 
-  extractVigiData:
+  data_analysis:
     in:
-      adrData: 
+      adrData:
         source: extractADR/data
       records:
         source: extractLarebData/larebMetadata
         loadContents: true
         valueFrom: $(JSON.parse(self.contents).records)
-
     when: $(inputs.records <= 5)
-    run: extract_vigi_data.cwl
-    out: 
-      - vigiData
-      - vigiExcel
-      - vigiATC
+    run: vigi_analysis.cwl
+    out: [vigiData, vigiExcel, vigiATC, sideEffData]
 
-  extractSideEffData:
-    in:
-      adrData: 
-        source: extractADR/data
-      vigiData: 
-        source: extractVigiData/vigiData
-      records:
-        source: extractLarebData/larebMetadata
-        loadContents: true
-        valueFrom: $(JSON.parse(self.contents).records)
-    when: $(inputs.vigiData !== undefined && inputs.records <= 5)
-    run: extract_sideeff_data.cwl
-    out: 
-      - sideEffData
 
 outputs:
   data:
@@ -82,13 +64,13 @@ outputs:
     outputSource: terminate/terminateData
   vigiData:
     type: ["null","File"]
-    outputSource: extractVigiData/vigiData
+    outputSource: data_analysis/vigiData
   vigiExcel:
     type: ["null","File"]
-    outputSource: extractVigiData/vigiExcel
+    outputSource: data_analysis/vigiExcel
   vigiATC:
     type: ["null","File"]
-    outputSource: extractVigiData/vigiATC
+    outputSource: data_analysis/vigiATC
   sideEffData:
     type: ["null","File"]
-    outputSource: extractSideEffData/sideEffData
+    outputSource: data_analysis/sideEffData

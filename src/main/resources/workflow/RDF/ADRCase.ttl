@@ -1,0 +1,44 @@
+@prefix ex: <http://example.org/> .
+
+<http://example.org/Sheet1_row/1> ex:ATC5 "L04AE" ;
+    ex:ATCText "FINGOLIMOD" ;
+    ex:ATCode "L04AE01" ;
+    ex:Age "40" ;
+    ex:Concomitant_ATC5 "nan" ;
+    ex:Concomitant_ATCText "nan" ;
+    ex:Concomitant_ATCode "nan" ;
+    ex:End_date "nan" ;
+    ex:ID "patient 0" ;
+    ex:Latency_days "nan" ;
+    ex:Medical_history_PT "Acute kidney injury; Acute myeloid leukaemia" ;
+    ex:Other_Reported_PTs "Cystitis haemorrhagic" ;
+    ex:Other_suspect_ATCText "nan" ;
+    ex:Outcome "Fatal" ;
+    ex:Past_drug_therapy "nan" ;
+    ex:Past_tests_and_procedures "Blood pressure; Creatinine" ;
+    ex:Reaction_PT "JC virus infection" ;
+    ex:Seriousness "Serious" ;
+    ex:Sex "Female" ;
+    ex:Start_date "nan" .
+
+<http://example.org/Sheet1_row/2> ex:ATC5 "L04AE" ;
+    ex:ATCText "FINGOLIMOD" ;
+    ex:ATCode "L04AE01" ;
+    ex:Age "40" ;
+    ex:Concomitant_ATC5 "nan" ;
+    ex:Concomitant_ATCText "nan" ;
+    ex:Concomitant_ATCode "nan" ;
+    ex:End_date "nan" ;
+    ex:ID "patient 0" ;
+    ex:Latency_days "nan" ;
+    ex:Medical_history_PT "Acute kidney injury; Acute myeloid leukaemia" ;
+    ex:Other_Reported_PTs "Off label use; Renal failure; Stress" ;
+    ex:Other_suspect_ATCText "nan" ;
+    ex:Outcome "Fatal" ;
+    ex:Past_drug_therapy "nan" ;
+    ex:Past_tests_and_procedures "Blood pressure; Creatinine" ;
+    ex:Reaction_PT "JC virus infection" ;
+    ex:Seriousness "Serious" ;
+    ex:Sex "Female" ;
+    ex:Start_date "nan" .
+

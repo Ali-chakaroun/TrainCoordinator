@@ -1,0 +1,24 @@
+[
+  {
+    "ID": "patient 0",
+    "ATC5": "L04AE",
+    "ATCText": "FINGOLIMOD",
+    "ATCode": "L04AE01",
+    "Age": "40",
+    "Concomitant_ATC5": null,
+    "Concomitant_ATCText": null,
+    "Concomitant_ATCode": null,
+    "End_date": null,
+    "Latency_days": null,
+    "Medical_history_PT": "Acute kidney injury; Acute myeloid leukaemia",
+    "Other_Reported_PTs": "Cystitis haemorrhagic; Off label use; Renal failure; Stress",
+    "Other_suspect_ATCText": null,
+    "Outcome": "Fatal",
+    "Past_drug_therapy": null,
+    "Past_tests_and_procedures": "Blood pressure; Creatinine",
+    "Reaction_PT": "JC virus infection",
+    "Seriousness": "Serious",
+    "Sex": "Female",
+    "Start_date": null
+  }
+]

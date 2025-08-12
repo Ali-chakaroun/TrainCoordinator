@@ -1,0 +1,24 @@
+#https://raw.githubusercontent.com/Ali-chakaroun/fds-demo-trains/refs/heads/main/sparql-station3/sparql-train-02.ttl
+PREFIX ex:   <http://example.org/>                    
+PREFIX drug: <http://identifiers.org/pubchem.compound/>
+PREFIX freq: <http://example.org/frequency/>
+PREFIX umls: <http://linkedlifedata.com/resource/umls/id/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT
+        ?drug_id
+        ?freq
+        ?se
+        (STRAFTER(STR(?umlIRI),
+                "http://linkedlifedata.com/resource/umls/id/") AS ?umls)
+WHERE {
+VALUES ?drug_id {"CID100107969"}
+BIND( IRI(CONCAT(STR(drug:), ?drug_id)) AS ?drugURI )
+
+?drugURI  ex:hasFrequency  ?freqURI .
+?freqURI  rdfs:label       ?freq ;
+                ex:sideEffect    ?umlIRI .
+?umlIRI rdfs:label ?se
+}
+ORDER BY ?frequency ?uml
+#FILTER(lcase(str(?se)) IN ("bk virus infection", "cystitis haemorrhagic", "cytomegalovirus viraemia", "off label use", "renal failure", "stress"))

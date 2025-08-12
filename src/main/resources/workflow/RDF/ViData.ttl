@@ -1,0 +1,51 @@
+@prefix ex: <http://example.org/> .
+@prefix ns1: <http://example.org/Number_of_Suspect/> .
+
+<http://example.org/Sheet1_row/1> ex:10_latest_historical_UMC_report_ID\(s\) "nan" ;
+    ex:Action_taken_with_drug "Drug withdrawn" ;
+    ex:Age "37" ;
+    ex:Age_group "nan" ;
+    ex:Age_unit "years" ;
+    ex:Batch_number "nan" ;
+    ex:Completeness_score "0.815" ;
+    ex:Country_of_primary_source "XXXX" ;
+    ex:Dosage_regimen "‒ per 28 days" ;
+    ex:Dose "300" ;
+    ex:Dose_unit "mg" ;
+    ex:End_date "2016-12" ;
+    ex:End_date.1 """_x000D_
+""" ;
+    ex:Fatal "nan" ;
+    ex:Height_\(cm\) "170" ;
+    ex:Indication "Multiple sclerosis" ;
+    ex:Mapped_term "JC virus infection" ;
+    ex:MedDRA_preferred_term "JC virus infection" ;
+    ex:National_PV_Centre_initial_receive_date "2015-04-20 00:00:00" ;
+    ex:National_PV_Centre_latest_receive_date "2017-04-20 00:00:00" ;
+    ns1:Interacting_drugs "1" ;
+    ex:Original_format "E2B(r3)" ;
+    ex:Outcome """Not recovered_x000D_
+Unknown""" ;
+    ex:Pregnancy_case "nan" ;
+    ex:Reported_medication "Fingolimod" ;
+    ex:Reporter_qualification "Consumer/Non Health Professional" ;
+    ex:Role "Suspect" ;
+    <http://example.org/Route_of_admin.> "nan" ;
+    ex:Safety_report_ID "random-1-1001" ;
+    ex:Serious "Yes" ;
+    ex:Seriousness_criteria "Other medically important condition" ;
+    ex:Sex "Male" ;
+    ex:Start_Date "2015-29" ;
+    ex:Start_date """2016-01
+""" ;
+    ex:Study_name "FINGOLIMOD" ;
+    ex:Suspected_duplicate_of_UMC_report_ID_\(vigiMatch\) "nan" ;
+    ex:Term_reported_to_UMC "10023163" ;
+    ex:UMC_report_ID "1-1001" ;
+    ex:WHODrug_active_ingredient_variant "Fingolimod" ;
+    ex:WHODrug_trade_name "Fingolimod" ;
+    ex:Weight_\(kg\) "68" ;
+    ex:Worldwide_unique_ID "random-1-1001" ;
+    ex:initial_date "2015-04-20 00:00:00" ;
+    ex:latest_entry_date "nan" .
+

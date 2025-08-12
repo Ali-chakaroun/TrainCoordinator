@@ -1,0 +1,16 @@
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix ex:   <http://example.org/> .
+
+<http://example.org/policy/adr-access>
+    a odrl:Offer ;
+    odrl:uid <https://www.wikidata.org/wiki/Q25670> ;
+    odrl:profile <https://www.wikidata.org/wiki/Q4382010> ;
+
+    odrl:permission [
+        odrl:assignee ex:researcher ;
+        odrl:action odrl:read ;
+        odrl:target <http://example.org/graph/extract_meddra_indication_concomitant> ,
+
+                    <http://example.org/sparql/extract_meddra_indication_concomitant>
+
+    ] .

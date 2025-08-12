@@ -1,0 +1,8 @@
+#https://raw.githubusercontent.com/Ali-chakaroun/fds-demo-trains/refs/heads/main/sparql-station3/sparql-train-08.ttl
+PREFIX ex: <http://example.org/>
+
+SELECT ?id ?name WHERE {
+    ?s ex:ID ?id ;
+    ex:Name ?name .
+    FILTER(lcase(str(?name)) IN (""))
+}

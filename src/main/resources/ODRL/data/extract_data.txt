@@ -1,0 +1,10 @@
+PREFIX ex: <http://example.org/>
+PREFIX ex: <>
+
+FROM https://station1.fairdatatrain.org/graph/LData
+SELECT ?id ?attr ?val WHERE {
+  ?row ex:ID ?id .
+  ?row ?predicate ?val .
+  FILTER(?predicate != ex:ID)
+  BIND(STRAFTER(STR(?predicate), "http://example.org/") AS ?attr)
+}

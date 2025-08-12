@@ -1,0 +1,17 @@
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix ex:   <http://example.org/> .
+
+<http://example.org/policy/adr-access>
+    a odrl:Set ;
+
+    odrl:permission [
+        odrl:assignee ex:user ;
+        odrl:action odrl:read ;
+        odrl:target <http://example.org/graph/meddra_labels> ,
+                    <http://example.org/sparql/meddra_labels> ;
+        odrl:constraint [
+            odrl:leftOperand ex:drugIDs ;
+            odrl:operator odrl:eq ;
+            odrl:rightOperand ()  # empty list = wildcard (any value)
+        ]
+    ] .

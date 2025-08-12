@@ -1,0 +1,4292 @@
+@prefix ex: <http://example.org/> .
+
+<http://example.org/drug_names_row/1> ex:ID "CID100000085" ;
+    ex:Name "carnitine" .
+
+<http://example.org/drug_names_row/10> ex:ID "CID100000187" ;
+    ex:Name "acetylcholine" .
+
+<http://example.org/drug_names_row/100> ex:ID "CID100002133" ;
+    ex:Name "amcinonide" .
+
+<http://example.org/drug_names_row/1000> ex:ID "CID100062956" ;
+    ex:Name "fosinoprilat" .
+
+<http://example.org/drug_names_row/1001> ex:ID "CID100062959" ;
+    ex:Name "trovafloxacin" .
+
+<http://example.org/drug_names_row/1002> ex:ID "CID100062965" ;
+    ex:Name "beclomethasone" .
+
+<http://example.org/drug_names_row/1003> ex:ID "CID100063001" ;
+    ex:Name "benazeprilat" .
+
+<http://example.org/drug_names_row/1004> ex:ID "CID100064147" ;
+    ex:Name "valganciclovir" .
+
+<http://example.org/drug_names_row/1005> ex:ID "CID100064778" ;
+    ex:Name "Meropenem" .
+
+<http://example.org/drug_names_row/1006> ex:ID "CID100064929" ;
+    ex:Name "fenofibric" .
+
+<http://example.org/drug_names_row/1007> ex:ID "CID100064987" ;
+    ex:Name "tenofovir" .
+
+<http://example.org/drug_names_row/1008> ex:ID "CID100065014" ;
+    ex:Name "AMD3100" .
+
+<http://example.org/drug_names_row/1009> ex:ID "CID100065157" ;
+    ex:Name "testosterone" .
+
+<http://example.org/drug_names_row/101> ex:ID "CID100002140" ;
+    ex:Name "diatrizoate" .
+
+<http://example.org/drug_names_row/1010> ex:ID "CID100065281" ;
+    ex:Name "CAS" .
+
+<http://example.org/drug_names_row/1011> ex:ID "CID100065370" ;
+    ex:Name "Glat" .
+
+<http://example.org/drug_names_row/1012> ex:ID "CID100065628" ;
+    ex:Name "bendamustine" .
+
+<http://example.org/drug_names_row/1013> ex:ID "CID100065840" ;
+    ex:Name "colestimide" .
+
+<http://example.org/drug_names_row/1014> ex:ID "CID100065856" ;
+    ex:Name "reboxetine" .
+
+<http://example.org/drug_names_row/1015> ex:ID "CID100065863" ;
+    ex:Name "sertaconazole" .
+
+<http://example.org/drug_names_row/1016> ex:ID "CID100065866" ;
+    ex:Name "lercanidipine" .
+
+<http://example.org/drug_names_row/1017> ex:ID "CID100065999" ;
+    ex:Name "telmisartan" .
+
+<http://example.org/drug_names_row/1018> ex:ID "CID100068613" ;
+    ex:Name "atosiban" .
+
+<http://example.org/drug_names_row/1019> ex:ID "CID100068740" ;
+    ex:Name "zoledronic" .
+
+<http://example.org/drug_names_row/102> ex:ID "CID100002141" ;
+    ex:Name "amifostine" .
+
+<http://example.org/drug_names_row/1020> ex:ID "CID100068844" ;
+    ex:Name "brinzolamide" .
+
+<http://example.org/drug_names_row/1021> ex:ID "CID100069512" ;
+    ex:Name "malvidin" .
+
+<http://example.org/drug_names_row/1022> ex:ID "CID100071158" ;
+    ex:Name "acamprosate" .
+
+<http://example.org/drug_names_row/1023> ex:ID "CID100071273" ;
+    ex:Name "ropivacaine" .
+
+<http://example.org/drug_names_row/1024> ex:ID "CID100071301" ;
+    ex:Name "nebivolol" .
+
+<http://example.org/drug_names_row/1025> ex:ID "CID100071316" ;
+    ex:Name "mivacurium" .
+
+<http://example.org/drug_names_row/1026> ex:ID "CID100071329" ;
+    ex:Name "dofetilide" .
+
+<http://example.org/drug_names_row/1027> ex:ID "CID100071348" ;
+    ex:Name "lanreotide" .
+
+<http://example.org/drug_names_row/1028> ex:ID "CID100071360" ;
+    ex:Name "iloperidone" .
+
+<http://example.org/drug_names_row/1029> ex:ID "CID100071362" ;
+    ex:Name "Hoe" .
+
+<http://example.org/drug_names_row/103> ex:ID "CID100002142" ;
+    ex:Name "amikacin" .
+
+<http://example.org/drug_names_row/1030> ex:ID "CID100071406" ;
+    ex:Name "TPGS" .
+
+<http://example.org/drug_names_row/1031> ex:ID "CID100071436" ;
+    ex:Name "Lutalyse" .
+
+<http://example.org/drug_names_row/1032> ex:ID "CID100071469" ;
+    ex:Name "erythromycin" .
+
+<http://example.org/drug_names_row/1033> ex:ID "CID100071616" ;
+    ex:Name "voriconazole" .
+
+<http://example.org/drug_names_row/1034> ex:ID "CID100072022" ;
+    ex:Name "perindoprilat" .
+
+<http://example.org/drug_names_row/1035> ex:ID "CID100072054" ;
+    ex:Name "darifenacin" .
+
+<http://example.org/drug_names_row/1036> ex:ID "CID100072081" ;
+    ex:Name "Terlipressin" .
+
+<http://example.org/drug_names_row/1037> ex:ID "CID100072111" ;
+    ex:Name "rifaximin" .
+
+<http://example.org/drug_names_row/1038> ex:ID "CID100072466" ;
+    ex:Name "bleomycin" .
+
+<http://example.org/drug_names_row/1039> ex:ID "CID100072938" ;
+    ex:Name "gemifloxacin" .
+
+<http://example.org/drug_names_row/104> ex:ID "CID100002145" ;
+    ex:Name "aminoglutethimide" .
+
+<http://example.org/drug_names_row/1040> ex:ID "CID100073303" ;
+    ex:Name "doripenem" .
+
+<http://example.org/drug_names_row/1041> ex:ID "CID100073658" ;
+    ex:Name "telithromycin" .
+
+<http://example.org/drug_names_row/1042> ex:ID "CID100074989" ;
+    ex:Name "atovaquone" .
+
+<http://example.org/drug_names_row/1043> ex:ID "CID100077992" ;
+    ex:Name "frovatriptan" .
+
+<http://example.org/drug_names_row/1044> ex:ID "CID100077993" ;
+    ex:Name "eletriptan" .
+
+<http://example.org/drug_names_row/1045> ex:ID "CID100077996" ;
+    ex:Name "paricalcitol" .
+
+<http://example.org/drug_names_row/1046> ex:ID "CID100077997" ;
+    ex:Name "MK-462" .
+
+<http://example.org/drug_names_row/1047> ex:ID "CID100077998" ;
+    ex:Name "rosiglitazone" .
+
+<http://example.org/drug_names_row/1048> ex:ID "CID100078032" ;
+    ex:Name "Vallergan" .
+
+<http://example.org/drug_names_row/1049> ex:ID "CID100082146" ;
+    ex:Name "bexarotene" .
+
+<http://example.org/drug_names_row/105> ex:ID "CID100002148" ;
+    ex:Name "p-aminohippurate" .
+
+<http://example.org/drug_names_row/1050> ex:ID "CID100082148" ;
+    ex:Name "agomelatine" .
+
+<http://example.org/drug_names_row/1051> ex:ID "CID100083030" ;
+    ex:Name "Ge-132" .
+
+<http://example.org/drug_names_row/1052> ex:ID "CID100083513" ;
+    ex:Name "barium" .
+
+<http://example.org/drug_names_row/1053> ex:ID "CID100083606" ;
+    ex:Name "strontium" .
+
+<http://example.org/drug_names_row/1054> ex:ID "CID100084003" ;
+    ex:Name "ketorolac" .
+
+<http://example.org/drug_names_row/1055> ex:ID "CID100091488" ;
+    ex:Name "fluocinolone" .
+
+<http://example.org/drug_names_row/1056> ex:ID "CID100093860" ;
+    ex:Name "bortezomib" .
+
+<http://example.org/drug_names_row/1057> ex:ID "CID100096312" ;
+    ex:Name "nelarabine" .
+
+<http://example.org/drug_names_row/1058> ex:ID "CID100102258" ;
+    ex:Name "rasburicase" .
+
+<http://example.org/drug_names_row/1059> ex:ID "CID100102399" ;
+    ex:Name "dextran" .
+
+<http://example.org/drug_names_row/106> ex:ID "CID100002153" ;
+    ex:Name "theophylline" .
+
+<http://example.org/drug_names_row/1060> ex:ID "CID100104741" ;
+    ex:Name "ICI" .
+
+<http://example.org/drug_names_row/1061> ex:ID "CID100104758" ;
+    ex:Name "raltitrexed" .
+
+<http://example.org/drug_names_row/1062> ex:ID "CID100104778" ;
+    ex:Name "levodopa/carbidopa" .
+
+<http://example.org/drug_names_row/1063> ex:ID "CID100104799" ;
+    ex:Name "fotemustine" .
+
+<http://example.org/drug_names_row/1064> ex:ID "CID100104849" ;
+    ex:Name "rimonabant" .
+
+<http://example.org/drug_names_row/1065> ex:ID "CID100104865" ;
+    ex:Name "bosentan" .
+
+<http://example.org/drug_names_row/1066> ex:ID "CID100105145" ;
+    ex:Name "68Ga" .
+
+<http://example.org/drug_names_row/1067> ex:ID "CID100107694" ;
+    ex:Name "Diane-35" .
+
+<http://example.org/drug_names_row/1068> ex:ID "CID100107969" ;
+    ex:Name "FTY720" .
+
+<http://example.org/drug_names_row/1069> ex:ID "CID100107994" ;
+    ex:Name "quinaprilat" .
+
+<http://example.org/drug_names_row/107> ex:ID "CID100002156" ;
+    ex:Name "amiodarone" .
+
+<http://example.org/drug_names_row/1070> ex:ID "CID100110634" ;
+    ex:Name "vardenafil" .
+
+<http://example.org/drug_names_row/1071> ex:ID "CID100110635" ;
+    ex:Name "tadalafil" .
+
+<http://example.org/drug_names_row/1072> ex:ID "CID100114709" ;
+    ex:Name "eslicarbazepine" .
+
+<http://example.org/drug_names_row/1073> ex:ID "CID100115237" ;
+    ex:Name "paliperidone" .
+
+<http://example.org/drug_names_row/1074> ex:ID "CID100115355" ;
+    ex:Name "NTBC" .
+
+<http://example.org/drug_names_row/1075> ex:ID "CID100119182" ;
+    ex:Name "clofarabine" .
+
+<http://example.org/drug_names_row/1076> ex:ID "CID100119212" ;
+    ex:Name "benzylpenicilloyl" .
+
+<http://example.org/drug_names_row/1077> ex:ID "CID100119607" ;
+    ex:Name "valdecoxib" .
+
+<http://example.org/drug_names_row/1078> ex:ID "CID100119828" ;
+    ex:Name "parecoxib" .
+
+<http://example.org/drug_names_row/1079> ex:ID "CID100119830" ;
+    ex:Name "tenofovir" .
+
+<http://example.org/drug_names_row/108> ex:ID "CID100002159" ;
+    ex:Name "amisulpride" .
+
+<http://example.org/drug_names_row/1080> ex:ID "CID100121396" ;
+    ex:Name "N-carbamylglutamate" .
+
+<http://example.org/drug_names_row/1081> ex:ID "CID100121749" ;
+    ex:Name "ustekinumab" .
+
+<http://example.org/drug_names_row/1082> ex:ID "CID100121892" ;
+    ex:Name "retigabine" .
+
+<http://example.org/drug_names_row/1083> ex:ID "CID100122197" ;
+    ex:Name "FP-CIT" .
+
+<http://example.org/drug_names_row/1084> ex:ID "CID100122316" ;
+    ex:Name "rasagiline" .
+
+<http://example.org/drug_names_row/1085> ex:ID "CID100123015" ;
+    ex:Name "SU5416" .
+
+<http://example.org/drug_names_row/1086> ex:ID "CID100123597" ;
+    ex:Name "travoprost" .
+
+<http://example.org/drug_names_row/1087> ex:ID "CID100123606" ;
+    ex:Name "almotriptan" .
+
+<http://example.org/drug_names_row/1088> ex:ID "CID100123610" ;
+    ex:Name "Eptifibatide" .
+
+<http://example.org/drug_names_row/1089> ex:ID "CID100123611" ;
+    ex:Name "fondaparinux" .
+
+<http://example.org/drug_names_row/109> ex:ID "CID100002160" ;
+    ex:Name "amitriptyline" .
+
+<http://example.org/drug_names_row/1090> ex:ID "CID100123619" ;
+    ex:Name "etoricoxib" .
+
+<http://example.org/drug_names_row/1091> ex:ID "CID100123620" ;
+    ex:Name "mometasone" .
+
+<http://example.org/drug_names_row/1092> ex:ID "CID100123623" ;
+    ex:Name "Cancidas" .
+
+<http://example.org/drug_names_row/1093> ex:ID "CID100123631" ;
+    ex:Name "gefitinib" .
+
+<http://example.org/drug_names_row/1094> ex:ID "CID100123634" ;
+    ex:Name "Trisequens" .
+
+<http://example.org/drug_names_row/1095> ex:ID "CID100123809" ;
+    ex:Name "Madopar" .
+
+<http://example.org/drug_names_row/1096> ex:ID "CID100124087" ;
+    ex:Name "desloratadine" .
+
+<http://example.org/drug_names_row/1097> ex:ID "CID100125017" ;
+    ex:Name "desvenlafaxine" .
+
+<http://example.org/drug_names_row/1098> ex:ID "CID100125889" ;
+    ex:Name "pregabalin" .
+
+<http://example.org/drug_names_row/1099> ex:ID "CID100127909" ;
+    ex:Name "bimatoprost" .
+
+<http://example.org/drug_names_row/11> ex:ID "CID100000191" ;
+    ex:Name "adenosine" .
+
+<http://example.org/drug_names_row/110> ex:ID "CID100002161" ;
+    ex:Name "amlexanox" .
+
+<http://example.org/drug_names_row/1100> ex:ID "CID100128549" ;
+    ex:Name "trandolaprilat" .
+
+<http://example.org/drug_names_row/1101> ex:ID "CID100129228" ;
+    ex:Name "rufinamide" .
+
+<http://example.org/drug_names_row/1102> ex:ID "CID100129806" ;
+    ex:Name "rosuvastatin" .
+
+<http://example.org/drug_names_row/1103> ex:ID "CID100130564" ;
+    ex:Name "esomeprazole" .
+
+<http://example.org/drug_names_row/1104> ex:ID "CID100130881" ;
+    ex:Name "olmesartan" .
+
+<http://example.org/drug_names_row/1105> ex:ID "CID100131535" ;
+    ex:Name "fosamprenavir" .
+
+<http://example.org/drug_names_row/1106> ex:ID "CID100132804" ;
+    ex:Name "pitavastatin" .
+
+<http://example.org/drug_names_row/1107> ex:ID "CID100132971" ;
+    ex:Name "abiraterone" .
+
+<http://example.org/drug_names_row/1108> ex:ID "CID100132999" ;
+    ex:Name "ivabradine" .
+
+<http://example.org/drug_names_row/1109> ex:ID "CID100134018" ;
+    ex:Name "febuxostat" .
+
+<http://example.org/drug_names_row/111> ex:ID "CID100002162" ;
+    ex:Name "amlodipine" .
+
+<http://example.org/drug_names_row/1110> ex:ID "CID100134019" ;
+    ex:Name "pixantrone" .
+
+<http://example.org/drug_names_row/1111> ex:ID "CID100134780" ;
+    ex:Name "pomalidomide" .
+
+<http://example.org/drug_names_row/1112> ex:ID "CID100135113" ;
+    ex:Name "sacrosidase" .
+
+<http://example.org/drug_names_row/1113> ex:ID "CID100145068" ;
+    ex:Name "nitric" .
+
+<http://example.org/drug_names_row/1114> ex:ID "CID100147740" ;
+    ex:Name "drospirenone" .
+
+<http://example.org/drug_names_row/1115> ex:ID "CID100147912" ;
+    ex:Name "posaconazole" .
+
+<http://example.org/drug_names_row/1116> ex:ID "CID100148121" ;
+    ex:Name "pralatrexate" .
+
+<http://example.org/drug_names_row/1117> ex:ID "CID100148127" ;
+    ex:Name "ospemifene" .
+
+<http://example.org/drug_names_row/1118> ex:ID "CID100148191" ;
+    ex:Name "temsirolimus" .
+
+<http://example.org/drug_names_row/1119> ex:ID "CID100148192" ;
+    ex:Name "atazanavir" .
+
+<http://example.org/drug_names_row/112> ex:ID "CID100002163" ;
+    ex:Name "amobarbital" .
+
+<http://example.org/drug_names_row/1120> ex:ID "CID100148211" ;
+    ex:Name "palonosetron" .
+
+<http://example.org/drug_names_row/1121> ex:ID "CID100150310" ;
+    ex:Name "eplerenone" .
+
+<http://example.org/drug_names_row/1122> ex:ID "CID100150311" ;
+    ex:Name "ezetimibe" .
+
+<http://example.org/drug_names_row/1123> ex:ID "CID100150610" ;
+    ex:Name "ertapenem" .
+
+<http://example.org/drug_names_row/1124> ex:ID "CID100151075" ;
+    ex:Name "nepafenac" .
+
+<http://example.org/drug_names_row/1125> ex:ID "CID100151165" ;
+    ex:Name "aprepitant" .
+
+<http://example.org/drug_names_row/1126> ex:ID "CID100151171" ;
+    ex:Name "conivaptan" .
+
+<http://example.org/drug_names_row/1127> ex:ID "CID100152945" ;
+    ex:Name "dutasteride" .
+
+<http://example.org/drug_names_row/1128> ex:ID "CID100153941" ;
+    ex:Name "entecavir" .
+
+<http://example.org/drug_names_row/1129> ex:ID "CID100153994" ;
+    ex:Name "clevidipine" .
+
+<http://example.org/drug_names_row/113> ex:ID "CID100002168" ;
+    ex:Name "amorolfine" .
+
+<http://example.org/drug_names_row/1130> ex:ID "CID100154058" ;
+    ex:Name "solifenacin" .
+
+<http://example.org/drug_names_row/1131> ex:ID "CID100154256" ;
+    ex:Name "bazedoxifene" .
+
+<http://example.org/drug_names_row/1132> ex:ID "CID100156326" ;
+    ex:Name "asenapine" .
+
+<http://example.org/drug_names_row/1133> ex:ID "CID100156418" ;
+    ex:Name "cinacalcet" .
+
+<http://example.org/drug_names_row/1134> ex:ID "CID100157429" ;
+    ex:Name "gadopentetate" .
+
+<http://example.org/drug_names_row/1135> ex:ID "CID100157688" ;
+    ex:Name "vinflunine" .
+
+<http://example.org/drug_names_row/1136> ex:ID "CID100157920" ;
+    ex:Name "lubiprostone" .
+
+<http://example.org/drug_names_row/1137> ex:ID "CID100157921" ;
+    ex:Name "methyl" .
+
+<http://example.org/drug_names_row/1138> ex:ID "CID100158781" ;
+    ex:Name "olmesartan" .
+
+<http://example.org/drug_names_row/1139> ex:ID "CID100158786" ;
+    ex:Name "pegaptanib" .
+
+<http://example.org/drug_names_row/114> ex:ID "CID100002170" ;
+    ex:Name "amoxapine" .
+
+<http://example.org/drug_names_row/1140> ex:ID "CID100159247" ;
+    ex:Name "sevelamer" .
+
+<http://example.org/drug_names_row/1141> ex:ID "CID100160036" ;
+    ex:Name "MnDPDP" .
+
+<http://example.org/drug_names_row/1142> ex:ID "CID100160051" ;
+    ex:Name "colesevelam" .
+
+<http://example.org/drug_names_row/1143> ex:ID "CID100160352" ;
+    ex:Name "zidovudine/lamivudine" .
+
+<http://example.org/drug_names_row/1144> ex:ID "CID100163296" ;
+    ex:Name "tipranavir" .
+
+<http://example.org/drug_names_row/1145> ex:ID "CID100166548" ;
+    ex:Name "Anidulafungin" .
+
+<http://example.org/drug_names_row/1146> ex:ID "CID100168625" ;
+    ex:Name "poly(styrene" .
+
+<http://example.org/drug_names_row/1147> ex:ID "CID100168924" ;
+    ex:Name "lanthanum" .
+
+<http://example.org/drug_names_row/1148> ex:ID "CID100170361" ;
+    ex:Name "varenicline" .
+
+<http://example.org/drug_names_row/1149> ex:ID "CID100171558" ;
+    ex:Name "Kaluril" .
+
+<http://example.org/drug_names_row/115> ex:ID "CID100002171" ;
+    ex:Name "amoxicillin" .
+
+<http://example.org/drug_names_row/1150> ex:ID "CID100176870" ;
+    ex:Name "erlotinib" .
+
+<http://example.org/drug_names_row/1151> ex:ID "CID100179344" ;
+    ex:Name "eslicarbazepine" .
+
+<http://example.org/drug_names_row/1152> ex:ID "CID100185457" ;
+    ex:Name "S-benzoylmercaptoacetyltriglycine" .
+
+<http://example.org/drug_names_row/1153> ex:ID "CID100192155" ;
+    ex:Name "Prednefrin" .
+
+<http://example.org/drug_names_row/1154> ex:ID "CID100193962" ;
+    ex:Name "etravirine" .
+
+<http://example.org/drug_names_row/1155> ex:ID "CID100197281" ;
+    ex:Name "gadobenate" .
+
+<http://example.org/drug_names_row/1156> ex:ID "CID100197712" ;
+    ex:Name "ambrisentan" .
+
+<http://example.org/drug_names_row/1157> ex:ID "CID100206527" ;
+    ex:Name "L-Dmp" .
+
+<http://example.org/drug_names_row/1158> ex:ID "CID100208898" ;
+    ex:Name "dronedarone" .
+
+<http://example.org/drug_names_row/1159> ex:ID "CID100208902" ;
+    ex:Name "ramelteon" .
+
+<http://example.org/drug_names_row/116> ex:ID "CID100002173" ;
+    ex:Name "ampicillin" .
+
+<http://example.org/drug_names_row/1160> ex:ID "CID100208908" ;
+    ex:Name "lapatinib" .
+
+<http://example.org/drug_names_row/1161> ex:ID "CID100208920" ;
+    ex:Name "NuvaRing" .
+
+<http://example.org/drug_names_row/1162> ex:ID "CID100213023" ;
+    ex:Name "dabigatran" .
+
+<http://example.org/drug_names_row/1163> ex:ID "CID100213039" ;
+    ex:Name "darunavir" .
+
+<http://example.org/drug_names_row/1164> ex:ID "CID100213046" ;
+    ex:Name "lurasidone" .
+
+<http://example.org/drug_names_row/1165> ex:ID "CID100214339" ;
+    ex:Name "luliconazole" .
+
+<http://example.org/drug_names_row/1166> ex:ID "CID100216209" ;
+    ex:Name "aliskiren" .
+
+<http://example.org/drug_names_row/1167> ex:ID "CID100216210" ;
+    ex:Name "dabigatran" .
+
+<http://example.org/drug_names_row/1168> ex:ID "CID100216235" ;
+    ex:Name "sitaxsentan" .
+
+<http://example.org/drug_names_row/1169> ex:ID "CID100216237" ;
+    ex:Name "tolvaptan" .
+
+<http://example.org/drug_names_row/117> ex:ID "CID100002177" ;
+    ex:Name "amprenavir" .
+
+<http://example.org/drug_names_row/1170> ex:ID "CID100216239" ;
+    ex:Name "sorafenib" .
+
+<http://example.org/drug_names_row/1171> ex:ID "CID100216258" ;
+    ex:Name "Colimycin" .
+
+<http://example.org/drug_names_row/1172> ex:ID "CID100216326" ;
+    ex:Name "lenalidomide" .
+
+<http://example.org/drug_names_row/1173> ex:ID "CID100216416" ;
+    ex:Name "lasofoxifene" .
+
+<http://example.org/drug_names_row/1174> ex:ID "CID100219024" ;
+    ex:Name "regadenoson" .
+
+<http://example.org/drug_names_row/1175> ex:ID "CID100219078" ;
+    ex:Name "lacosamide" .
+
+<http://example.org/drug_names_row/1176> ex:ID "CID100219084" ;
+    ex:Name "Gd-EOB-DTPA" .
+
+<http://example.org/drug_names_row/1177> ex:ID "CID100219090" ;
+    ex:Name "fosaprepitant" .
+
+<http://example.org/drug_names_row/1178> ex:ID "CID100222786" ;
+    ex:Name "cortisone" .
+
+<http://example.org/drug_names_row/1179> ex:ID "CID100315411" ;
+    ex:Name "18F-FDG" .
+
+<http://example.org/drug_names_row/118> ex:ID "CID100002179" ;
+    ex:Name "amsacrine" .
+
+<http://example.org/drug_names_row/1180> ex:ID "CID100358641" ;
+    ex:Name "trimethoprim-sulfamethoxazole" .
+
+<http://example.org/drug_names_row/1181> ex:ID "CID100441332" ;
+    ex:Name "carboprost" .
+
+<http://example.org/drug_names_row/1182> ex:ID "CID100441382" ;
+    ex:Name "natamycin" .
+
+<http://example.org/drug_names_row/1183> ex:ID "CID100443379" ;
+    ex:Name "CAS" .
+
+<http://example.org/drug_names_row/1184> ex:ID "CID100444006" ;
+    ex:Name "cefditoren" .
+
+<http://example.org/drug_names_row/1185> ex:ID "CID100444013" ;
+    ex:Name "gadoversetamide" .
+
+<http://example.org/drug_names_row/1186> ex:ID "CID100444033" ;
+    ex:Name "ciclesonide" .
+
+<http://example.org/drug_names_row/1187> ex:ID "CID100449193" ;
+    ex:Name "roflumilast" .
+
+<http://example.org/drug_names_row/1188> ex:ID "CID100455658" ;
+    ex:Name "hemin" .
+
+<http://example.org/drug_names_row/1189> ex:ID "CID100477468" ;
+    ex:Name "FK463" .
+
+<http://example.org/drug_names_row/119> ex:ID "CID100002182" ;
+    ex:Name "anagrelide" .
+
+<http://example.org/drug_names_row/1190> ex:ID "CID100483407" ;
+    ex:Name "maraviroc" .
+
+<http://example.org/drug_names_row/1191> ex:ID "CID100489129" ;
+    ex:Name "efinaconazole" .
+
+<http://example.org/drug_names_row/1192> ex:ID "CID100517045" ;
+    ex:Name "sodium" .
+
+<http://example.org/drug_names_row/1193> ex:ID "CID100644241" ;
+    ex:Name "nilotinib" .
+
+<http://example.org/drug_names_row/1194> ex:ID "CID100656628" ;
+    ex:Name "silodosin" .
+
+<http://example.org/drug_names_row/1195> ex:ID "CID100656892" ;
+    ex:Name "TMC207" .
+
+<http://example.org/drug_names_row/1196> ex:ID "CID100657298" ;
+    ex:Name "propylthiouracil" .
+
+<http://example.org/drug_names_row/1197> ex:ID "CID100667490" ;
+    ex:Name "6-mercaptopurine" .
+
+<http://example.org/drug_names_row/1198> ex:ID "CID101349907" ;
+    ex:Name "methimazole" .
+
+<http://example.org/drug_names_row/1199> ex:ID "CID102723601" ;
+    ex:Name "6-thioguanine" .
+
+<http://example.org/drug_names_row/12> ex:ID "CID100000206" ;
+    ex:Name "glucose" .
+
+<http://example.org/drug_names_row/120> ex:ID "CID100002187" ;
+    ex:Name "anastrozole" .
+
+<http://example.org/drug_names_row/1200> ex:ID "CID102761171" ;
+    ex:Name "ethionamide" .
+
+<http://example.org/drug_names_row/1201> ex:ID "CID103006171" ;
+    ex:Name "rilpivirine" .
+
+<http://example.org/drug_names_row/1202> ex:ID "CID103010818" ;
+    ex:Name "d-telaprevir" .
+
+<http://example.org/drug_names_row/1203> ex:ID "CID103038497" ;
+    ex:Name "fospropofol" .
+
+<http://example.org/drug_names_row/1204> ex:ID "CID103052762" ;
+    ex:Name "prucalopride" .
+
+<http://example.org/drug_names_row/1205> ex:ID "CID103055172" ;
+    ex:Name "pimecrolimus" .
+
+<http://example.org/drug_names_row/1206> ex:ID "CID103062316" ;
+    ex:Name "dasatinib" .
+
+<http://example.org/drug_names_row/1207> ex:ID "CID103080904" ;
+    ex:Name "Estrofem" .
+
+<http://example.org/drug_names_row/1208> ex:ID "CID103081276" ;
+    ex:Name "fluticasone/salmeterol" .
+
+<http://example.org/drug_names_row/1209> ex:ID "CID103081361" ;
+    ex:Name "vandetanib" .
+
+<http://example.org/drug_names_row/121> ex:ID "CID100002215" ;
+    ex:Name "apomorphine" .
+
+<http://example.org/drug_names_row/1210> ex:ID "CID103081362" ;
+    ex:Name "telavancin" .
+
+<http://example.org/drug_names_row/1211> ex:ID "CID103081884" ;
+    ex:Name "copolymer" .
+
+<http://example.org/drug_names_row/1212> ex:ID "CID103085017" ;
+    ex:Name "sevelamer" .
+
+<http://example.org/drug_names_row/1213> ex:ID "CID103086257" ;
+    ex:Name "Photofrin" .
+
+<http://example.org/drug_names_row/1214> ex:ID "CID103086685" ;
+    ex:Name "axitinib" .
+
+<http://example.org/drug_names_row/1215> ex:ID "CID103086686" ;
+    ex:Name "sunitinib" .
+
+<http://example.org/drug_names_row/1216> ex:ID "CID103325225" ;
+    ex:Name "ALX" .
+
+<http://example.org/drug_names_row/1217> ex:ID "CID104369359" ;
+    ex:Name "sitagliptin" .
+
+<http://example.org/drug_names_row/1218> ex:ID "CID104474778" ;
+    ex:Name "2-hydroxysuccinaldehyde" .
+
+<http://example.org/drug_names_row/1219> ex:ID "CID104479094" ;
+    ex:Name "doxercalciferol" .
+
+<http://example.org/drug_names_row/122> ex:ID "CID100002216" ;
+    ex:Name "apraclonidine" .
+
+<http://example.org/drug_names_row/1220> ex:ID "CID104479097" ;
+    ex:Name "hydroxocobalamin" .
+
+<http://example.org/drug_names_row/1221> ex:ID "CID104517618" ;
+    ex:Name "sodium" .
+
+<http://example.org/drug_names_row/1222> ex:ID "CID104630253" ;
+    ex:Name "alclometasone" .
+
+<http://example.org/drug_names_row/1223> ex:ID "CID104659568" ;
+    ex:Name "entacapone" .
+
+<http://example.org/drug_names_row/1224> ex:ID "CID104659569" ;
+    ex:Name "tolcapone" .
+
+<http://example.org/drug_names_row/1225> ex:ID "CID105001396" ;
+    ex:Name "warfarin" .
+
+<http://example.org/drug_names_row/1226> ex:ID "CID105251896" ;
+    ex:Name "vildagliptin" .
+
+<http://example.org/drug_names_row/1227> ex:ID "CID105273759" ;
+    ex:Name "abacavir-lamivudine" .
+
+<http://example.org/drug_names_row/1228> ex:ID "CID105277135" ;
+    ex:Name "elvitegravir" .
+
+<http://example.org/drug_names_row/1229> ex:ID "CID105281007" ;
+    ex:Name "dacarbazine" .
+
+<http://example.org/drug_names_row/123> ex:ID "CID100002232" ;
+    ex:Name "argatroban" .
+
+<http://example.org/drug_names_row/1230> ex:ID "CID105310993" ;
+    ex:Name "acipimox" .
+
+<http://example.org/drug_names_row/1231> ex:ID "CID105311167" ;
+    ex:Name "halobetasol" .
+
+<http://example.org/drug_names_row/1232> ex:ID "CID105327147" ;
+    ex:Name "polyoxyethylene" .
+
+<http://example.org/drug_names_row/1233> ex:ID "CID105328940" ;
+    ex:Name "bosutinib" .
+
+<http://example.org/drug_names_row/1234> ex:ID "CID105353894" ;
+    ex:Name "pralidoxime" .
+
+<http://example.org/drug_names_row/1235> ex:ID "CID105353980" ;
+    ex:Name "sulfasalazine" .
+
+<http://example.org/drug_names_row/1236> ex:ID "CID105359596" ;
+    ex:Name "arsenic" .
+
+<http://example.org/drug_names_row/1237> ex:ID "CID105360237" ;
+    ex:Name "Paroven" .
+
+<http://example.org/drug_names_row/1238> ex:ID "CID105361912" ;
+    ex:Name "rifabutin" .
+
+<http://example.org/drug_names_row/1239> ex:ID "CID105361917" ;
+    ex:Name "methylnaltrexone" .
+
+<http://example.org/drug_names_row/124> ex:ID "CID100002244" ;
+    ex:Name "aspirin" .
+
+<http://example.org/drug_names_row/1240> ex:ID "CID105362070" ;
+    ex:Name "balsalazide" .
+
+<http://example.org/drug_names_row/1241> ex:ID "CID105362420" ;
+    ex:Name "verteporfin" .
+
+<http://example.org/drug_names_row/1242> ex:ID "CID105381226" ;
+    ex:Name "rifampicin" .
+
+<http://example.org/drug_names_row/1243> ex:ID "CID105462337" ;
+    ex:Name "olsalazine" .
+
+<http://example.org/drug_names_row/1244> ex:ID "CID105464096" ;
+    ex:Name "ramiprilat" .
+
+<http://example.org/drug_names_row/1245> ex:ID "CID105479141" ;
+    ex:Name "CGP" .
+
+<http://example.org/drug_names_row/1246> ex:ID "CID105487068" ;
+    ex:Name "Mersyndol" .
+
+<http://example.org/drug_names_row/1247> ex:ID "CID105487301" ;
+    ex:Name "tegaserod" .
+
+<http://example.org/drug_names_row/1248> ex:ID "CID105488383" ;
+    ex:Name "ofatumumab" .
+
+<http://example.org/drug_names_row/1249> ex:ID "CID105488547" ;
+    ex:Name "alvimopan" .
+
+<http://example.org/drug_names_row/125> ex:ID "CID100002249" ;
+    ex:Name "atenolol" .
+
+<http://example.org/drug_names_row/1250> ex:ID "CID105493381" ;
+    ex:Name "deferasirox" .
+
+<http://example.org/drug_names_row/1251> ex:ID "CID106102852" ;
+    ex:Name "gadobutrol" .
+
+<http://example.org/drug_names_row/1252> ex:ID "CID106323497" ;
+    ex:Name "rifapentine" .
+
+<http://example.org/drug_names_row/1253> ex:ID "CID106326970" ;
+    ex:Name "selenium" .
+
+<http://example.org/drug_names_row/1254> ex:ID "CID106328144" ;
+    ex:Name "radium" .
+
+<http://example.org/drug_names_row/1255> ex:ID "CID106328526" ;
+    ex:Name "AC1O3HA7" .
+
+<http://example.org/drug_names_row/1256> ex:ID "CID106331630" ;
+    ex:Name "eribulin" .
+
+<http://example.org/drug_names_row/1257> ex:ID "CID106333887" ;
+    ex:Name "auranofin" .
+
+<http://example.org/drug_names_row/1258> ex:ID "CID106398970" ;
+    ex:Name "cefdinir" .
+
+<http://example.org/drug_names_row/1259> ex:ID "CID106433082" ;
+    ex:Name "hexaminolevulinate" .
+
+<http://example.org/drug_names_row/126> ex:ID "CID100002250" ;
+    ex:Name "atorvastatin" .
+
+<http://example.org/drug_names_row/1260> ex:ID "CID106433091" ;
+    ex:Name "tapentadol" .
+
+<http://example.org/drug_names_row/1261> ex:ID "CID106433101" ;
+    ex:Name "tafluprost" .
+
+<http://example.org/drug_names_row/1262> ex:ID "CID106433117" ;
+    ex:Name "indacaterol" .
+
+<http://example.org/drug_names_row/1263> ex:ID "CID106433119" ;
+    ex:Name "rivaroxaban" .
+
+<http://example.org/drug_names_row/1264> ex:ID "CID106435110" ;
+    ex:Name "ivermectin" .
+
+<http://example.org/drug_names_row/1265> ex:ID "CID106437075" ;
+    ex:Name "Timentin" .
+
+<http://example.org/drug_names_row/1266> ex:ID "CID106440191" ;
+    ex:Name "fidaxomicin" .
+
+<http://example.org/drug_names_row/1267> ex:ID "CID106442177" ;
+    ex:Name "everolimus" .
+
+<http://example.org/drug_names_row/1268> ex:ID "CID106445540" ;
+    ex:Name "ixabepilone" .
+
+<http://example.org/drug_names_row/1269> ex:ID "CID106452749" ;
+    ex:Name "Locorten" .
+
+<http://example.org/drug_names_row/127> ex:ID "CID100002265" ;
+    ex:Name "azathioprine" .
+
+<http://example.org/drug_names_row/1270> ex:ID "CID106453361" ;
+    ex:Name "Sativex" .
+
+<http://example.org/drug_names_row/1271> ex:ID "CID106477186" ;
+    ex:Name "delamanid" .
+
+<http://example.org/drug_names_row/1272> ex:ID "CID106850789" ;
+    ex:Name "iron" .
+
+<http://example.org/drug_names_row/1273> ex:ID "CID106850791" ;
+    ex:Name "leuprorelin" .
+
+<http://example.org/drug_names_row/1274> ex:ID "CID106918182" ;
+    ex:Name "strontium" .
+
+<http://example.org/drug_names_row/1275> ex:ID "CID106918313" ;
+    ex:Name "vilazodone" .
+
+<http://example.org/drug_names_row/1276> ex:ID "CID106918366" ;
+    ex:Name "fosaprepitant" .
+
+<http://example.org/drug_names_row/1277> ex:ID "CID106918430" ;
+    ex:Name "ceftobiprole" .
+
+<http://example.org/drug_names_row/1278> ex:ID "CID106918456" ;
+    ex:Name "prasugrel" .
+
+<http://example.org/drug_names_row/1279> ex:ID "CID106918462" ;
+    ex:Name "retapamulin" .
+
+<http://example.org/drug_names_row/128> ex:ID "CID100002266" ;
+    ex:Name "azelaic" .
+
+<http://example.org/drug_names_row/1280> ex:ID "CID106918558" ;
+    ex:Name "fesoterodine" .
+
+<http://example.org/drug_names_row/1281> ex:ID "CID106918584" ;
+    ex:Name "sugammadex" .
+
+<http://example.org/drug_names_row/1282> ex:ID "CID106918638" ;
+    ex:Name "belinostat" .
+
+<http://example.org/drug_names_row/1283> ex:ID "CID106918670" ;
+    ex:Name "PEP005" .
+
+<http://example.org/drug_names_row/1284> ex:ID "CID109794842" ;
+    ex:Name "tasimelteon" .
+
+<http://example.org/drug_names_row/1285> ex:ID "CID109800339" ;
+    ex:Name "olodaterol" .
+
+<http://example.org/drug_names_row/1286> ex:ID "CID109810131" ;
+    ex:Name "ceftaroline" .
+
+<http://example.org/drug_names_row/1287> ex:ID "CID109811221" ;
+    ex:Name "cabazitaxel" .
+
+<http://example.org/drug_names_row/1288> ex:ID "CID109812414" ;
+    ex:Name "dalteparin" .
+
+<http://example.org/drug_names_row/1289> ex:ID "CID109815559" ;
+    ex:Name "trans" .
+
+<http://example.org/drug_names_row/129> ex:ID "CID100002267" ;
+    ex:Name "azelastine" .
+
+<http://example.org/drug_names_row/1290> ex:ID "CID109818231" ;
+    ex:Name "tofacitinib" .
+
+<http://example.org/drug_names_row/1291> ex:ID "CID109825285" ;
+    ex:Name "azilsartan" .
+
+<http://example.org/drug_names_row/1292> ex:ID "CID109831414" ;
+    ex:Name "Lovaza" .
+
+<http://example.org/drug_names_row/1293> ex:ID "CID109831761" ;
+    ex:Name "irbesartan-hydrochlorothiazide" .
+
+<http://example.org/drug_names_row/1294> ex:ID "CID109831783" ;
+    ex:Name "Stalevo" .
+
+<http://example.org/drug_names_row/1295> ex:ID "CID109846180" ;
+    ex:Name "eltrombopag" .
+
+<http://example.org/drug_names_row/1296> ex:ID "CID109853053" ;
+    ex:Name "lomitapide" .
+
+<http://example.org/drug_names_row/1297> ex:ID "CID109854489" ;
+    ex:Name "fluticasone" .
+
+<http://example.org/drug_names_row/1298> ex:ID "CID109865528" ;
+    ex:Name "mirabegron" .
+
+<http://example.org/drug_names_row/1299> ex:ID "CID109869929" ;
+    ex:Name "avanafil" .
+
+<http://example.org/drug_names_row/13> ex:ID "CID100000214" ;
+    ex:Name "PGE1" .
+
+<http://example.org/drug_names_row/130> ex:ID "CID100002269" ;
+    ex:Name "azithromycin" .
+
+<http://example.org/drug_names_row/1300> ex:ID "CID109871419" ;
+    ex:Name "ticagrelor" .
+
+<http://example.org/drug_names_row/1301> ex:ID "CID109887712" ;
+    ex:Name "dapagliflozin" .
+
+<http://example.org/drug_names_row/1302> ex:ID "CID109898619" ;
+    ex:Name "Depreotide" .
+
+<http://example.org/drug_names_row/1303> ex:ID "CID109912092" ;
+    ex:Name "apremilast" .
+
+<http://example.org/drug_names_row/1304> ex:ID "CID109924495" ;
+    ex:Name "perampanel" .
+
+<http://example.org/drug_names_row/1305> ex:ID "CID109930048" ;
+    ex:Name "vernakalant" .
+
+<http://example.org/drug_names_row/1306> ex:ID "CID109940864" ;
+    ex:Name "Benicar-HCT" .
+
+<http://example.org/drug_names_row/1307> ex:ID "CID109941444" ;
+    ex:Name "SOM230" .
+
+<http://example.org/drug_names_row/1308> ex:ID "CID109966051" ;
+    ex:Name "Lu" .
+
+<http://example.org/drug_names_row/1309> ex:ID "CID110028615" ;
+    ex:Name "vorapaxar" .
+
+<http://example.org/drug_names_row/131> ex:ID "CID100002274" ;
+    ex:Name "aztreonam" .
+
+<http://example.org/drug_names_row/1310> ex:ID "CID110096344" ;
+    ex:Name "linagliptin" .
+
+<http://example.org/drug_names_row/1311> ex:ID "CID110107393" ;
+    ex:Name "18F-flutemetamol" .
+
+<http://example.org/drug_names_row/1312> ex:ID "CID110113978" ;
+    ex:Name "pazopanib" .
+
+<http://example.org/drug_names_row/1313> ex:ID "CID110163178" ;
+    ex:Name "afatinib" .
+
+<http://example.org/drug_names_row/1314> ex:ID "CID110178705" ;
+    ex:Name "besifloxacin" .
+
+<http://example.org/drug_names_row/1315> ex:ID "CID110182969" ;
+    ex:Name "apixaban" .
+
+<http://example.org/drug_names_row/1316> ex:ID "CID110324367" ;
+    ex:Name "boceprevir" .
+
+<http://example.org/drug_names_row/1317> ex:ID "CID110465263" ;
+    ex:Name "lorcaserin" .
+
+<http://example.org/drug_names_row/1318> ex:ID "CID110482134" ;
+    ex:Name "glycerol" .
+
+<http://example.org/drug_names_row/1319> ex:ID "CID111001318" ;
+    ex:Name "tafamidis" .
+
+<http://example.org/drug_names_row/132> ex:ID "CID100002284" ;
+    ex:Name "baclofen" .
+
+<http://example.org/drug_names_row/1320> ex:ID "CID111020241" ;
+    ex:Name "ascorbate" .
+
+<http://example.org/drug_names_row/1321> ex:ID "CID111163584" ;
+    ex:Name "alogliptin" .
+
+<http://example.org/drug_names_row/1322> ex:ID "CID111167602" ;
+    ex:Name "regorafenib" .
+
+<http://example.org/drug_names_row/1323> ex:ID "CID111228026" ;
+    ex:Name "aclidinium" .
+
+<http://example.org/drug_names_row/1324> ex:ID "CID111234049" ;
+    ex:Name "TR-700" .
+
+<http://example.org/drug_names_row/1325> ex:ID "CID111235728" ;
+    ex:Name "Saxagliptin" .
+
+<http://example.org/drug_names_row/1326> ex:ID "CID111238823" ;
+    ex:Name "azilsartan" .
+
+<http://example.org/drug_names_row/1327> ex:ID "CID111254352" ;
+    ex:Name "sodium" .
+
+<http://example.org/drug_names_row/1328> ex:ID "CID111304743" ;
+    ex:Name "riociguat" .
+
+<http://example.org/drug_names_row/1329> ex:ID "CID111499245" ;
+    ex:Name "AN2690" .
+
+<http://example.org/drug_names_row/133> ex:ID "CID100002307" ;
+    ex:Name "beclomethasone" .
+
+<http://example.org/drug_names_row/1330> ex:ID "CID111501341" ;
+    ex:Name "florbetaben" .
+
+<http://example.org/drug_names_row/1331> ex:ID "CID111505907" ;
+    ex:Name "Zyprexa" .
+
+<http://example.org/drug_names_row/1332> ex:ID "CID111519069" ;
+    ex:Name "umeclidinium" .
+
+<http://example.org/drug_names_row/1333> ex:ID "CID111531537" ;
+    ex:Name "eliglustat" .
+
+<http://example.org/drug_names_row/1334> ex:ID "CID111556711" ;
+    ex:Name "Carfilzomib" .
+
+<http://example.org/drug_names_row/1335> ex:ID "CID111593706" ;
+    ex:Name "sevelamer" .
+
+<http://example.org/drug_names_row/1336> ex:ID "CID111597571" ;
+    ex:Name "crizotinib" .
+
+<http://example.org/drug_names_row/1337> ex:ID "CID111597697" ;
+    ex:Name "lisdexamfetamine" .
+
+<http://example.org/drug_names_row/1338> ex:ID "CID111672461" ;
+    ex:Name "gadofosveset" .
+
+<http://example.org/drug_names_row/1339> ex:ID "CID111707110" ;
+    ex:Name "trametinib" .
+
+<http://example.org/drug_names_row/134> ex:ID "CID100002308" ;
+    ex:Name "beclomethasone" .
+
+<http://example.org/drug_names_row/1340> ex:ID "CID111722286" ;
+    ex:Name "spinosad" .
+
+<http://example.org/drug_names_row/1341> ex:ID "CID111947681" ;
+    ex:Name "nitroprusside" .
+
+<http://example.org/drug_names_row/1342> ex:ID "CID111949646" ;
+    ex:Name "empagliflozin" .
+
+<http://example.org/drug_names_row/1343> ex:ID "CID111979316" ;
+    ex:Name "vasopressin" .
+
+<http://example.org/drug_names_row/1344> ex:ID "CID113559279" ;
+    ex:Name "ulipristal" .
+
+<http://example.org/drug_names_row/1345> ex:ID "CID115951529" ;
+    ex:Name "MDV3100" .
+
+<http://example.org/drug_names_row/1346> ex:ID "CID116004692" ;
+    ex:Name "macitentan" .
+
+<http://example.org/drug_names_row/1347> ex:ID "CID116065945" ;
+    ex:Name "TMC435" .
+
+<http://example.org/drug_names_row/1348> ex:ID "CID116126651" ;
+    ex:Name "PCI-32765" .
+
+<http://example.org/drug_names_row/1349> ex:ID "CID116129616" ;
+    ex:Name "salmon" .
+
+<http://example.org/drug_names_row/135> ex:ID "CID100002311" ;
+    ex:Name "benazepril" .
+
+<http://example.org/drug_names_row/1350> ex:ID "CID116129617" ;
+    ex:Name "cosyntropin" .
+
+<http://example.org/drug_names_row/1351> ex:ID "CID116129629" ;
+    ex:Name "LY146032" .
+
+<http://example.org/drug_names_row/1352> ex:ID "CID116129632" ;
+    ex:Name "Nuvocid" .
+
+<http://example.org/drug_names_row/1353> ex:ID "CID116129665" ;
+    ex:Name "Vitrum" .
+
+<http://example.org/drug_names_row/1354> ex:ID "CID116129672" ;
+    ex:Name "Insulin" .
+
+<http://example.org/drug_names_row/1355> ex:ID "CID116129682" ;
+    ex:Name "Forteo" .
+
+<http://example.org/drug_names_row/1356> ex:ID "CID116129690" ;
+    ex:Name "ziconotide" .
+
+<http://example.org/drug_names_row/1357> ex:ID "CID116129701" ;
+    ex:Name "T-A2-3" .
+
+<http://example.org/drug_names_row/1358> ex:ID "CID116129703" ;
+    ex:Name "Revasc" .
+
+<http://example.org/drug_names_row/1359> ex:ID "CID116129704" ;
+    ex:Name "Bivalirudin" .
+
+<http://example.org/drug_names_row/136> ex:ID "CID100002315" ;
+    ex:Name "bendrofluazide" .
+
+<http://example.org/drug_names_row/1360> ex:ID "CID116130199" ;
+    ex:Name "Enfuvirtide" .
+
+<http://example.org/drug_names_row/1361> ex:ID "CID116130295" ;
+    ex:Name "BPTI" .
+
+<http://example.org/drug_names_row/1362> ex:ID "CID116130957" ;
+    ex:Name "Org" .
+
+<http://example.org/drug_names_row/1363> ex:ID "CID116131215" ;
+    ex:Name "Abarelix" .
+
+<http://example.org/drug_names_row/1364> ex:ID "CID116131310" ;
+    ex:Name "hepatitis" .
+
+<http://example.org/drug_names_row/1365> ex:ID "CID116132265" ;
+    ex:Name "ACTH(1-39" .
+
+<http://example.org/drug_names_row/1366> ex:ID "CID116132283" ;
+    ex:Name "glucagon" .
+
+<http://example.org/drug_names_row/1367> ex:ID "CID116132344" ;
+    ex:Name "oCRH" .
+
+<http://example.org/drug_names_row/1368> ex:ID "CID116132418" ;
+    ex:Name "NovoLog" .
+
+<http://example.org/drug_names_row/1369> ex:ID "CID116132438" ;
+    ex:Name "Humalog" .
+
+<http://example.org/drug_names_row/137> ex:ID "CID100002337" ;
+    ex:Name "benzocaine" .
+
+<http://example.org/drug_names_row/1370> ex:ID "CID116132441" ;
+    ex:Name "Refludan" .
+
+<http://example.org/drug_names_row/1371> ex:ID "CID116132446" ;
+    ex:Name "Symlin" .
+
+<http://example.org/drug_names_row/1372> ex:ID "CID116134956" ;
+    ex:Name "liraglutide" .
+
+<http://example.org/drug_names_row/1373> ex:ID "CID116136245" ;
+    ex:Name "degarelix" .
+
+<http://example.org/drug_names_row/1374> ex:ID "CID116137271" ;
+    ex:Name "insulin" .
+
+<http://example.org/drug_names_row/1375> ex:ID "CID116139342" ;
+    ex:Name "Lyxumia" .
+
+<http://example.org/drug_names_row/1376> ex:ID "CID116139605" ;
+    ex:Name "teduglutide" .
+
+<http://example.org/drug_names_row/1377> ex:ID "CID116156130" ;
+    ex:Name "exenatide" .
+
+<http://example.org/drug_names_row/1378> ex:ID "CID116158207" ;
+    ex:Name "linaclotide" .
+
+<http://example.org/drug_names_row/1379> ex:ID "CID116158473" ;
+    ex:Name "o291" .
+
+<http://example.org/drug_names_row/138> ex:ID "CID100002341" ;
+    ex:Name "benzphetamine" .
+
+<http://example.org/drug_names_row/1380> ex:ID "CID116213095" ;
+    ex:Name "pentastarch" .
+
+<http://example.org/drug_names_row/1381> ex:ID "CID116220172" ;
+    ex:Name "ivacaftor" .
+
+<http://example.org/drug_names_row/1382> ex:ID "CID117754772" ;
+    ex:Name "ruxolitinib" .
+
+<http://example.org/drug_names_row/1383> ex:ID "CID119371515" ;
+    ex:Name "alcaftadine" .
+
+<http://example.org/drug_names_row/1384> ex:ID "CID122834577" ;
+    ex:Name "nesiritide" .
+
+<http://example.org/drug_names_row/1385> ex:ID "CID123668479" ;
+    ex:Name "raltegravir" .
+
+<http://example.org/drug_names_row/1386> ex:ID "CID123689036" ;
+    ex:Name "pertechnetate" .
+
+<http://example.org/drug_names_row/1387> ex:ID "CID123690938" ;
+    ex:Name "piroxicam" .
+
+<http://example.org/drug_names_row/1388> ex:ID "CID124762228" ;
+    ex:Name "Azarga" .
+
+<http://example.org/drug_names_row/1389> ex:ID "CID124776445" ;
+    ex:Name "vismodegib" .
+
+<http://example.org/drug_names_row/139> ex:ID "CID100002344" ;
+    ex:Name "benztropine" .
+
+<http://example.org/drug_names_row/1390> ex:ID "CID124812758" ;
+    ex:Name "canagliflozin" .
+
+<http://example.org/drug_names_row/1391> ex:ID "CID124822371" ;
+    ex:Name "florbetapir" .
+
+<http://example.org/drug_names_row/1392> ex:ID "CID124826799" ;
+    ex:Name "ponatinib" .
+
+<http://example.org/drug_names_row/1393> ex:ID "CID124838347" ;
+    ex:Name "glucagon" .
+
+<http://example.org/drug_names_row/1394> ex:ID "CID124846132" ;
+    ex:Name "hetastarch" .
+
+<http://example.org/drug_names_row/1395> ex:ID "CID124950485" ;
+    ex:Name "cobicistat" .
+
+<http://example.org/drug_names_row/1396> ex:ID "CID124965990" ;
+    ex:Name "suvorexant" .
+
+<http://example.org/drug_names_row/1397> ex:ID "CID125074470" ;
+    ex:Name "Triptorelin" .
+
+<http://example.org/drug_names_row/1398> ex:ID "CID125074886" ;
+    ex:Name "cetrorelix" .
+
+<http://example.org/drug_names_row/1399> ex:ID "CID125077405" ;
+    ex:Name "Nafarelin" .
+
+<http://example.org/drug_names_row/14> ex:ID "CID100000222" ;
+    ex:Name "ammonia" .
+
+<http://example.org/drug_names_row/140> ex:ID "CID100002345" ;
+    ex:Name "benzyl" .
+
+<http://example.org/drug_names_row/1400> ex:ID "CID125077993" ;
+    ex:Name "Histrelin" .
+
+<http://example.org/drug_names_row/1401> ex:ID "CID125094462" ;
+    ex:Name "sofosbuvir" .
+
+<http://example.org/drug_names_row/1402> ex:ID "CID125102847" ;
+    ex:Name "cabozantinib" .
+
+<http://example.org/drug_names_row/1403> ex:ID "CID125880656" ;
+    ex:Name "doxycycline" .
+
+<http://example.org/drug_names_row/1404> ex:ID "CID125880664" ;
+    ex:Name "tetracycline" .
+
+<http://example.org/drug_names_row/1405> ex:ID "CID126275995" ;
+    ex:Name "minocycline" .
+
+<http://example.org/drug_names_row/1406> ex:ID "CID140468184" ;
+    ex:Name "acenocoumarol" .
+
+<http://example.org/drug_names_row/1407> ex:ID "CID142611257" ;
+    ex:Name "vemurafenib" .
+
+<http://example.org/drug_names_row/1408> ex:ID "CID144134877" ;
+    ex:Name "oxytetracycline" .
+
+<http://example.org/drug_names_row/1409> ex:ID "CID144146714" ;
+    ex:Name "Lantus" .
+
+<http://example.org/drug_names_row/141> ex:ID "CID100002349" ;
+    ex:Name "penicillin" .
+
+<http://example.org/drug_names_row/1410> ex:ID "CID144201342" ;
+    ex:Name "tesamorelin" .
+
+<http://example.org/drug_names_row/1411> ex:ID "CID144201343" ;
+    ex:Name "ecallantide" .
+
+<http://example.org/drug_names_row/1412> ex:ID "CID144462760" ;
+    ex:Name "dabrafenib" .
+
+<http://example.org/drug_names_row/1413> ex:ID "CID144564107" ;
+    ex:Name "mipomersen" .
+
+<http://example.org/drug_names_row/1414> ex:ID "CID144564722" ;
+    ex:Name "Promacta" .
+
+<http://example.org/drug_names_row/1415> ex:ID "CID144567678" ;
+    ex:Name "dalbavancin" .
+
+<http://example.org/drug_names_row/1416> ex:ID "CID146181941" ;
+    ex:Name "Signifor" .
+
+<http://example.org/drug_names_row/1417> ex:ID "CID146216142" ;
+    ex:Name "dolutegravir" .
+
+<http://example.org/drug_names_row/1418> ex:ID "CID151508717" ;
+    ex:Name "tenoxicam" .
+
+<http://example.org/drug_names_row/1419> ex:ID "CID151601240" ;
+    ex:Name "demeclocycline" .
+
+<http://example.org/drug_names_row/142> ex:ID "CID100002350" ;
+    ex:Name "bepotastine" .
+
+<http://example.org/drug_names_row/1420> ex:ID "CID153477714" ;
+    ex:Name "heparin" .
+
+<http://example.org/drug_names_row/1421> ex:ID "CID153627505" ;
+    ex:Name "hydroxypropyl" .
+
+<http://example.org/drug_names_row/1422> ex:ID "CID154677977" ;
+    ex:Name "A77" .
+
+<http://example.org/drug_names_row/1423> ex:ID "CID154681041" ;
+    ex:Name "tigecycline" .
+
+<http://example.org/drug_names_row/1424> ex:ID "CID154682541" ;
+    ex:Name "doxycycline" .
+
+<http://example.org/drug_names_row/1425> ex:ID "CID154687131" ;
+    ex:Name "lymecycline" .
+
+<http://example.org/drug_names_row/1426> ex:ID "CID156603655" ;
+    ex:Name "pegaptanib" .
+
+<http://example.org/drug_names_row/1427> ex:ID "CID156842239" ;
+    ex:Name "n-3" .
+
+<http://example.org/drug_names_row/1428> ex:ID "CID170683024" ;
+    ex:Name "x" .
+
+<http://example.org/drug_names_row/1429> ex:ID "CID170695640" ;
+    ex:Name "colestyramine" .
+
+<http://example.org/drug_names_row/143> ex:ID "CID100002351" ;
+    ex:Name "bepridil" .
+
+<http://example.org/drug_names_row/1430> ex:ID "CID171306834" ;
+    ex:Name "K779" .
+
+<http://example.org/drug_names_row/144> ex:ID "CID100002366" ;
+    ex:Name "betahistine" .
+
+<http://example.org/drug_names_row/145> ex:ID "CID100002367" ;
+    ex:Name "dexamethasone" .
+
+<http://example.org/drug_names_row/146> ex:ID "CID100002369" ;
+    ex:Name "betaxolol" .
+
+<http://example.org/drug_names_row/147> ex:ID "CID100002370" ;
+    ex:Name "bethanechol" .
+
+<http://example.org/drug_names_row/148> ex:ID "CID100002375" ;
+    ex:Name "bicalutamide" .
+
+<http://example.org/drug_names_row/149> ex:ID "CID100002391" ;
+    ex:Name "bisacodyl" .
+
+<http://example.org/drug_names_row/15> ex:ID "CID100000232" ;
+    ex:Name "arginine" .
+
+<http://example.org/drug_names_row/150> ex:ID "CID100002405" ;
+    ex:Name "bisoprolol" .
+
+<http://example.org/drug_names_row/151> ex:ID "CID100002431" ;
+    ex:Name "bretylium" .
+
+<http://example.org/drug_names_row/152> ex:ID "CID100002435" ;
+    ex:Name "brimonidine" .
+
+<http://example.org/drug_names_row/153> ex:ID "CID100002441" ;
+    ex:Name "bromazepam" .
+
+<http://example.org/drug_names_row/154> ex:ID "CID100002442" ;
+    ex:Name "bromhexine" .
+
+<http://example.org/drug_names_row/155> ex:ID "CID100002443" ;
+    ex:Name "bromocriptine" .
+
+<http://example.org/drug_names_row/156> ex:ID "CID100002462" ;
+    ex:Name "budesonide" .
+
+<http://example.org/drug_names_row/157> ex:ID "CID100002471" ;
+    ex:Name "bumetanide" .
+
+<http://example.org/drug_names_row/158> ex:ID "CID100002474" ;
+    ex:Name "bupivacaine" .
+
+<http://example.org/drug_names_row/159> ex:ID "CID100002476" ;
+    ex:Name "buprenorphine" .
+
+<http://example.org/drug_names_row/16> ex:ID "CID100000244" ;
+    ex:Name "benzyl" .
+
+<http://example.org/drug_names_row/160> ex:ID "CID100002477" ;
+    ex:Name "buspirone" .
+
+<http://example.org/drug_names_row/161> ex:ID "CID100002478" ;
+    ex:Name "busulfan" .
+
+<http://example.org/drug_names_row/162> ex:ID "CID100002479" ;
+    ex:Name "butabarbital" .
+
+<http://example.org/drug_names_row/163> ex:ID "CID100002484" ;
+    ex:Name "butenafine" .
+
+<http://example.org/drug_names_row/164> ex:ID "CID100002487" ;
+    ex:Name "butorphanol" .
+
+<http://example.org/drug_names_row/165> ex:ID "CID100002512" ;
+    ex:Name "cabergoline" .
+
+<http://example.org/drug_names_row/166> ex:ID "CID100002519" ;
+    ex:Name "caffeine" .
+
+<http://example.org/drug_names_row/167> ex:ID "CID100002520" ;
+    ex:Name "verapamil" .
+
+<http://example.org/drug_names_row/168> ex:ID "CID100002522" ;
+    ex:Name "calcipotriol" .
+
+<http://example.org/drug_names_row/169> ex:ID "CID100002524" ;
+    ex:Name "1,25(OH)2D3" .
+
+<http://example.org/drug_names_row/17> ex:ID "CID100000247" ;
+    ex:Name "betaine" .
+
+<http://example.org/drug_names_row/170> ex:ID "CID100002540" ;
+    ex:Name "candesartan" .
+
+<http://example.org/drug_names_row/171> ex:ID "CID100002541" ;
+    ex:Name "candesartan" .
+
+<http://example.org/drug_names_row/172> ex:ID "CID100002547" ;
+    ex:Name "capreomycin" .
+
+<http://example.org/drug_names_row/173> ex:ID "CID100002548" ;
+    ex:Name "capsaicin" .
+
+<http://example.org/drug_names_row/174> ex:ID "CID100002550" ;
+    ex:Name "captopril" .
+
+<http://example.org/drug_names_row/175> ex:ID "CID100002551" ;
+    ex:Name "carbachol" .
+
+<http://example.org/drug_names_row/176> ex:ID "CID100002554" ;
+    ex:Name "carbamazepine" .
+
+<http://example.org/drug_names_row/177> ex:ID "CID100002559" ;
+    ex:Name "carbenicillin" .
+
+<http://example.org/drug_names_row/178> ex:ID "CID100002563" ;
+    ex:Name "carbidopa" .
+
+<http://example.org/drug_names_row/179> ex:ID "CID100002564" ;
+    ex:Name "carbinoxamine" .
+
+<http://example.org/drug_names_row/18> ex:ID "CID100000271" ;
+    ex:Name "calcium" .
+
+<http://example.org/drug_names_row/180> ex:ID "CID100002576" ;
+    ex:Name "carisoprodol" .
+
+<http://example.org/drug_names_row/181> ex:ID "CID100002578" ;
+    ex:Name "BCNU" .
+
+<http://example.org/drug_names_row/182> ex:ID "CID100002583" ;
+    ex:Name "carteolol" .
+
+<http://example.org/drug_names_row/183> ex:ID "CID100002585" ;
+    ex:Name "carvedilol" .
+
+<http://example.org/drug_names_row/184> ex:ID "CID100002609" ;
+    ex:Name "cefaclor" .
+
+<http://example.org/drug_names_row/185> ex:ID "CID100002610" ;
+    ex:Name "cefadroxil" .
+
+<http://example.org/drug_names_row/186> ex:ID "CID100002617" ;
+    ex:Name "cefazolin" .
+
+<http://example.org/drug_names_row/187> ex:ID "CID100002622" ;
+    ex:Name "cefepime" .
+
+<http://example.org/drug_names_row/188> ex:ID "CID100002631" ;
+    ex:Name "cefotaxime" .
+
+<http://example.org/drug_names_row/189> ex:ID "CID100002637" ;
+    ex:Name "cefoxitin" .
+
+<http://example.org/drug_names_row/19> ex:ID "CID100000297" ;
+    ex:Name "graphene" .
+
+<http://example.org/drug_names_row/190> ex:ID "CID100002646" ;
+    ex:Name "cefprozil" .
+
+<http://example.org/drug_names_row/191> ex:ID "CID100002650" ;
+    ex:Name "ceftazidime" .
+
+<http://example.org/drug_names_row/192> ex:ID "CID100002654" ;
+    ex:Name "cephem" .
+
+<http://example.org/drug_names_row/193> ex:ID "CID100002655" ;
+    ex:Name "ceftizoxime" .
+
+<http://example.org/drug_names_row/194> ex:ID "CID100002656" ;
+    ex:Name "ceftriaxone" .
+
+<http://example.org/drug_names_row/195> ex:ID "CID100002658" ;
+    ex:Name "cefuroxime" .
+
+<http://example.org/drug_names_row/196> ex:ID "CID100002662" ;
+    ex:Name "celecoxib" .
+
+<http://example.org/drug_names_row/197> ex:ID "CID100002663" ;
+    ex:Name "celiprolol" .
+
+<http://example.org/drug_names_row/198> ex:ID "CID100002666" ;
+    ex:Name "cephalexin" .
+
+<http://example.org/drug_names_row/199> ex:ID "CID100002675" ;
+    ex:Name "cefixime" .
+
+<http://example.org/drug_names_row/2> ex:ID "CID100000119" ;
+    ex:Name "gamma-aminobutyric" .
+
+<http://example.org/drug_names_row/20> ex:ID "CID100000298" ;
+    ex:Name "chloramphenicol" .
+
+<http://example.org/drug_names_row/200> ex:ID "CID100002676" ;
+    ex:Name "cerivastatin" .
+
+<http://example.org/drug_names_row/201> ex:ID "CID100002678" ;
+    ex:Name "cetirizine" .
+
+<http://example.org/drug_names_row/202> ex:ID "CID100002684" ;
+    ex:Name "cevimeline" .
+
+<http://example.org/drug_names_row/203> ex:ID "CID100002708" ;
+    ex:Name "chlorambucil" .
+
+<http://example.org/drug_names_row/204> ex:ID "CID100002712" ;
+    ex:Name "chlordiazepoxide" .
+
+<http://example.org/drug_names_row/205> ex:ID "CID100002713" ;
+    ex:Name "chlorhexidine" .
+
+<http://example.org/drug_names_row/206> ex:ID "CID100002719" ;
+    ex:Name "chloroquine" .
+
+<http://example.org/drug_names_row/207> ex:ID "CID100002720" ;
+    ex:Name "thiazide" .
+
+<http://example.org/drug_names_row/208> ex:ID "CID100002725" ;
+    ex:Name "chlorpheniramine" .
+
+<http://example.org/drug_names_row/209> ex:ID "CID100002726" ;
+    ex:Name "chlorpromazine" .
+
+<http://example.org/drug_names_row/21> ex:ID "CID100000303" ;
+    ex:Name "bile" .
+
+<http://example.org/drug_names_row/210> ex:ID "CID100002727" ;
+    ex:Name "chlorpropamide" .
+
+<http://example.org/drug_names_row/211> ex:ID "CID100002732" ;
+    ex:Name "chlorthalidone" .
+
+<http://example.org/drug_names_row/212> ex:ID "CID100002733" ;
+    ex:Name "chlorzoxazone" .
+
+<http://example.org/drug_names_row/213> ex:ID "CID100002749" ;
+    ex:Name "ciclopirox" .
+
+<http://example.org/drug_names_row/214> ex:ID "CID100002751" ;
+    ex:Name "cilazapril" .
+
+<http://example.org/drug_names_row/215> ex:ID "CID100002754" ;
+    ex:Name "cilostazol" .
+
+<http://example.org/drug_names_row/216> ex:ID "CID100002756" ;
+    ex:Name "cimetidine" .
+
+<http://example.org/drug_names_row/217> ex:ID "CID100002762" ;
+    ex:Name "cinoxacin" .
+
+<http://example.org/drug_names_row/218> ex:ID "CID100002764" ;
+    ex:Name "ciprofloxacin" .
+
+<http://example.org/drug_names_row/219> ex:ID "CID100002767" ;
+    ex:Name "cisplatin" .
+
+<http://example.org/drug_names_row/22> ex:ID "CID100000305" ;
+    ex:Name "choline" .
+
+<http://example.org/drug_names_row/220> ex:ID "CID100002771" ;
+    ex:Name "citalopram" .
+
+<http://example.org/drug_names_row/221> ex:ID "CID100002781" ;
+    ex:Name "clemastine" .
+
+<http://example.org/drug_names_row/222> ex:ID "CID100002786" ;
+    ex:Name "clindamycin" .
+
+<http://example.org/drug_names_row/223> ex:ID "CID100002789" ;
+    ex:Name "clobazam" .
+
+<http://example.org/drug_names_row/224> ex:ID "CID100002791" ;
+    ex:Name "clobetasol" .
+
+<http://example.org/drug_names_row/225> ex:ID "CID100002792" ;
+    ex:Name "clobetasone" .
+
+<http://example.org/drug_names_row/226> ex:ID "CID100002794" ;
+    ex:Name "clofazimine" .
+
+<http://example.org/drug_names_row/227> ex:ID "CID100002800" ;
+    ex:Name "clomiphene" .
+
+<http://example.org/drug_names_row/228> ex:ID "CID100002801" ;
+    ex:Name "clomipramine" .
+
+<http://example.org/drug_names_row/229> ex:ID "CID100002802" ;
+    ex:Name "clonazepam" .
+
+<http://example.org/drug_names_row/23> ex:ID "CID100000311" ;
+    ex:Name "citric" .
+
+<http://example.org/drug_names_row/230> ex:ID "CID100002803" ;
+    ex:Name "clonidine" .
+
+<http://example.org/drug_names_row/231> ex:ID "CID100002806" ;
+    ex:Name "clopidogrel" .
+
+<http://example.org/drug_names_row/232> ex:ID "CID100002809" ;
+    ex:Name "clorazepate" .
+
+<http://example.org/drug_names_row/233> ex:ID "CID100002812" ;
+    ex:Name "clotrimazole" .
+
+<http://example.org/drug_names_row/234> ex:ID "CID100002818" ;
+    ex:Name "clozapine" .
+
+<http://example.org/drug_names_row/235> ex:ID "CID100002826" ;
+    ex:Name "cocaine" .
+
+<http://example.org/drug_names_row/236> ex:ID "CID100002828" ;
+    ex:Name "codeine" .
+
+<http://example.org/drug_names_row/237> ex:ID "CID100002833" ;
+    ex:Name "colchicine" .
+
+<http://example.org/drug_names_row/238> ex:ID "CID100002881" ;
+    ex:Name "sodium" .
+
+<http://example.org/drug_names_row/239> ex:ID "CID100002883" ;
+    ex:Name "crotamiton" .
+
+<http://example.org/drug_names_row/24> ex:ID "CID100000312" ;
+    ex:Name "chloride" .
+
+<http://example.org/drug_names_row/240> ex:ID "CID100002891" ;
+    ex:Name "cyanocobalamin" .
+
+<http://example.org/drug_names_row/241> ex:ID "CID100002895" ;
+    ex:Name "cyclobenzaprine" .
+
+<http://example.org/drug_names_row/242> ex:ID "CID100002905" ;
+    ex:Name "cyclopentolate" .
+
+<http://example.org/drug_names_row/243> ex:ID "CID100002907" ;
+    ex:Name "cyclophosphamide" .
+
+<http://example.org/drug_names_row/244> ex:ID "CID100002909" ;
+    ex:Name "v" .
+
+<http://example.org/drug_names_row/245> ex:ID "CID100002913" ;
+    ex:Name "cyproheptadine" .
+
+<http://example.org/drug_names_row/246> ex:ID "CID100002914" ;
+    ex:Name "cyproterone" .
+
+<http://example.org/drug_names_row/247> ex:ID "CID100002949" ;
+    ex:Name "danazol" .
+
+<http://example.org/drug_names_row/248> ex:ID "CID100002951" ;
+    ex:Name "dantrolene" .
+
+<http://example.org/drug_names_row/249> ex:ID "CID100002955" ;
+    ex:Name "dapsone" .
+
+<http://example.org/drug_names_row/25> ex:ID "CID100000338" ;
+    ex:Name "salicylate" .
+
+<http://example.org/drug_names_row/250> ex:ID "CID100002958" ;
+    ex:Name "anthracycline" .
+
+<http://example.org/drug_names_row/251> ex:ID "CID100002972" ;
+    ex:Name "deferiprone" .
+
+<http://example.org/drug_names_row/252> ex:ID "CID100002973" ;
+    ex:Name "deferoxamine" .
+
+<http://example.org/drug_names_row/253> ex:ID "CID100002978" ;
+    ex:Name "delta" .
+
+<http://example.org/drug_names_row/254> ex:ID "CID100002995" ;
+    ex:Name "desipramine" .
+
+<http://example.org/drug_names_row/255> ex:ID "CID100003000" ;
+    ex:Name "desoximetasone" .
+
+<http://example.org/drug_names_row/256> ex:ID "CID100003003" ;
+    ex:Name "dexamethasone" .
+
+<http://example.org/drug_names_row/257> ex:ID "CID100003007" ;
+    ex:Name "amphetamine" .
+
+<http://example.org/drug_names_row/258> ex:ID "CID100003008" ;
+    ex:Name "dextromethorphan" .
+
+<http://example.org/drug_names_row/259> ex:ID "CID100003009" ;
+    ex:Name "DFMO" .
+
+<http://example.org/drug_names_row/26> ex:ID "CID100000401" ;
+    ex:Name "D-cycloserine" .
+
+<http://example.org/drug_names_row/260> ex:ID "CID100003015" ;
+    ex:Name "cyproterone" .
+
+<http://example.org/drug_names_row/261> ex:ID "CID100003016" ;
+    ex:Name "diazepam" .
+
+<http://example.org/drug_names_row/262> ex:ID "CID100003019" ;
+    ex:Name "diazoxide" .
+
+<http://example.org/drug_names_row/263> ex:ID "CID100003032" ;
+    ex:Name "diclofenac" .
+
+<http://example.org/drug_names_row/264> ex:ID "CID100003038" ;
+    ex:Name "dichlorphenamide" .
+
+<http://example.org/drug_names_row/265> ex:ID "CID100003040" ;
+    ex:Name "dicloxacillin" .
+
+<http://example.org/drug_names_row/266> ex:ID "CID100003042" ;
+    ex:Name "dicyclomine" .
+
+<http://example.org/drug_names_row/267> ex:ID "CID100003043" ;
+    ex:Name "didanosine" .
+
+<http://example.org/drug_names_row/268> ex:ID "CID100003053" ;
+    ex:Name "diethylenetriaminepentaacetic" .
+
+<http://example.org/drug_names_row/269> ex:ID "CID100003056" ;
+    ex:Name "diflorasone" .
+
+<http://example.org/drug_names_row/27> ex:ID "CID100000444" ;
+    ex:Name "bupropion" .
+
+<http://example.org/drug_names_row/270> ex:ID "CID100003059" ;
+    ex:Name "diflunisal" .
+
+<http://example.org/drug_names_row/271> ex:ID "CID100003060" ;
+    ex:Name "epitopic" .
+
+<http://example.org/drug_names_row/272> ex:ID "CID100003062" ;
+    ex:Name "digoxin" .
+
+<http://example.org/drug_names_row/273> ex:ID "CID100003063" ;
+    ex:Name "dihydrocodeine" .
+
+<http://example.org/drug_names_row/274> ex:ID "CID100003066" ;
+    ex:Name "dihydroergotamine" .
+
+<http://example.org/drug_names_row/275> ex:ID "CID100003075" ;
+    ex:Name "diltiazem" .
+
+<http://example.org/drug_names_row/276> ex:ID "CID100003080" ;
+    ex:Name "dimercaprol" .
+
+<http://example.org/drug_names_row/277> ex:ID "CID100003100" ;
+    ex:Name "diphenhydramine" .
+
+<http://example.org/drug_names_row/278> ex:ID "CID100003105" ;
+    ex:Name "dipivefrin" .
+
+<http://example.org/drug_names_row/279> ex:ID "CID100003108" ;
+    ex:Name "dipyridamole" .
+
+<http://example.org/drug_names_row/28> ex:ID "CID100000450" ;
+    ex:Name "estradiol" .
+
+<http://example.org/drug_names_row/280> ex:ID "CID100003114" ;
+    ex:Name "disopyramide" .
+
+<http://example.org/drug_names_row/281> ex:ID "CID100003117" ;
+    ex:Name "disulfiram" .
+
+<http://example.org/drug_names_row/282> ex:ID "CID100003121" ;
+    ex:Name "valproate" .
+
+<http://example.org/drug_names_row/283> ex:ID "CID100003125" ;
+    ex:Name "alpha-methyl-p-tyrosine" .
+
+<http://example.org/drug_names_row/284> ex:ID "CID100003143" ;
+    ex:Name "docetaxel" .
+
+<http://example.org/drug_names_row/285> ex:ID "CID100003148" ;
+    ex:Name "dolasetron" .
+
+<http://example.org/drug_names_row/286> ex:ID "CID100003151" ;
+    ex:Name "domperidone" .
+
+<http://example.org/drug_names_row/287> ex:ID "CID100003152" ;
+    ex:Name "donepezil" .
+
+<http://example.org/drug_names_row/288> ex:ID "CID100003154" ;
+    ex:Name "dorzolamide" .
+
+<http://example.org/drug_names_row/289> ex:ID "CID100003155" ;
+    ex:Name "dothiepin" .
+
+<http://example.org/drug_names_row/29> ex:ID "CID100000453" ;
+    ex:Name "mannitol" .
+
+<http://example.org/drug_names_row/290> ex:ID "CID100003156" ;
+    ex:Name "doxapram" .
+
+<http://example.org/drug_names_row/291> ex:ID "CID100003157" ;
+    ex:Name "doxazosin" .
+
+<http://example.org/drug_names_row/292> ex:ID "CID100003158" ;
+    ex:Name "doxepin" .
+
+<http://example.org/drug_names_row/293> ex:ID "CID100003168" ;
+    ex:Name "droperidol" .
+
+<http://example.org/drug_names_row/294> ex:ID "CID100003171" ;
+    ex:Name "L-threo-DOPS" .
+
+<http://example.org/drug_names_row/295> ex:ID "CID100003182" ;
+    ex:Name "dyphylline" .
+
+<http://example.org/drug_names_row/296> ex:ID "CID100003198" ;
+    ex:Name "econazole" .
+
+<http://example.org/drug_names_row/297> ex:ID "CID100003199" ;
+    ex:Name "trabectedin" .
+
+<http://example.org/drug_names_row/298> ex:ID "CID100003202" ;
+    ex:Name "edrophonium" .
+
+<http://example.org/drug_names_row/299> ex:ID "CID100003203" ;
+    ex:Name "efavirenz" .
+
+<http://example.org/drug_names_row/3> ex:ID "CID100000137" ;
+    ex:Name "5-aminolevulinic" .
+
+<http://example.org/drug_names_row/30> ex:ID "CID100000564" ;
+    ex:Name "EACA" .
+
+<http://example.org/drug_names_row/300> ex:ID "CID100003209" ;
+    ex:Name "eicosapentaenoic" .
+
+<http://example.org/drug_names_row/301> ex:ID "CID100003219" ;
+    ex:Name "emedastine" .
+
+<http://example.org/drug_names_row/302> ex:ID "CID100003222" ;
+    ex:Name "CAS" .
+
+<http://example.org/drug_names_row/303> ex:ID "CID100003226" ;
+    ex:Name "enflurane" .
+
+<http://example.org/drug_names_row/304> ex:ID "CID100003241" ;
+    ex:Name "epinastine" .
+
+<http://example.org/drug_names_row/305> ex:ID "CID100003249" ;
+    ex:Name "vitamin" .
+
+<http://example.org/drug_names_row/306> ex:ID "CID100003250" ;
+    ex:Name "ergonovine" .
+
+<http://example.org/drug_names_row/307> ex:ID "CID100003251" ;
+    ex:Name "ergotamine" .
+
+<http://example.org/drug_names_row/308> ex:ID "CID100003255" ;
+    ex:Name "erythromycin" .
+
+<http://example.org/drug_names_row/309> ex:ID "CID100003256" ;
+    ex:Name "monomycin" .
+
+<http://example.org/drug_names_row/31> ex:ID "CID100000581" ;
+    ex:Name "N-acetylcysteine" .
+
+<http://example.org/drug_names_row/310> ex:ID "CID100003261" ;
+    ex:Name "estazolam" .
+
+<http://example.org/drug_names_row/311> ex:ID "CID100003263" ;
+    ex:Name "estradiol" .
+
+<http://example.org/drug_names_row/312> ex:ID "CID100003267" ;
+    ex:Name "estradiol" .
+
+<http://example.org/drug_names_row/313> ex:ID "CID100003268" ;
+    ex:Name "estramustine" .
+
+<http://example.org/drug_names_row/314> ex:ID "CID100003269" ;
+    ex:Name "estriol" .
+
+<http://example.org/drug_names_row/315> ex:ID "CID100003278" ;
+    ex:Name "ethacrynic" .
+
+<http://example.org/drug_names_row/316> ex:ID "CID100003279" ;
+    ex:Name "ethambutol" .
+
+<http://example.org/drug_names_row/317> ex:ID "CID100003291" ;
+    ex:Name "ethosuximide" .
+
+<http://example.org/drug_names_row/318> ex:ID "CID100003292" ;
+    ex:Name "ethotoin" .
+
+<http://example.org/drug_names_row/319> ex:ID "CID100003305" ;
+    ex:Name "etidronate" .
+
+<http://example.org/drug_names_row/32> ex:ID "CID100000596" ;
+    ex:Name "cytarabine" .
+
+<http://example.org/drug_names_row/320> ex:ID "CID100003308" ;
+    ex:Name "etodolac" .
+
+<http://example.org/drug_names_row/321> ex:ID "CID100003310" ;
+    ex:Name "etoposide" .
+
+<http://example.org/drug_names_row/322> ex:ID "CID100003324" ;
+    ex:Name "famciclovir" .
+
+<http://example.org/drug_names_row/323> ex:ID "CID100003325" ;
+    ex:Name "famotidine" .
+
+<http://example.org/drug_names_row/324> ex:ID "CID100003331" ;
+    ex:Name "felbamate" .
+
+<http://example.org/drug_names_row/325> ex:ID "CID100003333" ;
+    ex:Name "felodipine" .
+
+<http://example.org/drug_names_row/326> ex:ID "CID100003339" ;
+    ex:Name "fenofibrate" .
+
+<http://example.org/drug_names_row/327> ex:ID "CID100003340" ;
+    ex:Name "fenoldopam" .
+
+<http://example.org/drug_names_row/328> ex:ID "CID100003342" ;
+    ex:Name "fenoprofen" .
+
+<http://example.org/drug_names_row/329> ex:ID "CID100003345" ;
+    ex:Name "fentanyl" .
+
+<http://example.org/drug_names_row/33> ex:ID "CID100000598" ;
+    ex:Name "mesna" .
+
+<http://example.org/drug_names_row/330> ex:ID "CID100003348" ;
+    ex:Name "fexofenadine" .
+
+<http://example.org/drug_names_row/331> ex:ID "CID100003350" ;
+    ex:Name "finasteride" .
+
+<http://example.org/drug_names_row/332> ex:ID "CID100003354" ;
+    ex:Name "flavoxate" .
+
+<http://example.org/drug_names_row/333> ex:ID "CID100003355" ;
+    ex:Name "flecainide" .
+
+<http://example.org/drug_names_row/334> ex:ID "CID100003363" ;
+    ex:Name "FdUrd" .
+
+<http://example.org/drug_names_row/335> ex:ID "CID100003364" ;
+    ex:Name "flucloxacillin" .
+
+<http://example.org/drug_names_row/336> ex:ID "CID100003365" ;
+    ex:Name "fluconazole" .
+
+<http://example.org/drug_names_row/337> ex:ID "CID100003366" ;
+    ex:Name "5-fluorocytosine" .
+
+<http://example.org/drug_names_row/338> ex:ID "CID100003367" ;
+    ex:Name "fludarabine" .
+
+<http://example.org/drug_names_row/339> ex:ID "CID100003368" ;
+    ex:Name "FAMP" .
+
+<http://example.org/drug_names_row/34> ex:ID "CID100000612" ;
+    ex:Name "lactate" .
+
+<http://example.org/drug_names_row/340> ex:ID "CID100003370" ;
+    ex:Name "fludrocortisone" .
+
+<http://example.org/drug_names_row/341> ex:ID "CID100003372" ;
+    ex:Name "fluphenazine" .
+
+<http://example.org/drug_names_row/342> ex:ID "CID100003373" ;
+    ex:Name "flumazenil" .
+
+<http://example.org/drug_names_row/343> ex:ID "CID100003375" ;
+    ex:Name "flumethasone" .
+
+<http://example.org/drug_names_row/344> ex:ID "CID100003379" ;
+    ex:Name "flunisolide" .
+
+<http://example.org/drug_names_row/345> ex:ID "CID100003380" ;
+    ex:Name "flunitrazepam" .
+
+<http://example.org/drug_names_row/346> ex:ID "CID100003381" ;
+    ex:Name "fluocinolone" .
+
+<http://example.org/drug_names_row/347> ex:ID "CID100003382" ;
+    ex:Name "fluocinonide" .
+
+<http://example.org/drug_names_row/348> ex:ID "CID100003384" ;
+    ex:Name "fluorometholone" .
+
+<http://example.org/drug_names_row/349> ex:ID "CID100003385" ;
+    ex:Name "5-FU" .
+
+<http://example.org/drug_names_row/35> ex:ID "CID100000679" ;
+    ex:Name "DMSO" .
+
+<http://example.org/drug_names_row/350> ex:ID "CID100003386" ;
+    ex:Name "fluoxetine" .
+
+<http://example.org/drug_names_row/351> ex:ID "CID100003387" ;
+    ex:Name "fluoxymesterone" .
+
+<http://example.org/drug_names_row/352> ex:ID "CID100003388" ;
+    ex:Name "fluphenazine" .
+
+<http://example.org/drug_names_row/353> ex:ID "CID100003392" ;
+    ex:Name "flurandrenolone" .
+
+<http://example.org/drug_names_row/354> ex:ID "CID100003393" ;
+    ex:Name "flurazepam" .
+
+<http://example.org/drug_names_row/355> ex:ID "CID100003394" ;
+    ex:Name "flurbiprofen" .
+
+<http://example.org/drug_names_row/356> ex:ID "CID100003397" ;
+    ex:Name "flutamide" .
+
+<http://example.org/drug_names_row/357> ex:ID "CID100003399" ;
+    ex:Name "fluticasone" .
+
+<http://example.org/drug_names_row/358> ex:ID "CID100003403" ;
+    ex:Name "fluvastatin" .
+
+<http://example.org/drug_names_row/359> ex:ID "CID100003404" ;
+    ex:Name "fluvoxamine" .
+
+<http://example.org/drug_names_row/36> ex:ID "CID100000681" ;
+    ex:Name "dopamine" .
+
+<http://example.org/drug_names_row/360> ex:ID "CID100003405" ;
+    ex:Name "folate" .
+
+<http://example.org/drug_names_row/361> ex:ID "CID100003406" ;
+    ex:Name "4-methylpyrazole" .
+
+<http://example.org/drug_names_row/362> ex:ID "CID100003410" ;
+    ex:Name "formoterol" .
+
+<http://example.org/drug_names_row/363> ex:ID "CID100003414" ;
+    ex:Name "foscarnet" .
+
+<http://example.org/drug_names_row/364> ex:ID "CID100003417" ;
+    ex:Name "fosfomycin" .
+
+<http://example.org/drug_names_row/365> ex:ID "CID100003419" ;
+    ex:Name "fosinopril" .
+
+<http://example.org/drug_names_row/366> ex:ID "CID100003425" ;
+    ex:Name "Romidepsin" .
+
+<http://example.org/drug_names_row/367> ex:ID "CID100003440" ;
+    ex:Name "furosemide" .
+
+<http://example.org/drug_names_row/368> ex:ID "CID100003443" ;
+    ex:Name "fusidic" .
+
+<http://example.org/drug_names_row/369> ex:ID "CID100003446" ;
+    ex:Name "gabapentin" .
+
+<http://example.org/drug_names_row/37> ex:ID "CID100000698" ;
+    ex:Name "estrone" .
+
+<http://example.org/drug_names_row/370> ex:ID "CID100003449" ;
+    ex:Name "galantamine" .
+
+<http://example.org/drug_names_row/371> ex:ID "CID100003454" ;
+    ex:Name "ganciclovir" .
+
+<http://example.org/drug_names_row/372> ex:ID "CID100003461" ;
+    ex:Name "gemcitabine" .
+
+<http://example.org/drug_names_row/373> ex:ID "CID100003462" ;
+    ex:Name "gemeprost" .
+
+<http://example.org/drug_names_row/374> ex:ID "CID100003463" ;
+    ex:Name "gemfibrozil" .
+
+<http://example.org/drug_names_row/375> ex:ID "CID100003467" ;
+    ex:Name "gentamicin" .
+
+<http://example.org/drug_names_row/376> ex:ID "CID100003475" ;
+    ex:Name "gliclazide" .
+
+<http://example.org/drug_names_row/377> ex:ID "CID100003476" ;
+    ex:Name "glimepiride" .
+
+<http://example.org/drug_names_row/378> ex:ID "CID100003478" ;
+    ex:Name "glipizide" .
+
+<http://example.org/drug_names_row/379> ex:ID "CID100003488" ;
+    ex:Name "glibenclamide" .
+
+<http://example.org/drug_names_row/38> ex:ID "CID100000699" ;
+    ex:Name "Oestrogen" .
+
+<http://example.org/drug_names_row/380> ex:ID "CID100003494" ;
+    ex:Name "glycopyrrolate" .
+
+<http://example.org/drug_names_row/381> ex:ID "CID100003510" ;
+    ex:Name "granisetron" .
+
+<http://example.org/drug_names_row/382> ex:ID "CID100003512" ;
+    ex:Name "griseofulvin" .
+
+<http://example.org/drug_names_row/383> ex:ID "CID100003516" ;
+    ex:Name "guaifenesin" .
+
+<http://example.org/drug_names_row/384> ex:ID "CID100003517" ;
+    ex:Name "icodextrin" .
+
+<http://example.org/drug_names_row/385> ex:ID "CID100003519" ;
+    ex:Name "guanfacine" .
+
+<http://example.org/drug_names_row/386> ex:ID "CID100003520" ;
+    ex:Name "guanidinium" .
+
+<http://example.org/drug_names_row/387> ex:ID "CID100003553" ;
+    ex:Name "halcinonide" .
+
+<http://example.org/drug_names_row/388> ex:ID "CID100003559" ;
+    ex:Name "haloperidol" .
+
+<http://example.org/drug_names_row/389> ex:ID "CID100003598" ;
+    ex:Name "hexachlorophene" .
+
+<http://example.org/drug_names_row/39> ex:ID "CID100000700" ;
+    ex:Name "monoethanolamine" .
+
+<http://example.org/drug_names_row/390> ex:ID "CID100003623" ;
+    ex:Name "homatropine" .
+
+<http://example.org/drug_names_row/391> ex:ID "CID100003636" ;
+    ex:Name "Buscopan" .
+
+<http://example.org/drug_names_row/392> ex:ID "CID100003637" ;
+    ex:Name "hydralazine" .
+
+<http://example.org/drug_names_row/393> ex:ID "CID100003639" ;
+    ex:Name "hydrochlorothiazide" .
+
+<http://example.org/drug_names_row/394> ex:ID "CID100003640" ;
+    ex:Name "cortisol" .
+
+<http://example.org/drug_names_row/395> ex:ID "CID100003642" ;
+    ex:Name "hydrocortisone" .
+
+<http://example.org/drug_names_row/396> ex:ID "CID100003647" ;
+    ex:Name "hydroflumethiazide" .
+
+<http://example.org/drug_names_row/397> ex:ID "CID100003648" ;
+    ex:Name "hydromorphone" .
+
+<http://example.org/drug_names_row/398> ex:ID "CID100003652" ;
+    ex:Name "hydroxychloroquine" .
+
+<http://example.org/drug_names_row/399> ex:ID "CID100003657" ;
+    ex:Name "hydroxyurea" .
+
+<http://example.org/drug_names_row/4> ex:ID "CID100000143" ;
+    ex:Name "leucovorin" .
+
+<http://example.org/drug_names_row/40> ex:ID "CID100000727" ;
+    ex:Name "lindane" .
+
+<http://example.org/drug_names_row/400> ex:ID "CID100003658" ;
+    ex:Name "hydroxyzine" .
+
+<http://example.org/drug_names_row/401> ex:ID "CID100003661" ;
+    ex:Name "atropine" .
+
+<http://example.org/drug_names_row/402> ex:ID "CID100003672" ;
+    ex:Name "ibuprofen" .
+
+<http://example.org/drug_names_row/403> ex:ID "CID100003675" ;
+    ex:Name "phenelzine" .
+
+<http://example.org/drug_names_row/404> ex:ID "CID100003676" ;
+    ex:Name "lidocaine" .
+
+<http://example.org/drug_names_row/405> ex:ID "CID100003685" ;
+    ex:Name "idarubicin" .
+
+<http://example.org/drug_names_row/406> ex:ID "CID100003687" ;
+    ex:Name "IdUrd" .
+
+<http://example.org/drug_names_row/407> ex:ID "CID100003690" ;
+    ex:Name "ifosfamide" .
+
+<http://example.org/drug_names_row/408> ex:ID "CID100003696" ;
+    ex:Name "imipramine" .
+
+<http://example.org/drug_names_row/409> ex:ID "CID100003702" ;
+    ex:Name "indapamide" .
+
+<http://example.org/drug_names_row/41> ex:ID "CID100000738" ;
+    ex:Name "glutamine" .
+
+<http://example.org/drug_names_row/410> ex:ID "CID100003706" ;
+    ex:Name "indinavir" .
+
+<http://example.org/drug_names_row/411> ex:ID "CID100003715" ;
+    ex:Name "indomethacin" .
+
+<http://example.org/drug_names_row/412> ex:ID "CID100003724" ;
+    ex:Name "iodixanol" .
+
+<http://example.org/drug_names_row/413> ex:ID "CID100003730" ;
+    ex:Name "iohexol" .
+
+<http://example.org/drug_names_row/414> ex:ID "CID100003734" ;
+    ex:Name "iopamidol" .
+
+<http://example.org/drug_names_row/415> ex:ID "CID100003736" ;
+    ex:Name "iopromide" .
+
+<http://example.org/drug_names_row/416> ex:ID "CID100003737" ;
+    ex:Name "sodium" .
+
+<http://example.org/drug_names_row/417> ex:ID "CID100003738" ;
+    ex:Name "iotrolan" .
+
+<http://example.org/drug_names_row/418> ex:ID "CID100003739" ;
+    ex:Name "iodipamide" .
+
+<http://example.org/drug_names_row/419> ex:ID "CID100003741" ;
+    ex:Name "ioversol" .
+
+<http://example.org/drug_names_row/42> ex:ID "CID100000750" ;
+    ex:Name "glycine" .
+
+<http://example.org/drug_names_row/420> ex:ID "CID100003742" ;
+    ex:Name "ioxaglate" .
+
+<http://example.org/drug_names_row/421> ex:ID "CID100003743" ;
+    ex:Name "ioxilan" .
+
+<http://example.org/drug_names_row/422> ex:ID "CID100003746" ;
+    ex:Name "ipratropium" .
+
+<http://example.org/drug_names_row/423> ex:ID "CID100003749" ;
+    ex:Name "irbesartan" .
+
+<http://example.org/drug_names_row/424> ex:ID "CID100003750" ;
+    ex:Name "irinotecan" .
+
+<http://example.org/drug_names_row/425> ex:ID "CID100003759" ;
+    ex:Name "isocarboxazid" .
+
+<http://example.org/drug_names_row/426> ex:ID "CID100003763" ;
+    ex:Name "isoflurane" .
+
+<http://example.org/drug_names_row/427> ex:ID "CID100003767" ;
+    ex:Name "isoniazid" .
+
+<http://example.org/drug_names_row/428> ex:ID "CID100003777" ;
+    ex:Name "isopropyl" .
+
+<http://example.org/drug_names_row/429> ex:ID "CID100003779" ;
+    ex:Name "isoproterenol" .
+
+<http://example.org/drug_names_row/43> ex:ID "CID100000753" ;
+    ex:Name "glycerol" .
+
+<http://example.org/drug_names_row/430> ex:ID "CID100003780" ;
+    ex:Name "isosorbide" .
+
+<http://example.org/drug_names_row/431> ex:ID "CID100003783" ;
+    ex:Name "isoxsuprine" .
+
+<http://example.org/drug_names_row/432> ex:ID "CID100003784" ;
+    ex:Name "isradipine" .
+
+<http://example.org/drug_names_row/433> ex:ID "CID100003793" ;
+    ex:Name "itraconazole" .
+
+<http://example.org/drug_names_row/434> ex:ID "CID100003821" ;
+    ex:Name "ketamine" .
+
+<http://example.org/drug_names_row/435> ex:ID "CID100003823" ;
+    ex:Name "ketoconazole" .
+
+<http://example.org/drug_names_row/436> ex:ID "CID100003825" ;
+    ex:Name "ketoprofen" .
+
+<http://example.org/drug_names_row/437> ex:ID "CID100003826" ;
+    ex:Name "ketorolac" .
+
+<http://example.org/drug_names_row/438> ex:ID "CID100003827" ;
+    ex:Name "ketotifen" .
+
+<http://example.org/drug_names_row/439> ex:ID "CID100003830" ;
+    ex:Name "cytokinin" .
+
+<http://example.org/drug_names_row/44> ex:ID "CID100000767" ;
+    ex:Name "bicarbonate" .
+
+<http://example.org/drug_names_row/440> ex:ID "CID100003848" ;
+    ex:Name "phenyllactate" .
+
+<http://example.org/drug_names_row/441> ex:ID "CID100003869" ;
+    ex:Name "labetalol" .
+
+<http://example.org/drug_names_row/442> ex:ID "CID100003872" ;
+    ex:Name "lactulose" .
+
+<http://example.org/drug_names_row/443> ex:ID "CID100003877" ;
+    ex:Name "lamivudine" .
+
+<http://example.org/drug_names_row/444> ex:ID "CID100003878" ;
+    ex:Name "lamotrigine" .
+
+<http://example.org/drug_names_row/445> ex:ID "CID100003883" ;
+    ex:Name "lansoprazole" .
+
+<http://example.org/drug_names_row/446> ex:ID "CID100003890" ;
+    ex:Name "latanoprost" .
+
+<http://example.org/drug_names_row/447> ex:ID "CID100003899" ;
+    ex:Name "leflunomide" .
+
+<http://example.org/drug_names_row/448> ex:ID "CID100003902" ;
+    ex:Name "letrozole" .
+
+<http://example.org/drug_names_row/449> ex:ID "CID100003911" ;
+    ex:Name "Leuprorelin" .
+
+<http://example.org/drug_names_row/45> ex:ID "CID100000772" ;
+    ex:Name "LMWH" .
+
+<http://example.org/drug_names_row/450> ex:ID "CID100003914" ;
+    ex:Name "levobunolol" .
+
+<http://example.org/drug_names_row/451> ex:ID "CID100003915" ;
+    ex:Name "levocabastine" .
+
+<http://example.org/drug_names_row/452> ex:ID "CID100003916" ;
+    ex:Name "levomepromazine" .
+
+<http://example.org/drug_names_row/453> ex:ID "CID100003918" ;
+    ex:Name "dextrorphan" .
+
+<http://example.org/drug_names_row/454> ex:ID "CID100003928" ;
+    ex:Name "lincomycin" .
+
+<http://example.org/drug_names_row/455> ex:ID "CID100003929" ;
+    ex:Name "linezolid" .
+
+<http://example.org/drug_names_row/456> ex:ID "CID100003937" ;
+    ex:Name "Lisinopril" .
+
+<http://example.org/drug_names_row/457> ex:ID "CID100003938" ;
+    ex:Name "lisuride" .
+
+<http://example.org/drug_names_row/458> ex:ID "CID100003939" ;
+    ex:Name "LiOH" .
+
+<http://example.org/drug_names_row/459> ex:ID "CID100003948" ;
+    ex:Name "lomefloxacin" .
+
+<http://example.org/drug_names_row/46> ex:ID "CID100000774" ;
+    ex:Name "histamine" .
+
+<http://example.org/drug_names_row/460> ex:ID "CID100003950" ;
+    ex:Name "lomustine" .
+
+<http://example.org/drug_names_row/461> ex:ID "CID100003954" ;
+    ex:Name "loperamide" .
+
+<http://example.org/drug_names_row/462> ex:ID "CID100003957" ;
+    ex:Name "loratadine" .
+
+<http://example.org/drug_names_row/463> ex:ID "CID100003958" ;
+    ex:Name "lorazepam" .
+
+<http://example.org/drug_names_row/464> ex:ID "CID100003961" ;
+    ex:Name "losartan" .
+
+<http://example.org/drug_names_row/465> ex:ID "CID100003962" ;
+    ex:Name "lovastatin" .
+
+<http://example.org/drug_names_row/466> ex:ID "CID100003964" ;
+    ex:Name "loxapine" .
+
+<http://example.org/drug_names_row/467> ex:ID "CID100003998" ;
+    ex:Name "mafenide" .
+
+<http://example.org/drug_names_row/468> ex:ID "CID100004004" ;
+    ex:Name "malathion" .
+
+<http://example.org/drug_names_row/469> ex:ID "CID100004011" ;
+    ex:Name "maprotiline" .
+
+<http://example.org/drug_names_row/47> ex:ID "CID100000785" ;
+    ex:Name "quinol" .
+
+<http://example.org/drug_names_row/470> ex:ID "CID100004030" ;
+    ex:Name "mebendazole" .
+
+<http://example.org/drug_names_row/471> ex:ID "CID100004031" ;
+    ex:Name "mebeverine" .
+
+<http://example.org/drug_names_row/472> ex:ID "CID100004032" ;
+    ex:Name "mecamylamine" .
+
+<http://example.org/drug_names_row/473> ex:ID "CID100004033" ;
+    ex:Name "nitrogen" .
+
+<http://example.org/drug_names_row/474> ex:ID "CID100004034" ;
+    ex:Name "monamine" .
+
+<http://example.org/drug_names_row/475> ex:ID "CID100004036" ;
+    ex:Name "meclofenamate" .
+
+<http://example.org/drug_names_row/476> ex:ID "CID100004042" ;
+    ex:Name "medroxyprogesterone" .
+
+<http://example.org/drug_names_row/477> ex:ID "CID100004043" ;
+    ex:Name "medrysone" .
+
+<http://example.org/drug_names_row/478> ex:ID "CID100004044" ;
+    ex:Name "mefenamic" .
+
+<http://example.org/drug_names_row/479> ex:ID "CID100004046" ;
+    ex:Name "mefloquine" .
+
+<http://example.org/drug_names_row/48> ex:ID "CID100000813" ;
+    ex:Name "potassium" .
+
+<http://example.org/drug_names_row/480> ex:ID "CID100004048" ;
+    ex:Name "megestrol" .
+
+<http://example.org/drug_names_row/481> ex:ID "CID100004051" ;
+    ex:Name "meloxicam" .
+
+<http://example.org/drug_names_row/482> ex:ID "CID100004053" ;
+    ex:Name "melphalan" .
+
+<http://example.org/drug_names_row/483> ex:ID "CID100004054" ;
+    ex:Name "memantine" .
+
+<http://example.org/drug_names_row/484> ex:ID "CID100004057" ;
+    ex:Name "Cantril" .
+
+<http://example.org/drug_names_row/485> ex:ID "CID100004058" ;
+    ex:Name "meperidine" .
+
+<http://example.org/drug_names_row/486> ex:ID "CID100004060" ;
+    ex:Name "mephenytoin" .
+
+<http://example.org/drug_names_row/487> ex:ID "CID100004062" ;
+    ex:Name "mepivacaine" .
+
+<http://example.org/drug_names_row/488> ex:ID "CID100004064" ;
+    ex:Name "meprobamate" .
+
+<http://example.org/drug_names_row/489> ex:ID "CID100004075" ;
+    ex:Name "5-ASA" .
+
+<http://example.org/drug_names_row/49> ex:ID "CID100000815" ;
+    ex:Name "kanamycin" .
+
+<http://example.org/drug_names_row/490> ex:ID "CID100004086" ;
+    ex:Name "metaproterenol" .
+
+<http://example.org/drug_names_row/491> ex:ID "CID100004091" ;
+    ex:Name "metformin" .
+
+<http://example.org/drug_names_row/492> ex:ID "CID100004095" ;
+    ex:Name "methadone" .
+
+<http://example.org/drug_names_row/493> ex:ID "CID100004101" ;
+    ex:Name "methenamine" .
+
+<http://example.org/drug_names_row/494> ex:ID "CID100004107" ;
+    ex:Name "methocarbamol" .
+
+<http://example.org/drug_names_row/495> ex:ID "CID100004112" ;
+    ex:Name "methotrexate" .
+
+<http://example.org/drug_names_row/496> ex:ID "CID100004114" ;
+    ex:Name "8-MOP" .
+
+<http://example.org/drug_names_row/497> ex:ID "CID100004120" ;
+    ex:Name "N-methylscopolamine" .
+
+<http://example.org/drug_names_row/498> ex:ID "CID100004121" ;
+    ex:Name "methyclothiazide" .
+
+<http://example.org/drug_names_row/499> ex:ID "CID100004138" ;
+    ex:Name "methyldopa" .
+
+<http://example.org/drug_names_row/5> ex:ID "CID100000146" ;
+    ex:Name "5-methyltetrahydrofolate" .
+
+<http://example.org/drug_names_row/50> ex:ID "CID100000838" ;
+    ex:Name "epinephrine" .
+
+<http://example.org/drug_names_row/500> ex:ID "CID100004139" ;
+    ex:Name "methylene" .
+
+<http://example.org/drug_names_row/501> ex:ID "CID100004140" ;
+    ex:Name "methylergometrine" .
+
+<http://example.org/drug_names_row/502> ex:ID "CID100004158" ;
+    ex:Name "methylphenidate" .
+
+<http://example.org/drug_names_row/503> ex:ID "CID100004159" ;
+    ex:Name "methylprednisolone" .
+
+<http://example.org/drug_names_row/504> ex:ID "CID100004160" ;
+    ex:Name "methyltestosterone" .
+
+<http://example.org/drug_names_row/505> ex:ID "CID100004163" ;
+    ex:Name "methysergide" .
+
+<http://example.org/drug_names_row/506> ex:ID "CID100004168" ;
+    ex:Name "metoclopramide" .
+
+<http://example.org/drug_names_row/507> ex:ID "CID100004170" ;
+    ex:Name "metolazone" .
+
+<http://example.org/drug_names_row/508> ex:ID "CID100004171" ;
+    ex:Name "metoprolol" .
+
+<http://example.org/drug_names_row/509> ex:ID "CID100004173" ;
+    ex:Name "metronidazole" .
+
+<http://example.org/drug_names_row/51> ex:ID "CID100000853" ;
+    ex:Name "thyroxine" .
+
+<http://example.org/drug_names_row/510> ex:ID "CID100004174" ;
+    ex:Name "metyrapone" .
+
+<http://example.org/drug_names_row/511> ex:ID "CID100004178" ;
+    ex:Name "mexiletine" .
+
+<http://example.org/drug_names_row/512> ex:ID "CID100004184" ;
+    ex:Name "mianserin" .
+
+<http://example.org/drug_names_row/513> ex:ID "CID100004189" ;
+    ex:Name "miconazole" .
+
+<http://example.org/drug_names_row/514> ex:ID "CID100004192" ;
+    ex:Name "midazolam" .
+
+<http://example.org/drug_names_row/515> ex:ID "CID100004195" ;
+    ex:Name "midodrine" .
+
+<http://example.org/drug_names_row/516> ex:ID "CID100004196" ;
+    ex:Name "mifepristone" .
+
+<http://example.org/drug_names_row/517> ex:ID "CID100004197" ;
+    ex:Name "milrinone" .
+
+<http://example.org/drug_names_row/518> ex:ID "CID100004201" ;
+    ex:Name "minoxidil" .
+
+<http://example.org/drug_names_row/519> ex:ID "CID100004205" ;
+    ex:Name "mirtazapine" .
+
+<http://example.org/drug_names_row/52> ex:ID "CID100000861" ;
+    ex:Name "triiodothyronine" .
+
+<http://example.org/drug_names_row/520> ex:ID "CID100004211" ;
+    ex:Name "mitotane" .
+
+<http://example.org/drug_names_row/521> ex:ID "CID100004212" ;
+    ex:Name "mitoxantrone" .
+
+<http://example.org/drug_names_row/522> ex:ID "CID100004235" ;
+    ex:Name "moclobemide" .
+
+<http://example.org/drug_names_row/523> ex:ID "CID100004236" ;
+    ex:Name "modafinil" .
+
+<http://example.org/drug_names_row/524> ex:ID "CID100004240" ;
+    ex:Name "mometasone" .
+
+<http://example.org/drug_names_row/525> ex:ID "CID100004248" ;
+    ex:Name "montelukast" .
+
+<http://example.org/drug_names_row/526> ex:ID "CID100004253" ;
+    ex:Name "morphine" .
+
+<http://example.org/drug_names_row/527> ex:ID "CID100004259" ;
+    ex:Name "moxifloxacin" .
+
+<http://example.org/drug_names_row/528> ex:ID "CID100004264" ;
+    ex:Name "mupirocin" .
+
+<http://example.org/drug_names_row/529> ex:ID "CID100004271" ;
+    ex:Name "mycophenolate mofetil" .
+
+<http://example.org/drug_names_row/53> ex:ID "CID100000888" ;
+    ex:Name "magnesium" .
+
+<http://example.org/drug_names_row/530> ex:ID "CID100004272" ;
+    ex:Name "mycophenolic acid" .
+
+<http://example.org/drug_names_row/531> ex:ID "CID100004274" ;
+    ex:Name "tetrofosmin" .
+
+<http://example.org/drug_names_row/532> ex:ID "CID100004409" ;
+    ex:Name "nabumetone" .
+
+<http://example.org/drug_names_row/533> ex:ID "CID100004411" ;
+    ex:Name "nadolol" .
+
+<http://example.org/drug_names_row/534> ex:ID "CID100004419" ;
+    ex:Name "nalbuphine" .
+
+<http://example.org/drug_names_row/535> ex:ID "CID100004421" ;
+    ex:Name "nalidixic" .
+
+<http://example.org/drug_names_row/536> ex:ID "CID100004422" ;
+    ex:Name "nalmefene" .
+
+<http://example.org/drug_names_row/537> ex:ID "CID100004425" ;
+    ex:Name "naloxone" .
+
+<http://example.org/drug_names_row/538> ex:ID "CID100004428" ;
+    ex:Name "naltrexone" .
+
+<http://example.org/drug_names_row/539> ex:ID "CID100004432" ;
+    ex:Name "nandrolone" .
+
+<http://example.org/drug_names_row/54> ex:ID "CID100000896" ;
+    ex:Name "melatonin" .
+
+<http://example.org/drug_names_row/540> ex:ID "CID100004436" ;
+    ex:Name "naphazoline" .
+
+<http://example.org/drug_names_row/541> ex:ID "CID100004440" ;
+    ex:Name "naratriptan" .
+
+<http://example.org/drug_names_row/542> ex:ID "CID100004443" ;
+    ex:Name "nateglinide" .
+
+<http://example.org/drug_names_row/543> ex:ID "CID100004449" ;
+    ex:Name "nefazodone" .
+
+<http://example.org/drug_names_row/544> ex:ID "CID100004450" ;
+    ex:Name "nefopam" .
+
+<http://example.org/drug_names_row/545> ex:ID "CID100004451" ;
+    ex:Name "nelfinavir" .
+
+<http://example.org/drug_names_row/546> ex:ID "CID100004454" ;
+    ex:Name "neomycin" .
+
+<http://example.org/drug_names_row/547> ex:ID "CID100004456" ;
+    ex:Name "neostigmine" .
+
+<http://example.org/drug_names_row/548> ex:ID "CID100004463" ;
+    ex:Name "nevirapine" .
+
+<http://example.org/drug_names_row/549> ex:ID "CID100004473" ;
+    ex:Name "nicardipine" .
+
+<http://example.org/drug_names_row/55> ex:ID "CID100000923" ;
+    ex:Name "sodium" .
+
+<http://example.org/drug_names_row/550> ex:ID "CID100004485" ;
+    ex:Name "nifedipine" .
+
+<http://example.org/drug_names_row/551> ex:ID "CID100004493" ;
+    ex:Name "nilutamide" .
+
+<http://example.org/drug_names_row/552> ex:ID "CID100004497" ;
+    ex:Name "nimodipine" .
+
+<http://example.org/drug_names_row/553> ex:ID "CID100004499" ;
+    ex:Name "nisoldipine" .
+
+<http://example.org/drug_names_row/554> ex:ID "CID100004506" ;
+    ex:Name "nitrazepam" .
+
+<http://example.org/drug_names_row/555> ex:ID "CID100004509" ;
+    ex:Name "nitrofurantoin" .
+
+<http://example.org/drug_names_row/556> ex:ID "CID100004510" ;
+    ex:Name "nitroglycerin" .
+
+<http://example.org/drug_names_row/557> ex:ID "CID100004513" ;
+    ex:Name "nizatidine" .
+
+<http://example.org/drug_names_row/558> ex:ID "CID100004536" ;
+    ex:Name "norethisterone" .
+
+<http://example.org/drug_names_row/559> ex:ID "CID100004539" ;
+    ex:Name "norfloxacin" .
+
+<http://example.org/drug_names_row/56> ex:ID "CID100000937" ;
+    ex:Name "niacin" .
+
+<http://example.org/drug_names_row/560> ex:ID "CID100004542" ;
+    ex:Name "levonorgestrel" .
+
+<http://example.org/drug_names_row/561> ex:ID "CID100004543" ;
+    ex:Name "nortriptyline" .
+
+<http://example.org/drug_names_row/562> ex:ID "CID100004547" ;
+    ex:Name "repaglinide" .
+
+<http://example.org/drug_names_row/563> ex:ID "CID100004568" ;
+    ex:Name "nystatin" .
+
+<http://example.org/drug_names_row/564> ex:ID "CID100004583" ;
+    ex:Name "ofloxacin" .
+
+<http://example.org/drug_names_row/565> ex:ID "CID100004585" ;
+    ex:Name "olanzapine" .
+
+<http://example.org/drug_names_row/566> ex:ID "CID100004594" ;
+    ex:Name "omeprazole" .
+
+<http://example.org/drug_names_row/567> ex:ID "CID100004595" ;
+    ex:Name "ondansetron" .
+
+<http://example.org/drug_names_row/568> ex:ID "CID100004599" ;
+    ex:Name "orlistat" .
+
+<http://example.org/drug_names_row/569> ex:ID "CID100004601" ;
+    ex:Name "orphenadrine" .
+
+<http://example.org/drug_names_row/57> ex:ID "CID100000942" ;
+    ex:Name "nicotine" .
+
+<http://example.org/drug_names_row/570> ex:ID "CID100004603" ;
+    ex:Name "oseltamivir" .
+
+<http://example.org/drug_names_row/571> ex:ID "CID100004607" ;
+    ex:Name "oxacillin" .
+
+<http://example.org/drug_names_row/572> ex:ID "CID100004609" ;
+    ex:Name "oxaliplatin" .
+
+<http://example.org/drug_names_row/573> ex:ID "CID100004614" ;
+    ex:Name "oxaprozin" .
+
+<http://example.org/drug_names_row/574> ex:ID "CID100004616" ;
+    ex:Name "oxazepam" .
+
+<http://example.org/drug_names_row/575> ex:ID "CID100004623" ;
+    ex:Name "oxiconazole" .
+
+<http://example.org/drug_names_row/576> ex:ID "CID100004631" ;
+    ex:Name "oxprenolol" .
+
+<http://example.org/drug_names_row/577> ex:ID "CID100004634" ;
+    ex:Name "oxybutynin" .
+
+<http://example.org/drug_names_row/578> ex:ID "CID100004635" ;
+    ex:Name "oxycodone" .
+
+<http://example.org/drug_names_row/579> ex:ID "CID100004638" ;
+    ex:Name "oxymetholone" .
+
+<http://example.org/drug_names_row/58> ex:ID "CID100000946" ;
+    ex:Name "nitrite" .
+
+<http://example.org/drug_names_row/580> ex:ID "CID100004639" ;
+    ex:Name "oxymorphone" .
+
+<http://example.org/drug_names_row/581> ex:ID "CID100004649" ;
+    ex:Name "APAs" .
+
+<http://example.org/drug_names_row/582> ex:ID "CID100004666" ;
+    ex:Name "paclitaxel" .
+
+<http://example.org/drug_names_row/583> ex:ID "CID100004673" ;
+    ex:Name "pamidronate" .
+
+<http://example.org/drug_names_row/584> ex:ID "CID100004675" ;
+    ex:Name "pancuronium" .
+
+<http://example.org/drug_names_row/585> ex:ID "CID100004678" ;
+    ex:Name "dexpanthenol" .
+
+<http://example.org/drug_names_row/586> ex:ID "CID100004679" ;
+    ex:Name "pantoprazole" .
+
+<http://example.org/drug_names_row/587> ex:ID "CID100004680" ;
+    ex:Name "papaverine" .
+
+<http://example.org/drug_names_row/588> ex:ID "CID100004689" ;
+    ex:Name "paromomycin" .
+
+<http://example.org/drug_names_row/589> ex:ID "CID100004691" ;
+    ex:Name "paroxetine" .
+
+<http://example.org/drug_names_row/59> ex:ID "CID100000948" ;
+    ex:Name "nitrous" .
+
+<http://example.org/drug_names_row/590> ex:ID "CID100004695" ;
+    ex:Name "isosulfan" .
+
+<http://example.org/drug_names_row/591> ex:ID "CID100004724" ;
+    ex:Name "penbutolol" .
+
+<http://example.org/drug_names_row/592> ex:ID "CID100004725" ;
+    ex:Name "penciclovir" .
+
+<http://example.org/drug_names_row/593> ex:ID "CID100004727" ;
+    ex:Name "D-penicillamine" .
+
+<http://example.org/drug_names_row/594> ex:ID "CID100004730" ;
+    ex:Name "penicillin" .
+
+<http://example.org/drug_names_row/595> ex:ID "CID100004735" ;
+    ex:Name "pentamidine" .
+
+<http://example.org/drug_names_row/596> ex:ID "CID100004736" ;
+    ex:Name "pentazocine" .
+
+<http://example.org/drug_names_row/597> ex:ID "CID100004737" ;
+    ex:Name "pentobarbital" .
+
+<http://example.org/drug_names_row/598> ex:ID "CID100004739" ;
+    ex:Name "pentostatin" .
+
+<http://example.org/drug_names_row/599> ex:ID "CID100004740" ;
+    ex:Name "pentoxifylline" .
+
+<http://example.org/drug_names_row/6> ex:ID "CID100000158" ;
+    ex:Name "PGE2" .
+
+<http://example.org/drug_names_row/60> ex:ID "CID100000951" ;
+    ex:Name "norepinephrine" .
+
+<http://example.org/drug_names_row/600> ex:ID "CID100004745" ;
+    ex:Name "pergolide" .
+
+<http://example.org/drug_names_row/601> ex:ID "CID100004746" ;
+    ex:Name "perhexiline" .
+
+<http://example.org/drug_names_row/602> ex:ID "CID100004747" ;
+    ex:Name "propericiazine" .
+
+<http://example.org/drug_names_row/603> ex:ID "CID100004748" ;
+    ex:Name "perphenazine" .
+
+<http://example.org/drug_names_row/604> ex:ID "CID100004756" ;
+    ex:Name "phenylazo" .
+
+<http://example.org/drug_names_row/605> ex:ID "CID100004763" ;
+    ex:Name "phenobarbital" .
+
+<http://example.org/drug_names_row/606> ex:ID "CID100004768" ;
+    ex:Name "phenoxybenzamine" .
+
+<http://example.org/drug_names_row/607> ex:ID "CID100004771" ;
+    ex:Name "phentermine" .
+
+<http://example.org/drug_names_row/608> ex:ID "CID100004775" ;
+    ex:Name "4-PBA" .
+
+<http://example.org/drug_names_row/609> ex:ID "CID100004782" ;
+    ex:Name "phenylephrine" .
+
+<http://example.org/drug_names_row/61> ex:ID "CID100000961" ;
+    ex:Name "hydroxyl" .
+
+<http://example.org/drug_names_row/610> ex:ID "CID100004786" ;
+    ex:Name "phenylpropanolamine" .
+
+<http://example.org/drug_names_row/611> ex:ID "CID100004810" ;
+    ex:Name "moxonidine" .
+
+<http://example.org/drug_names_row/612> ex:ID "CID100004811" ;
+    ex:Name "physostigmine" .
+
+<http://example.org/drug_names_row/613> ex:ID "CID100004812" ;
+    ex:Name "vitamin" .
+
+<http://example.org/drug_names_row/614> ex:ID "CID100004819" ;
+    ex:Name "pilocarpine" .
+
+<http://example.org/drug_names_row/615> ex:ID "CID100004828" ;
+    ex:Name "pindolol" .
+
+<http://example.org/drug_names_row/616> ex:ID "CID100004829" ;
+    ex:Name "pioglitazone" .
+
+<http://example.org/drug_names_row/617> ex:ID "CID100004834" ;
+    ex:Name "piperacillin" .
+
+<http://example.org/drug_names_row/618> ex:ID "CID100004845" ;
+    ex:Name "pirbuterol" .
+
+<http://example.org/drug_names_row/619> ex:ID "CID100004865" ;
+    ex:Name "podophyllotoxin" .
+
+<http://example.org/drug_names_row/62> ex:ID "CID100001003" ;
+    ex:Name "phosphate" .
+
+<http://example.org/drug_names_row/620> ex:ID "CID100004868" ;
+    ex:Name "polymyxin" .
+
+<http://example.org/drug_names_row/621> ex:ID "CID100004870" ;
+    ex:Name "polythiazide" .
+
+<http://example.org/drug_names_row/622> ex:ID "CID100004885" ;
+    ex:Name "pramipexole" .
+
+<http://example.org/drug_names_row/623> ex:ID "CID100004889" ;
+    ex:Name "pravastatin" .
+
+<http://example.org/drug_names_row/624> ex:ID "CID100004891" ;
+    ex:Name "praziquantel" .
+
+<http://example.org/drug_names_row/625> ex:ID "CID100004893" ;
+    ex:Name "prazosin" .
+
+<http://example.org/drug_names_row/626> ex:ID "CID100004894" ;
+    ex:Name "prednisolone" .
+
+<http://example.org/drug_names_row/627> ex:ID "CID100004895" ;
+    ex:Name "prednisolone acetate" .
+
+<http://example.org/drug_names_row/628> ex:ID "CID100004896" ;
+    ex:Name "prednisolone phosphate" .
+
+<http://example.org/drug_names_row/629> ex:ID "CID100004900" ;
+    ex:Name "prednisone" .
+
+<http://example.org/drug_names_row/63> ex:ID "CID100001046" ;
+    ex:Name "pyrazinamide" .
+
+<http://example.org/drug_names_row/630> ex:ID "CID100004906" ;
+    ex:Name "prilocaine" .
+
+<http://example.org/drug_names_row/631> ex:ID "CID100004908" ;
+    ex:Name "primaquine" .
+
+<http://example.org/drug_names_row/632> ex:ID "CID100004909" ;
+    ex:Name "primidone" .
+
+<http://example.org/drug_names_row/633> ex:ID "CID100004911" ;
+    ex:Name "probenecid" .
+
+<http://example.org/drug_names_row/634> ex:ID "CID100004913" ;
+    ex:Name "procainamide" .
+
+<http://example.org/drug_names_row/635> ex:ID "CID100004914" ;
+    ex:Name "procaine" .
+
+<http://example.org/drug_names_row/636> ex:ID "CID100004915" ;
+    ex:Name "procarbazine" .
+
+<http://example.org/drug_names_row/637> ex:ID "CID100004917" ;
+    ex:Name "prochlorperazine" .
+
+<http://example.org/drug_names_row/638> ex:ID "CID100004920" ;
+    ex:Name "progesterone" .
+
+<http://example.org/drug_names_row/639> ex:ID "CID100004923" ;
+    ex:Name "proguanil" .
+
+<http://example.org/drug_names_row/64> ex:ID "CID100001054" ;
+    ex:Name "pyridoxine" .
+
+<http://example.org/drug_names_row/640> ex:ID "CID100004927" ;
+    ex:Name "promethazine" .
+
+<http://example.org/drug_names_row/641> ex:ID "CID100004932" ;
+    ex:Name "propafenone" .
+
+<http://example.org/drug_names_row/642> ex:ID "CID100004934" ;
+    ex:Name "propantheline" .
+
+<http://example.org/drug_names_row/643> ex:ID "CID100004935" ;
+    ex:Name "proparacaine" .
+
+<http://example.org/drug_names_row/644> ex:ID "CID100004943" ;
+    ex:Name "propofol" .
+
+<http://example.org/drug_names_row/645> ex:ID "CID100004946" ;
+    ex:Name "propranolol" .
+
+<http://example.org/drug_names_row/646> ex:ID "CID100004976" ;
+    ex:Name "protriptyline" .
+
+<http://example.org/drug_names_row/647> ex:ID "CID100004989" ;
+    ex:Name "pyrantel" .
+
+<http://example.org/drug_names_row/648> ex:ID "CID100004991" ;
+    ex:Name "pyridostigmine" .
+
+<http://example.org/drug_names_row/649> ex:ID "CID100004992" ;
+    ex:Name "mepyramine" .
+
+<http://example.org/drug_names_row/65> ex:ID "CID100001065" ;
+    ex:Name "quinidine" .
+
+<http://example.org/drug_names_row/650> ex:ID "CID100004993" ;
+    ex:Name "pyrimethamine" .
+
+<http://example.org/drug_names_row/651> ex:ID "CID100004999" ;
+    ex:Name "quazepam" .
+
+<http://example.org/drug_names_row/652> ex:ID "CID100005002" ;
+    ex:Name "quetiapine" .
+
+<http://example.org/drug_names_row/653> ex:ID "CID100005005" ;
+    ex:Name "quinapril" .
+
+<http://example.org/drug_names_row/654> ex:ID "CID100005029" ;
+    ex:Name "rabeprazole" .
+
+<http://example.org/drug_names_row/655> ex:ID "CID100005032" ;
+    ex:Name "ephedrine" .
+
+<http://example.org/drug_names_row/656> ex:ID "CID100005035" ;
+    ex:Name "raloxifene" .
+
+<http://example.org/drug_names_row/657> ex:ID "CID100005038" ;
+    ex:Name "ramipril" .
+
+<http://example.org/drug_names_row/658> ex:ID "CID100005039" ;
+    ex:Name "ranitidine" .
+
+<http://example.org/drug_names_row/659> ex:ID "CID100005040" ;
+    ex:Name "rapamycin" .
+
+<http://example.org/drug_names_row/66> ex:ID "CID100001071" ;
+    ex:Name "retinol" .
+
+<http://example.org/drug_names_row/660> ex:ID "CID100005051" ;
+    ex:Name "rescinnamine" .
+
+<http://example.org/drug_names_row/661> ex:ID "CID100005052" ;
+    ex:Name "reserpine" .
+
+<http://example.org/drug_names_row/662> ex:ID "CID100005064" ;
+    ex:Name "ribavirin" .
+
+<http://example.org/drug_names_row/663> ex:ID "CID100005070" ;
+    ex:Name "riluzole" .
+
+<http://example.org/drug_names_row/664> ex:ID "CID100005071" ;
+    ex:Name "rimantadine" .
+
+<http://example.org/drug_names_row/665> ex:ID "CID100005073" ;
+    ex:Name "risperidone" .
+
+<http://example.org/drug_names_row/666> ex:ID "CID100005076" ;
+    ex:Name "ritonavir" .
+
+<http://example.org/drug_names_row/667> ex:ID "CID100005077" ;
+    ex:Name "rivastigmine" .
+
+<http://example.org/drug_names_row/668> ex:ID "CID100005078" ;
+    ex:Name "rizatriptan" .
+
+<http://example.org/drug_names_row/669> ex:ID "CID100005090" ;
+    ex:Name "rofecoxib" .
+
+<http://example.org/drug_names_row/67> ex:ID "CID100001084" ;
+    ex:Name "thiosulfate" .
+
+<http://example.org/drug_names_row/670> ex:ID "CID100005095" ;
+    ex:Name "ropinirole" .
+
+<http://example.org/drug_names_row/671> ex:ID "CID100005106" ;
+    ex:Name "roxithromycin" .
+
+<http://example.org/drug_names_row/672> ex:ID "CID100005152" ;
+    ex:Name "salmeterol" .
+
+<http://example.org/drug_names_row/673> ex:ID "CID100005155" ;
+    ex:Name "stavudine" .
+
+<http://example.org/drug_names_row/674> ex:ID "CID100005161" ;
+    ex:Name "salsalate" .
+
+<http://example.org/drug_names_row/675> ex:ID "CID100005184" ;
+    ex:Name "scopolamine" .
+
+<http://example.org/drug_names_row/676> ex:ID "CID100005193" ;
+    ex:Name "secobarbital" .
+
+<http://example.org/drug_names_row/677> ex:ID "CID100005195" ;
+    ex:Name "deprenyl" .
+
+<http://example.org/drug_names_row/678> ex:ID "CID100005203" ;
+    ex:Name "sertraline" .
+
+<http://example.org/drug_names_row/679> ex:ID "CID100005206" ;
+    ex:Name "sevoflurane" .
+
+<http://example.org/drug_names_row/68> ex:ID "CID100001125" ;
+    ex:Name "tetrahydrobiopterin" .
+
+<http://example.org/drug_names_row/680> ex:ID "CID100005210" ;
+    ex:Name "sibutramine" .
+
+<http://example.org/drug_names_row/681> ex:ID "CID100005212" ;
+    ex:Name "sildenafil" .
+
+<http://example.org/drug_names_row/682> ex:ID "CID100005214" ;
+    ex:Name "silver" .
+
+<http://example.org/drug_names_row/683> ex:ID "CID100005215" ;
+    ex:Name "sulfadiazine" .
+
+<http://example.org/drug_names_row/684> ex:ID "CID100005238" ;
+    ex:Name "sodium" .
+
+<http://example.org/drug_names_row/685> ex:ID "CID100005245" ;
+    ex:Name "risedronate" .
+
+<http://example.org/drug_names_row/686> ex:ID "CID100005248" ;
+    ex:Name "sodium" .
+
+<http://example.org/drug_names_row/687> ex:ID "CID100005253" ;
+    ex:Name "sotalol" .
+
+<http://example.org/drug_names_row/688> ex:ID "CID100005257" ;
+    ex:Name "sparfloxacin" .
+
+<http://example.org/drug_names_row/689> ex:ID "CID100005267" ;
+    ex:Name "spironolactone" .
+
+<http://example.org/drug_names_row/69> ex:ID "CID100001130" ;
+    ex:Name "thiamine" .
+
+<http://example.org/drug_names_row/690> ex:ID "CID100005291" ;
+    ex:Name "imatinib" .
+
+<http://example.org/drug_names_row/691> ex:ID "CID100005297" ;
+    ex:Name "streptomycin" .
+
+<http://example.org/drug_names_row/692> ex:ID "CID100005300" ;
+    ex:Name "streptozotocin" .
+
+<http://example.org/drug_names_row/693> ex:ID "CID100005311" ;
+    ex:Name "vorinostat" .
+
+<http://example.org/drug_names_row/694> ex:ID "CID100005314" ;
+    ex:Name "succinylcholine" .
+
+<http://example.org/drug_names_row/695> ex:ID "CID100005318" ;
+    ex:Name "sulconazole" .
+
+<http://example.org/drug_names_row/696> ex:ID "CID100005320" ;
+    ex:Name "sulfacetamide" .
+
+<http://example.org/drug_names_row/697> ex:ID "CID100005329" ;
+    ex:Name "sulfamethoxazole" .
+
+<http://example.org/drug_names_row/698> ex:ID "CID100005333" ;
+    ex:Name "sulfonamide" .
+
+<http://example.org/drug_names_row/699> ex:ID "CID100005352" ;
+    ex:Name "sulindac" .
+
+<http://example.org/drug_names_row/7> ex:ID "CID100000159" ;
+    ex:Name "prostacyclin" .
+
+<http://example.org/drug_names_row/70> ex:ID "CID100001134" ;
+    ex:Name "thymidine" .
+
+<http://example.org/drug_names_row/700> ex:ID "CID100005358" ;
+    ex:Name "sumatriptan" .
+
+<http://example.org/drug_names_row/701> ex:ID "CID100005359" ;
+    ex:Name "suprofen" .
+
+<http://example.org/drug_names_row/702> ex:ID "CID100005372" ;
+    ex:Name "tacrolimus" .
+
+<http://example.org/drug_names_row/703> ex:ID "CID100005376" ;
+    ex:Name "tamoxifen" .
+
+<http://example.org/drug_names_row/704> ex:ID "CID100005379" ;
+    ex:Name "gatifloxacin" .
+
+<http://example.org/drug_names_row/705> ex:ID "CID100005381" ;
+    ex:Name "tazarotene" .
+
+<http://example.org/drug_names_row/706> ex:ID "CID100005391" ;
+    ex:Name "temazepam" .
+
+<http://example.org/drug_names_row/707> ex:ID "CID100005394" ;
+    ex:Name "temozolomide" .
+
+<http://example.org/drug_names_row/708> ex:ID "CID100005396" ;
+    ex:Name "teniposide" .
+
+<http://example.org/drug_names_row/709> ex:ID "CID100005401" ;
+    ex:Name "terazosin" .
+
+<http://example.org/drug_names_row/71> ex:ID "CID100001206" ;
+    ex:Name "methamphetamine" .
+
+<http://example.org/drug_names_row/710> ex:ID "CID100005402" ;
+    ex:Name "terbinafine" .
+
+<http://example.org/drug_names_row/711> ex:ID "CID100005403" ;
+    ex:Name "terbutaline" .
+
+<http://example.org/drug_names_row/712> ex:ID "CID100005404" ;
+    ex:Name "terconazole" .
+
+<http://example.org/drug_names_row/713> ex:ID "CID100005407" ;
+    ex:Name "testolactone" .
+
+<http://example.org/drug_names_row/714> ex:ID "CID100005408" ;
+    ex:Name "testosterone" .
+
+<http://example.org/drug_names_row/715> ex:ID "CID100005409" ;
+    ex:Name "testosterone" .
+
+<http://example.org/drug_names_row/716> ex:ID "CID100005410" ;
+    ex:Name "testosterone" .
+
+<http://example.org/drug_names_row/717> ex:ID "CID100005411" ;
+    ex:Name "tetracaine" .
+
+<http://example.org/drug_names_row/718> ex:ID "CID100005419" ;
+    ex:Name "tetrahydrozoline" .
+
+<http://example.org/drug_names_row/719> ex:ID "CID100005426" ;
+    ex:Name "thalidomide" .
+
+<http://example.org/drug_names_row/72> ex:ID "CID100001301" ;
+    ex:Name "naproxen" .
+
+<http://example.org/drug_names_row/720> ex:ID "CID100005430" ;
+    ex:Name "thiabendazole" .
+
+<http://example.org/drug_names_row/721> ex:ID "CID100005452" ;
+    ex:Name "thioridazine" .
+
+<http://example.org/drug_names_row/722> ex:ID "CID100005453" ;
+    ex:Name "thiotepa" .
+
+<http://example.org/drug_names_row/723> ex:ID "CID100005454" ;
+    ex:Name "thiothixene" .
+
+<http://example.org/drug_names_row/724> ex:ID "CID100005466" ;
+    ex:Name "tiagabine" .
+
+<http://example.org/drug_names_row/725> ex:ID "CID100005468" ;
+    ex:Name "tiaprofenic" .
+
+<http://example.org/drug_names_row/726> ex:ID "CID100005470" ;
+    ex:Name "tibolone" .
+
+<http://example.org/drug_names_row/727> ex:ID "CID100005472" ;
+    ex:Name "ticlopidine" .
+
+<http://example.org/drug_names_row/728> ex:ID "CID100005478" ;
+    ex:Name "timolol" .
+
+<http://example.org/drug_names_row/729> ex:ID "CID100005479" ;
+    ex:Name "tinidazole" .
+
+<http://example.org/drug_names_row/73> ex:ID "CID100001546" ;
+    ex:Name "cladribine" .
+
+<http://example.org/drug_names_row/730> ex:ID "CID100005483" ;
+    ex:Name "tiopronin" .
+
+<http://example.org/drug_names_row/731> ex:ID "CID100005486" ;
+    ex:Name "tirofiban" .
+
+<http://example.org/drug_names_row/732> ex:ID "CID100005487" ;
+    ex:Name "tizanidine" .
+
+<http://example.org/drug_names_row/733> ex:ID "CID100005496" ;
+    ex:Name "tobramycin" .
+
+<http://example.org/drug_names_row/734> ex:ID "CID100005503" ;
+    ex:Name "tolazamide" .
+
+<http://example.org/drug_names_row/735> ex:ID "CID100005505" ;
+    ex:Name "tolbutamide" .
+
+<http://example.org/drug_names_row/736> ex:ID "CID100005508" ;
+    ex:Name "tolmetin" .
+
+<http://example.org/drug_names_row/737> ex:ID "CID100005512" ;
+    ex:Name "tolterodine" .
+
+<http://example.org/drug_names_row/738> ex:ID "CID100005514" ;
+    ex:Name "topiramate" .
+
+<http://example.org/drug_names_row/739> ex:ID "CID100005515" ;
+    ex:Name "topotecan" .
+
+<http://example.org/drug_names_row/74> ex:ID "CID100001690" ;
+    ex:Name "doxorubicin" .
+
+<http://example.org/drug_names_row/740> ex:ID "CID100005516" ;
+    ex:Name "toremifene" .
+
+<http://example.org/drug_names_row/741> ex:ID "CID100005523" ;
+    ex:Name "tramadol" .
+
+<http://example.org/drug_names_row/742> ex:ID "CID100005524" ;
+    ex:Name "tramazoline" .
+
+<http://example.org/drug_names_row/743> ex:ID "CID100005525" ;
+    ex:Name "trandolapril" .
+
+<http://example.org/drug_names_row/744> ex:ID "CID100005526" ;
+    ex:Name "tranexamic" .
+
+<http://example.org/drug_names_row/745> ex:ID "CID100005530" ;
+    ex:Name "tranylcypromine" .
+
+<http://example.org/drug_names_row/746> ex:ID "CID100005533" ;
+    ex:Name "trazodone" .
+
+<http://example.org/drug_names_row/747> ex:ID "CID100005538" ;
+    ex:Name "retinoic" .
+
+<http://example.org/drug_names_row/748> ex:ID "CID100005544" ;
+    ex:Name "triamcinolone" .
+
+<http://example.org/drug_names_row/749> ex:ID "CID100005546" ;
+    ex:Name "triamterene" .
+
+<http://example.org/drug_names_row/75> ex:ID "CID100001727" ;
+    ex:Name "4-AP" .
+
+<http://example.org/drug_names_row/750> ex:ID "CID100005556" ;
+    ex:Name "triazolam" .
+
+<http://example.org/drug_names_row/751> ex:ID "CID100005564" ;
+    ex:Name "triclosan" .
+
+<http://example.org/drug_names_row/752> ex:ID "CID100005565" ;
+    ex:Name "trien" .
+
+<http://example.org/drug_names_row/753> ex:ID "CID100005566" ;
+    ex:Name "trifluoperazine" .
+
+<http://example.org/drug_names_row/754> ex:ID "CID100005572" ;
+    ex:Name "trihexyphenidyl" .
+
+<http://example.org/drug_names_row/755> ex:ID "CID100005576" ;
+    ex:Name "trimethadione" .
+
+<http://example.org/drug_names_row/756> ex:ID "CID100005577" ;
+    ex:Name "trimethobenzamide" .
+
+<http://example.org/drug_names_row/757> ex:ID "CID100005578" ;
+    ex:Name "trimethoprim" .
+
+<http://example.org/drug_names_row/758> ex:ID "CID100005582" ;
+    ex:Name "trimetrexate" .
+
+<http://example.org/drug_names_row/759> ex:ID "CID100005584" ;
+    ex:Name "trimipramine" .
+
+<http://example.org/drug_names_row/76> ex:ID "CID100001775" ;
+    ex:Name "phenytoin" .
+
+<http://example.org/drug_names_row/760> ex:ID "CID100005591" ;
+    ex:Name "troglitazone" .
+
+<http://example.org/drug_names_row/761> ex:ID "CID100005593" ;
+    ex:Name "tropicamide" .
+
+<http://example.org/drug_names_row/762> ex:ID "CID100005595" ;
+    ex:Name "tropisetron" .
+
+<http://example.org/drug_names_row/763> ex:ID "CID100005596" ;
+    ex:Name "trospium" .
+
+<http://example.org/drug_names_row/764> ex:ID "CID100005625" ;
+    ex:Name "delavirdine" .
+
+<http://example.org/drug_names_row/765> ex:ID "CID100005636" ;
+    ex:Name "unoprostone" .
+
+<http://example.org/drug_names_row/766> ex:ID "CID100005645" ;
+    ex:Name "UDCA" .
+
+<http://example.org/drug_names_row/767> ex:ID "CID100005647" ;
+    ex:Name "VACV" .
+
+<http://example.org/drug_names_row/768> ex:ID "CID100005650" ;
+    ex:Name "valsartan" .
+
+<http://example.org/drug_names_row/769> ex:ID "CID100005651" ;
+    ex:Name "Vancocine" .
+
+<http://example.org/drug_names_row/77> ex:ID "CID100001798" ;
+    ex:Name "methazolamide" .
+
+<http://example.org/drug_names_row/770> ex:ID "CID100005656" ;
+    ex:Name "venlafaxine" .
+
+<http://example.org/drug_names_row/771> ex:ID "CID100005665" ;
+    ex:Name "vigabatrin" .
+
+<http://example.org/drug_names_row/772> ex:ID "CID100005672" ;
+    ex:Name "vinorelbine" .
+
+<http://example.org/drug_names_row/773> ex:ID "CID100005717" ;
+    ex:Name "zafirlukast" .
+
+<http://example.org/drug_names_row/774> ex:ID "CID100005718" ;
+    ex:Name "zalcitabine" .
+
+<http://example.org/drug_names_row/775> ex:ID "CID100005719" ;
+    ex:Name "zaleplon" .
+
+<http://example.org/drug_names_row/776> ex:ID "CID100005721" ;
+    ex:Name "zanamivir" .
+
+<http://example.org/drug_names_row/777> ex:ID "CID100005726" ;
+    ex:Name "zidovudine" .
+
+<http://example.org/drug_names_row/778> ex:ID "CID100005727" ;
+    ex:Name "ZnCl2" .
+
+<http://example.org/drug_names_row/779> ex:ID "CID100005731" ;
+    ex:Name "zolmitriptan" .
+
+<http://example.org/drug_names_row/78> ex:ID "CID100001805" ;
+    ex:Name "5-azacytidine" .
+
+<http://example.org/drug_names_row/780> ex:ID "CID100005732" ;
+    ex:Name "zolpidem" .
+
+<http://example.org/drug_names_row/781> ex:ID "CID100005734" ;
+    ex:Name "zonisamide" .
+
+<http://example.org/drug_names_row/782> ex:ID "CID100005735" ;
+    ex:Name "zopiclone" .
+
+<http://example.org/drug_names_row/783> ex:ID "CID100005746" ;
+    ex:Name "mitomycin" .
+
+<http://example.org/drug_names_row/784> ex:ID "CID100005771" ;
+    ex:Name "oxytocin" .
+
+<http://example.org/drug_names_row/785> ex:ID "CID100005775" ;
+    ex:Name "phentolamine" .
+
+<http://example.org/drug_names_row/786> ex:ID "CID100005877" ;
+    ex:Name "demethyl" .
+
+<http://example.org/drug_names_row/787> ex:ID "CID100005878" ;
+    ex:Name "oxandrolone" .
+
+<http://example.org/drug_names_row/788> ex:ID "CID100005939" ;
+    ex:Name "biguanide" .
+
+<http://example.org/drug_names_row/789> ex:ID "CID100005978" ;
+    ex:Name "vincristine" .
+
+<http://example.org/drug_names_row/79> ex:ID "CID100001875" ;
+    ex:Name "methylprednisolone" .
+
+<http://example.org/drug_names_row/790> ex:ID "CID100006018" ;
+    ex:Name "tetrabenazine" .
+
+<http://example.org/drug_names_row/791> ex:ID "CID100006049" ;
+    ex:Name "EDTA" .
+
+<http://example.org/drug_names_row/792> ex:ID "CID100006058" ;
+    ex:Name "cysteamine" .
+
+<http://example.org/drug_names_row/793> ex:ID "CID100006116" ;
+    ex:Name "calcium" .
+
+<http://example.org/drug_names_row/794> ex:ID "CID100006238" ;
+    ex:Name "17-hydroxyprogesterone" .
+
+<http://example.org/drug_names_row/795> ex:ID "CID100006256" ;
+    ex:Name "trifluorothymidine" .
+
+<http://example.org/drug_names_row/796> ex:ID "CID100006432" ;
+    ex:Name "Optison" .
+
+<http://example.org/drug_names_row/797> ex:ID "CID100006436" ;
+    ex:Name "triamcinolone" .
+
+<http://example.org/drug_names_row/798> ex:ID "CID100006451" ;
+    ex:Name "bromcresol" .
+
+<http://example.org/drug_names_row/799> ex:ID "CID100006468" ;
+    ex:Name "phencyclidine" .
+
+<http://example.org/drug_names_row/8> ex:ID "CID100000160" ;
+    ex:Name "prostaglandin" .
+
+<http://example.org/drug_names_row/80> ex:ID "CID100001971" ;
+    ex:Name "abacavir" .
+
+<http://example.org/drug_names_row/800> ex:ID "CID100006476" ;
+    ex:Name "methsuximide" .
+
+<http://example.org/drug_names_row/801> ex:ID "CID100006503" ;
+    ex:Name "tris" .
+
+<http://example.org/drug_names_row/802> ex:ID "CID100006726" ;
+    ex:Name "cyclizine" .
+
+<http://example.org/drug_names_row/803> ex:ID "CID100007012" ;
+    ex:Name "phenylbutyric" .
+
+<http://example.org/drug_names_row/804> ex:ID "CID100007029" ;
+    ex:Name "diethylpropion" .
+
+<http://example.org/drug_names_row/805> ex:ID "CID100007187" ;
+    ex:Name "benzoyl" .
+
+<http://example.org/drug_names_row/806> ex:ID "CID100007638" ;
+    ex:Name "monobenzone" .
+
+<http://example.org/drug_names_row/807> ex:ID "CID100007699" ;
+    ex:Name "benzonatate" .
+
+<http://example.org/drug_names_row/808> ex:ID "CID100008197" ;
+    ex:Name "tetraen" .
+
+<http://example.org/drug_names_row/809> ex:ID "CID100008230" ;
+    ex:Name "argenine" .
+
+<http://example.org/drug_names_row/81> ex:ID "CID100001972" ;
+    ex:Name "amphotericin" .
+
+<http://example.org/drug_names_row/810> ex:ID "CID100008612" ;
+    ex:Name "chloroprocaine" .
+
+<http://example.org/drug_names_row/811> ex:ID "CID100008982" ;
+    ex:Name "nafcillin" .
+
+<http://example.org/drug_names_row/812> ex:ID "CID100009034" ;
+    ex:Name "methohexital" .
+
+<http://example.org/drug_names_row/813> ex:ID "CID100009354" ;
+    ex:Name "dimercaptosuccinic" .
+
+<http://example.org/drug_names_row/814> ex:ID "CID100009433" ;
+    ex:Name "aminophylline" .
+
+<http://example.org/drug_names_row/815> ex:ID "CID100009904" ;
+    ex:Name "nandrolone" .
+
+<http://example.org/drug_names_row/816> ex:ID "CID100010100" ;
+    ex:Name "propoxyphene" .
+
+<http://example.org/drug_names_row/817> ex:ID "CID100010340" ;
+    ex:Name "sodium" .
+
+<http://example.org/drug_names_row/818> ex:ID "CID100010413" ;
+    ex:Name "hydroxybutyrate" .
+
+<http://example.org/drug_names_row/819> ex:ID "CID100010547" ;
+    ex:Name "echothiophate" .
+
+<http://example.org/drug_names_row/82> ex:ID "CID100001978" ;
+    ex:Name "acebutolol" .
+
+<http://example.org/drug_names_row/820> ex:ID "CID100010631" ;
+    ex:Name "medroxyprogesterone" .
+
+<http://example.org/drug_names_row/821> ex:ID "CID100010660" ;
+    ex:Name "dimenhydrinate" .
+
+<http://example.org/drug_names_row/822> ex:ID "CID100011125" ;
+    ex:Name "lithium" .
+
+<http://example.org/drug_names_row/823> ex:ID "CID100011973" ;
+    ex:Name "Brolene" .
+
+<http://example.org/drug_names_row/824> ex:ID "CID100012453" ;
+    ex:Name "zuclopenthixol" .
+
+<http://example.org/drug_names_row/825> ex:ID "CID100012460" ;
+    ex:Name "phendimetrazine" .
+
+<http://example.org/drug_names_row/826> ex:ID "CID100012536" ;
+    ex:Name "desonide" .
+
+<http://example.org/drug_names_row/827> ex:ID "CID100012555" ;
+    ex:Name "benzydamine" .
+
+<http://example.org/drug_names_row/828> ex:ID "CID100012559" ;
+    ex:Name "erythromycin" .
+
+<http://example.org/drug_names_row/829> ex:ID "CID100012597" ;
+    ex:Name "isomannide" .
+
+<http://example.org/drug_names_row/83> ex:ID "CID100001983" ;
+    ex:Name "acetaminophen" .
+
+<http://example.org/drug_names_row/830> ex:ID "CID100012620" ;
+    ex:Name "Tadenan" .
+
+<http://example.org/drug_names_row/831> ex:ID "CID100013314" ;
+    ex:Name "lormetazepam" .
+
+<http://example.org/drug_names_row/832> ex:ID "CID100013342" ;
+    ex:Name "vinblastine" .
+
+<http://example.org/drug_names_row/833> ex:ID "CID100014789" ;
+    ex:Name "ferumoxytol" .
+
+<http://example.org/drug_names_row/834> ex:ID "CID100014888" ;
+    ex:Name "arsenic" .
+
+<http://example.org/drug_names_row/835> ex:ID "CID100014917" ;
+    ex:Name "fluoride" .
+
+<http://example.org/drug_names_row/836> ex:ID "CID100015232" ;
+    ex:Name "benzathine" .
+
+<http://example.org/drug_names_row/837> ex:ID "CID100015459" ;
+    ex:Name "metaxalone" .
+
+<http://example.org/drug_names_row/838> ex:ID "CID100016124" ;
+    ex:Name "methylene" .
+
+<http://example.org/drug_names_row/839> ex:ID "CID100016230" ;
+    ex:Name "amiloride" .
+
+<http://example.org/drug_names_row/84> ex:ID "CID100001986" ;
+    ex:Name "acetazolamide" .
+
+<http://example.org/drug_names_row/840> ex:ID "CID100016362" ;
+    ex:Name "pimozide" .
+
+<http://example.org/drug_names_row/841> ex:ID "CID100016533" ;
+    ex:Name "betamethasone" .
+
+<http://example.org/drug_names_row/842> ex:ID "CID100016850" ;
+    ex:Name "fluorescein" .
+
+<http://example.org/drug_names_row/843> ex:ID "CID100016886" ;
+    ex:Name "5-aza-2'-deoxycytidine" .
+
+<http://example.org/drug_names_row/844> ex:ID "CID100017358" ;
+    ex:Name "SonoVue" .
+
+<http://example.org/drug_names_row/845> ex:ID "CID100018140" ;
+    ex:Name "estramustine" .
+
+<http://example.org/drug_names_row/846> ex:ID "CID100019090" ;
+    ex:Name "megestrol" .
+
+<http://example.org/drug_names_row/847> ex:ID "CID100020585" ;
+    ex:Name "choline" .
+
+<http://example.org/drug_names_row/848> ex:ID "CID100020969" ;
+    ex:Name "clocortolone" .
+
+<http://example.org/drug_names_row/849> ex:ID "CID100021800" ;
+    ex:Name "betamethasone" .
+
+<http://example.org/drug_names_row/85> ex:ID "CID100001990" ;
+    ex:Name "acetohydroxamic" .
+
+<http://example.org/drug_names_row/850> ex:ID "CID100021945" ;
+    ex:Name "methenamine" .
+
+<http://example.org/drug_names_row/851> ex:ID "CID100022258" ;
+    ex:Name "hydrocodone" .
+
+<http://example.org/drug_names_row/852> ex:ID "CID100022318" ;
+    ex:Name "gold" .
+
+<http://example.org/drug_names_row/853> ex:ID "CID100022502" ;
+    ex:Name "procaine" .
+
+<http://example.org/drug_names_row/854> ex:ID "CID100023703" ;
+    ex:Name "ogen" .
+
+<http://example.org/drug_names_row/855> ex:ID "CID100023897" ;
+    ex:Name "molindone" .
+
+<http://example.org/drug_names_row/856> ex:ID "CID100023925" ;
+    ex:Name "Fe(III" .
+
+<http://example.org/drug_names_row/857> ex:ID "CID100023926" ;
+    ex:Name "lanthanum" .
+
+<http://example.org/drug_names_row/858> ex:ID "CID100023951" ;
+    ex:Name "samarium" .
+
+<http://example.org/drug_names_row/859> ex:ID "CID100023954" ;
+    ex:Name "silver" .
+
+<http://example.org/drug_names_row/86> ex:ID "CID100001993" ;
+    ex:Name "methacholine" .
+
+<http://example.org/drug_names_row/860> ex:ID "CID100023957" ;
+    ex:Name "technetium-99m" .
+
+<http://example.org/drug_names_row/861> ex:ID "CID100023976" ;
+    ex:Name "chromium" .
+
+<http://example.org/drug_names_row/862> ex:ID "CID100023978" ;
+    ex:Name "copper" .
+
+<http://example.org/drug_names_row/863> ex:ID "CID100023982" ;
+    ex:Name "gadolinium" .
+
+<http://example.org/drug_names_row/864> ex:ID "CID100023993" ;
+    ex:Name "yttrium" .
+
+<http://example.org/drug_names_row/865> ex:ID "CID100023994" ;
+    ex:Name "zinc" .
+
+<http://example.org/drug_names_row/866> ex:ID "CID100024087" ;
+    ex:Name "selenium" .
+
+<http://example.org/drug_names_row/867> ex:ID "CID100024414" ;
+    ex:Name "barium" .
+
+<http://example.org/drug_names_row/868> ex:ID "CID100024424" ;
+    ex:Name "zinc" .
+
+<http://example.org/drug_names_row/869> ex:ID "CID100024450" ;
+    ex:Name "potassium" .
+
+<http://example.org/drug_names_row/87> ex:ID "CID100002019" ;
+    ex:Name "actinomycin" .
+
+<http://example.org/drug_names_row/870> ex:ID "CID100024642" ;
+    ex:Name "TlCl" .
+
+<http://example.org/drug_names_row/871> ex:ID "CID100024706" ;
+    ex:Name "Triphasil" .
+
+<http://example.org/drug_names_row/872> ex:ID "CID100024748" ;
+    ex:Name "glucose" .
+
+<http://example.org/drug_names_row/873> ex:ID "CID100024841" ;
+    ex:Name "iodide" .
+
+<http://example.org/drug_names_row/874> ex:ID "CID100025419" ;
+    ex:Name "clodronate" .
+
+<http://example.org/drug_names_row/875> ex:ID "CID100025959" ;
+    ex:Name "Prussian" .
+
+<http://example.org/drug_names_row/876> ex:ID "CID100027304" ;
+    ex:Name "HMDP" .
+
+<http://example.org/drug_names_row/877> ex:ID "CID100027400" ;
+    ex:Name "pizotifen" .
+
+<http://example.org/drug_names_row/878> ex:ID "CID100027661" ;
+    ex:Name "isosorbide-5-mononitrate" .
+
+<http://example.org/drug_names_row/879> ex:ID "CID100027991" ;
+    ex:Name "desmopressin" .
+
+<http://example.org/drug_names_row/88> ex:ID "CID100002021" ;
+    ex:Name "spectinomycin" .
+
+<http://example.org/drug_names_row/880> ex:ID "CID100027993" ;
+    ex:Name "conjugated" .
+
+<http://example.org/drug_names_row/881> ex:ID "CID100028332" ;
+    ex:Name "propoxyphene" .
+
+<http://example.org/drug_names_row/882> ex:ID "CID100028486" ;
+    ex:Name "lithium" .
+
+<http://example.org/drug_names_row/883> ex:ID "CID100029089" ;
+    ex:Name "chlorhexidine" .
+
+<http://example.org/drug_names_row/884> ex:ID "CID100030623" ;
+    ex:Name "dexrazoxane" .
+
+<http://example.org/drug_names_row/885> ex:ID "CID100031072" ;
+    ex:Name "carbimazole" .
+
+<http://example.org/drug_names_row/886> ex:ID "CID100031264" ;
+    ex:Name "paraldehyde" .
+
+<http://example.org/drug_names_row/887> ex:ID "CID100031378" ;
+    ex:Name "fludrocortisone" .
+
+<http://example.org/drug_names_row/888> ex:ID "CID100031477" ;
+    ex:Name "metipranolol" .
+
+<http://example.org/drug_names_row/889> ex:ID "CID100032169" ;
+    ex:Name "articaine" .
+
+<http://example.org/drug_names_row/89> ex:ID "CID100002022" ;
+    ex:Name "acyclovir" .
+
+<http://example.org/drug_names_row/890> ex:ID "CID100032281" ;
+    ex:Name "Protirelin" .
+
+<http://example.org/drug_names_row/891> ex:ID "CID100032603" ;
+    ex:Name "clindamycin" .
+
+<http://example.org/drug_names_row/892> ex:ID "CID100032797" ;
+    ex:Name "clobetasol" .
+
+<http://example.org/drug_names_row/893> ex:ID "CID100032800" ;
+    ex:Name "Asp-Tyr(SO3H)-Met-Gly-Trp-Met-Asp-Phe-NH2" .
+
+<http://example.org/drug_names_row/894> ex:ID "CID100034312" ;
+    ex:Name "oxcarbazepine" .
+
+<http://example.org/drug_names_row/895> ex:ID "CID100036339" ;
+    ex:Name "etomidate" .
+
+<http://example.org/drug_names_row/896> ex:ID "CID100036523" ;
+    ex:Name "gonadorelin" .
+
+<http://example.org/drug_names_row/897> ex:ID "CID100036811" ;
+    ex:Name "dobutamine" .
+
+<http://example.org/drug_names_row/898> ex:ID "CID100037392" ;
+    ex:Name "halofantrine" .
+
+<http://example.org/drug_names_row/899> ex:ID "CID100037720" ;
+    ex:Name "pentosan" .
+
+<http://example.org/drug_names_row/9> ex:ID "CID100000175" ;
+    ex:Name "acetate" .
+
+<http://example.org/drug_names_row/90> ex:ID "CID100002082" ;
+    ex:Name "albendazole" .
+
+<http://example.org/drug_names_row/900> ex:ID "CID100038904" ;
+    ex:Name "carboplatin" .
+
+<http://example.org/drug_names_row/901> ex:ID "CID100039042" ;
+    ex:Name "bezafibrate" .
+
+<http://example.org/drug_names_row/902> ex:ID "CID100039507" ;
+    ex:Name "rimexolone" .
+
+<http://example.org/drug_names_row/903> ex:ID "CID100039524" ;
+    ex:Name "stiripentol" .
+
+<http://example.org/drug_names_row/904> ex:ID "CID100039764" ;
+    ex:Name "vecuronium" .
+
+<http://example.org/drug_names_row/905> ex:ID "CID100039860" ;
+    ex:Name "nabilone" .
+
+<http://example.org/drug_names_row/906> ex:ID "CID100040159" ;
+    ex:Name "permethrin" .
+
+<http://example.org/drug_names_row/907> ex:ID "CID100040632" ;
+    ex:Name "pirfenidone" .
+
+<http://example.org/drug_names_row/908> ex:ID "CID100040703" ;
+    ex:Name "pinaverium" .
+
+<http://example.org/drug_names_row/909> ex:ID "CID100040973" ;
+    ex:Name "desogestrel" .
+
+<http://example.org/drug_names_row/91> ex:ID "CID100002083" ;
+    ex:Name "salbutamol" .
+
+<http://example.org/drug_names_row/910> ex:ID "CID100040976" ;
+    ex:Name "Implanon" .
+
+<http://example.org/drug_names_row/911> ex:ID "CID100041317" ;
+    ex:Name "acitretin" .
+
+<http://example.org/drug_names_row/912> ex:ID "CID100041684" ;
+    ex:Name "nitazoxanide" .
+
+<http://example.org/drug_names_row/913> ex:ID "CID100041693" ;
+    ex:Name "sufentanil" .
+
+<http://example.org/drug_names_row/914> ex:ID "CID100041744" ;
+    ex:Name "valrubicin" .
+
+<http://example.org/drug_names_row/915> ex:ID "CID100041774" ;
+    ex:Name "acarbose" .
+
+<http://example.org/drug_names_row/916> ex:ID "CID100041781" ;
+    ex:Name "torasemide" .
+
+<http://example.org/drug_names_row/917> ex:ID "CID100042113" ;
+    ex:Name "desflurane" .
+
+<http://example.org/drug_names_row/918> ex:ID "CID100042395" ;
+    ex:Name "Westcort" .
+
+<http://example.org/drug_names_row/919> ex:ID "CID100042615" ;
+    ex:Name "Supremon" .
+
+<http://example.org/drug_names_row/92> ex:ID "CID100002085" ;
+    ex:Name "Almeta" .
+
+<http://example.org/drug_names_row/920> ex:ID "CID100042955" ;
+    ex:Name "misoprostol" .
+
+<http://example.org/drug_names_row/921> ex:ID "CID100044563" ;
+    ex:Name "lodoxamide" .
+
+<http://example.org/drug_names_row/922> ex:ID "CID100044564" ;
+    ex:Name "lodoxamide" .
+
+<http://example.org/drug_names_row/923> ex:ID "CID100045469" ;
+    ex:Name "sodium" .
+
+<http://example.org/drug_names_row/924> ex:ID "CID100047319" ;
+    ex:Name "atracurium" .
+
+<http://example.org/drug_names_row/925> ex:ID "CID100047320" ;
+    ex:Name "cisatracurium" .
+
+<http://example.org/drug_names_row/926> ex:ID "CID100047419" ;
+    ex:Name "cefuroxime" .
+
+<http://example.org/drug_names_row/927> ex:ID "CID100047471" ;
+    ex:Name "butoconazole" .
+
+<http://example.org/drug_names_row/928> ex:ID "CID100047528" ;
+    ex:Name "nicorandil" .
+
+<http://example.org/drug_names_row/929> ex:ID "CID100047640" ;
+    ex:Name "naftifine" .
+
+<http://example.org/drug_names_row/93> ex:ID "CID100002088" ;
+    ex:Name "alendronate" .
+
+<http://example.org/drug_names_row/930> ex:ID "CID100047725" ;
+    ex:Name "Goserelin" .
+
+<http://example.org/drug_names_row/931> ex:ID "CID100050294" ;
+    ex:Name "nedocromil" .
+
+<http://example.org/drug_names_row/932> ex:ID "CID100050614" ;
+    ex:Name "cefotetan" .
+
+<http://example.org/drug_names_row/933> ex:ID "CID100051263" ;
+    ex:Name "alfentanil" .
+
+<http://example.org/drug_names_row/934> ex:ID "CID100051577" ;
+    ex:Name "miglitol" .
+
+<http://example.org/drug_names_row/935> ex:ID "CID100051634" ;
+    ex:Name "miglustat" .
+
+<http://example.org/drug_names_row/936> ex:ID "CID100052421" ;
+    ex:Name "prednicarbate" .
+
+<http://example.org/drug_names_row/937> ex:ID "CID100054158" ;
+    ex:Name "mebrofenin" .
+
+<http://example.org/drug_names_row/938> ex:ID "CID100054313" ;
+    ex:Name "iloprost" .
+
+<http://example.org/drug_names_row/939> ex:ID "CID100054331" ;
+    ex:Name "fosfomycin" .
+
+<http://example.org/drug_names_row/94> ex:ID "CID100002092" ;
+    ex:Name "alfuzosin" .
+
+<http://example.org/drug_names_row/940> ex:ID "CID100054373" ;
+    ex:Name "Octreotide" .
+
+<http://example.org/drug_names_row/941> ex:ID "CID100054454" ;
+    ex:Name "simvastatin" .
+
+<http://example.org/drug_names_row/942> ex:ID "CID100054547" ;
+    ex:Name "cefpodoxime" .
+
+<http://example.org/drug_names_row/943> ex:ID "CID100054688" ;
+    ex:Name "clarithromycin" .
+
+<http://example.org/drug_names_row/944> ex:ID "CID100054786" ;
+    ex:Name "treprostinil" .
+
+<http://example.org/drug_names_row/945> ex:ID "CID100054808" ;
+    ex:Name "loteprednol" .
+
+<http://example.org/drug_names_row/946> ex:ID "CID100054840" ;
+    ex:Name "atomoxetine" .
+
+<http://example.org/drug_names_row/947> ex:ID "CID100054949" ;
+    ex:Name "NSC" .
+
+<http://example.org/drug_names_row/948> ex:ID "CID100055331" ;
+    ex:Name "moexiprilat" .
+
+<http://example.org/drug_names_row/949> ex:ID "CID100055466" ;
+    ex:Name "Gd-DTPA" .
+
+<http://example.org/drug_names_row/95> ex:ID "CID100002094" ;
+    ex:Name "allopurinol" .
+
+<http://example.org/drug_names_row/950> ex:ID "CID100055480" ;
+    ex:Name "milnacipran" .
+
+<http://example.org/drug_names_row/951> ex:ID "CID100056338" ;
+    ex:Name "fosphenytoin" .
+
+<http://example.org/drug_names_row/952> ex:ID "CID100056959" ;
+    ex:Name "ranolazine" .
+
+<http://example.org/drug_names_row/953> ex:ID "CID100057166" ;
+    ex:Name "Photofrin" .
+
+<http://example.org/drug_names_row/954> ex:ID "CID100057469" ;
+    ex:Name "imiquimod" .
+
+<http://example.org/drug_names_row/955> ex:ID "CID100057537" ;
+    ex:Name "rotigotine" .
+
+<http://example.org/drug_names_row/956> ex:ID "CID100057697" ;
+    ex:Name "pemirolast" .
+
+<http://example.org/drug_names_row/957> ex:ID "CID100059708" ;
+    ex:Name "levetiracetam" .
+
+<http://example.org/drug_names_row/958> ex:ID "CID100059768" ;
+    ex:Name "esmolol" .
+
+<http://example.org/drug_names_row/959> ex:ID "CID100060146" ;
+    ex:Name "tamsulosin" .
+
+<http://example.org/drug_names_row/96> ex:ID "CID100002099" ;
+    ex:Name "alosetron" .
+
+<http://example.org/drug_names_row/960> ex:ID "CID100060164" ;
+    ex:Name "adapalene" .
+
+<http://example.org/drug_names_row/961> ex:ID "CID100060172" ;
+    ex:Name "adefovir" .
+
+<http://example.org/drug_names_row/962> ex:ID "CID100060183" ;
+    ex:Name "perindopril" .
+
+<http://example.org/drug_names_row/963> ex:ID "CID100060184" ;
+    ex:Name "perindopril" .
+
+<http://example.org/drug_names_row/964> ex:ID "CID100060198" ;
+    ex:Name "exemestane" .
+
+<http://example.org/drug_names_row/965> ex:ID "CID100060490" ;
+    ex:Name "zileuton" .
+
+<http://example.org/drug_names_row/966> ex:ID "CID100060496" ;
+    ex:Name "amlodipine" .
+
+<http://example.org/drug_names_row/967> ex:ID "CID100060612" ;
+    ex:Name "dexmedetomidine" .
+
+<http://example.org/drug_names_row/968> ex:ID "CID100060613" ;
+    ex:Name "cidofovir" .
+
+<http://example.org/drug_names_row/969> ex:ID "CID100060668" ;
+    ex:Name "etoposide" .
+
+<http://example.org/drug_names_row/97> ex:ID "CID100002118" ;
+    ex:Name "alprazolam" .
+
+<http://example.org/drug_names_row/970> ex:ID "CID100060695" ;
+    ex:Name "rocuronium" .
+
+<http://example.org/drug_names_row/971> ex:ID "CID100060706" ;
+    ex:Name "meropenem" .
+
+<http://example.org/drug_names_row/972> ex:ID "CID100060714" ;
+    ex:Name "gadoteridol" .
+
+<http://example.org/drug_names_row/973> ex:ID "CID100060726" ;
+    ex:Name "bromfenac" .
+
+<http://example.org/drug_names_row/974> ex:ID "CID100060751" ;
+    ex:Name "mTHPC" .
+
+<http://example.org/drug_names_row/975> ex:ID "CID100060752" ;
+    ex:Name "ibutilide" .
+
+<http://example.org/drug_names_row/976> ex:ID "CID100060754" ;
+    ex:Name "gadodiamide" .
+
+<http://example.org/drug_names_row/977> ex:ID "CID100060787" ;
+    ex:Name "saquinavir" .
+
+<http://example.org/drug_names_row/978> ex:ID "CID100060795" ;
+    ex:Name "aripiprazole" .
+
+<http://example.org/drug_names_row/979> ex:ID "CID100060814" ;
+    ex:Name "remifentanil" .
+
+<http://example.org/drug_names_row/98> ex:ID "CID100002123" ;
+    ex:Name "hexamethylmelamine" .
+
+<http://example.org/drug_names_row/980> ex:ID "CID100060830" ;
+    ex:Name "tiotropium" .
+
+<http://example.org/drug_names_row/981> ex:ID "CID100060834" ;
+    ex:Name "duloxetine" .
+
+<http://example.org/drug_names_row/982> ex:ID "CID100060843" ;
+    ex:Name "pemetrexed" .
+
+<http://example.org/drug_names_row/983> ex:ID "CID100060852" ;
+    ex:Name "ibandronate" .
+
+<http://example.org/drug_names_row/984> ex:ID "CID100060853" ;
+    ex:Name "ziprasidone" .
+
+<http://example.org/drug_names_row/985> ex:ID "CID100060860" ;
+    ex:Name "metaiodobenzylguanidine" .
+
+<http://example.org/drug_names_row/986> ex:ID "CID100060864" ;
+    ex:Name "olopatadine" .
+
+<http://example.org/drug_names_row/987> ex:ID "CID100060867" ;
+    ex:Name "levosimendan" .
+
+<http://example.org/drug_names_row/988> ex:ID "CID100060871" ;
+    ex:Name "adefovir" .
+
+<http://example.org/drug_names_row/989> ex:ID "CID100060877" ;
+    ex:Name "emtricitabine" .
+
+<http://example.org/drug_names_row/99> ex:ID "CID100002130" ;
+    ex:Name "amantadine" .
+
+<http://example.org/drug_names_row/990> ex:ID "CID100060878" ;
+    ex:Name "eprosartan" .
+
+<http://example.org/drug_names_row/991> ex:ID "CID100060936" ;
+    ex:Name "tiludronate" .
+
+<http://example.org/drug_names_row/992> ex:ID "CID100060953" ;
+    ex:Name "capecitabine" .
+
+<http://example.org/drug_names_row/993> ex:ID "CID100061475" ;
+    ex:Name "sodium" .
+
+<http://example.org/drug_names_row/994> ex:ID "CID100061799" ;
+    ex:Name "monomethylfumarate" .
+
+<http://example.org/drug_names_row/995> ex:ID "CID100062305" ;
+    ex:Name "doxycycline" .
+
+<http://example.org/drug_names_row/996> ex:ID "CID100062358" ;
+    ex:Name "ammonium" .
+
+<http://example.org/drug_names_row/997> ex:ID "CID100062816" ;
+    ex:Name "colestipol" .
+
+<http://example.org/drug_names_row/998> ex:ID "CID100062819" ;
+    ex:Name "Metrodin" .
+
+<http://example.org/drug_names_row/999> ex:ID "CID100062924" ;
+    ex:Name "fluticasone" .
+

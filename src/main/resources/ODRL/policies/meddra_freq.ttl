@@ -1,0 +1,26 @@
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix ex:   <http://example.org/> .
+
+<http://example.org/policy/adr-access>
+    a odrl:Offer ;
+
+    odrl:permission [
+        odrl:assignee ex:researcher ;
+        odrl:action odrl:read ;
+        odrl:target <http://example.org/graph/meddra_freq> ,
+                    <http://example.org/sparql/extract_data>
+    ] ;
+
+    odrl:prohibition [
+        odrl:action odrl:read ;
+        odrl:constraint [
+            odrl:leftOperand ex:sideEffects ;
+            odrl:operator odrl:eq ;
+            odrl:rightOperand ("Tremor")
+        ] ;
+        odrl:constraint [
+            odrl:leftOperand ex:drugIDs ;
+            odrl:operator odrl:eq ;
+            odrl:rightOperand ("CID100004902")
+        ]
+    ] .

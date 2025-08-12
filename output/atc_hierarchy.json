@@ -1,0 +1,30 @@
+[
+  {
+    "level": 1,
+    "parentCode": "L",
+    "parentName": "ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS",
+    "drugNames": "fingolimod",
+    "drugIds": "L04AE01"
+  },
+  {
+    "level": 3,
+    "parentCode": "L04",
+    "parentName": "IMMUNOSUPPRESSANTS",
+    "drugNames": "fingolimod",
+    "drugIds": "L04AE01"
+  },
+  {
+    "level": 4,
+    "parentCode": "L04A",
+    "parentName": "IMMUNOSUPPRESSANTS",
+    "drugNames": "fingolimod",
+    "drugIds": "L04AE01"
+  },
+  {
+    "level": 5,
+    "parentCode": "L04AE",
+    "parentName": "Sphingosine-1-phosphate (S1P) receptor modulators",
+    "drugNames": "fingolimod",
+    "drugIds": "L04AE01"
+  }
+]

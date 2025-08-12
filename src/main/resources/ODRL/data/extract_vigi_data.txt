@@ -1,0 +1,9 @@
+#https://raw.githubusercontent.com/Ali-chakaroun/fds-demo-trains/refs/heads/main/sparql-station2/sparql-train-01.ttl
+PREFIX ex: <http://example.org/>
+SELECT ?subject ?predicate ?object
+WHERE {
+    ?subject ?predicate ?object .
+    OPTIONAL {
+        ?subject ?predicate ?object .
+    }
+}

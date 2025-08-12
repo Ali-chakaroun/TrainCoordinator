@@ -1,0 +1,63 @@
+@prefix ex: <http://example.org/> .
+
+<http://example.org/row/1> ex:ATC5 "L04AE" ;
+    ex:ATCText "FINGOLIMOD" ;
+    ex:ATCode "L04AE01" ;
+    ex:Age "40" ;
+    ex:Medical_history_PT "Acute kidney injury; Acute myeloid leukaemia" ;
+    ex:Other_Reported_PTs "Cystitis haemorrhagic; Off label use; Renal failure; Stress" ;
+    ex:Outcome "Fatal" ;
+    ex:Past_tests_and_procedures "Blood pressure; Creatinine" ;
+    ex:Reaction_PT "JC virus infection" ;
+    ex:Seriousness "Serious" ;
+    ex:Sex "Female" ;
+    ex:WorldwideUniqueCaseIdentification "patient 0" .
+
+<http://example.org/row/2> ex:ATC5 "L04AE" ;
+    ex:ATCText "FINGOLIMOD" ;
+    ex:ATCode "L04AE01" ;
+    ex:Additional_information "nan" ;
+    ex:Age "nan" ;
+    ex:Case_narrative "nan" ;
+    ex:Concomitant_ATC5 "nan" ;
+    ex:Concomitant_ATCText "nan" ;
+    ex:Concomitant_ATCode "nan" ;
+    ex:End_date "nan" ;
+    ex:Latency_days "nan" ;
+    ex:Medical_history_PT "Thrombotic microangiopathy; Acute myeloid leukaemia" ;
+    ex:Other_Reported_PTs "Off label use; Renal failure; Stress" ;
+    ex:Other_suspect_ATCText "nan" ;
+    ex:Past_drug_therapy "nan" ;
+    ex:Past_tests_and_procedures "JC virus; Creatinine" ;
+    ex:Reaction_PT "JC virus infection" ;
+    ex:Receive_date "2020-01-15 00:00:00" ;
+    ex:Reporter_qualification "Consumer or other non-health professional" ;
+    ex:Seriousness "Serious" ;
+    ex:Sex "Female" ;
+    ex:Start_date "nan" ;
+    ex:WorldwideUniqueCaseIdentification "1" .
+
+<http://example.org/row/3> ex:ATC5 "L04AE" ;
+    ex:ATCText "FINGOLIMOD" ;
+    ex:ATCode "L04AE01" ;
+    ex:Additional_information "nan" ;
+    ex:Age "nan" ;
+    ex:Case_narrative "nan" ;
+    ex:Concomitant_ATC5 "nan" ;
+    ex:Concomitant_ATCText "nan" ;
+    ex:Concomitant_ATCode "nan" ;
+    ex:End_date "nan" ;
+    ex:Latency_days "nan" ;
+    ex:Medical_history_PT "Acute myeloid leukaemia" ;
+    ex:Other_Reported_PTs "Off label use; Renal failure; Stress; Cystitis haemorrhagic" ;
+    ex:Other_suspect_ATCText "nan" ;
+    ex:Past_drug_therapy "nan" ;
+    ex:Past_tests_and_procedures "JC virus" ;
+    ex:Reaction_PT "JC virus infection" ;
+    ex:Receive_date "2018-03-12 00:00:00" ;
+    ex:Reporter_qualification "Other health professional" ;
+    ex:Seriousness "Serious" ;
+    ex:Sex "Female" ;
+    ex:Start_date "nan" ;
+    ex:WorldwideUniqueCaseIdentification "2" .
+

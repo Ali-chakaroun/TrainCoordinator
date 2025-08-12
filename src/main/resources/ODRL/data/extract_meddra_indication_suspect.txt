@@ -1,0 +1,19 @@
+#https://raw.githubusercontent.com/Ali-chakaroun/fds-demo-trains/refs/heads/main/sparql-station3/sparql-train-05.ttl
+PREFIX ex:   <http://example.org/>
+PREFIX drug: <http://identifiers.org/pubchem.compound/>
+PREFIX umls: <http://linkedlifedata.com/resource/umls/id/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT
+        ?drug_id                                    
+        ?indication                                  
+        (STRAFTER(STR(?uml_code),                      
+                "http://linkedlifedata.com/resource/umls/id/") AS ?uml_codes)
+WHERE {
+VALUES ?drug_id {"CID100107969"}
+BIND( IRI(CONCAT(STR(drug:), ?drug_id)) AS ?drug )
+
+?drug  ex:hasIndication  ?uml_code .
+?uml_code  rdfs:label  ?indication .
+
+}

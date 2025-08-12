@@ -1,0 +1,38 @@
+[
+  {
+    "suspected": {
+      "ID": "CID100107969",
+      "name": "FTY720",
+      "indications": [
+        {
+          "code": "C0011849",
+          "indication": "Diabetes mellitus"
+        },
+        {
+          "code": "C0026769",
+          "indication": "Multiple sclerosis"
+        },
+        {
+          "code": "C0042164",
+          "indication": "Uveitis"
+        },
+        {
+          "code": "C0231170",
+          "indication": "Disability"
+        },
+        {
+          "code": "C0520817",
+          "indication": "Physical disability"
+        },
+        {
+          "code": "C0751965",
+          "indication": "Secondary progressive multiple sclerosis"
+        },
+        {
+          "code": "C0751967",
+          "indication": "Relapsing-remitting multiple sclerosis"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,32 @@
+PREFIX ex:   <http://example.org/>                    
+PREFIX drug: <http://identifiers.org/pubchem.compound/>
+PREFIX freq: <http://example.org/frequency/>
+PREFIX umls: <http://linkedlifedata.com/resource/umls/id/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT
+    ?drug_id
+    ?freq
+    ?se
+    (STRAFTER(STR(?umlIRI), "http://linkedlifedata.com/resource/umls/id/") AS ?umls)
+WHERE {
+    VALUES ?drug_id {
+        "CID100004900" "CID100004271" "CID100003367" "CID106442177"
+        "CID100002907" "CID100093860" "CID100005372" "CID100004894"
+        "CID100060613" "CID100004159" "CID100001875" "CID100041781"
+        "CID100004272" "CID100003454" "CID100003899" "CID100002265"
+    }
+
+    BIND( IRI(CONCAT(STR(drug:), ?drug_id)) AS ?drugURI )
+
+    ?drugURI  ex:hasFrequency  ?freqURI .
+    ?freqURI  rdfs:label       ?freq ;
+              ex:sideEffect    ?umlIRI .
+    ?umlIRI rdfs:label ?se .
+
+    FILTER(lcase(str(?se)) IN (
+        "bk virus infection", "cystitis haemorrhagic", "cytomegalovirus viraemia",
+        "off label use", "renal failure", "stress"
+    ))
+}
+ORDER BY ?freq ?umls

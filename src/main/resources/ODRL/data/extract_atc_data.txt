@@ -1,0 +1,23 @@
+#https://raw.githubusercontent.com/Ali-chakaroun/fds-demo-trains/refs/heads/main/sparql-station2/sparql-train-02.ttl
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT
+(STRLEN(?parentCode) AS ?level)
+?parentCode
+?parentName
+(GROUP_CONCAT(DISTINCT ?drugLabel; separator=", ") AS ?drugs)
+(GROUP_CONCAT(DISTINCT ?code; separator=",") AS ?drugs_ids)
+WHERE {
+?drug (rdfs:label|skos:altLabel) ?drugLabel ;
+        skos:prefLabel            ?code .
+
+FILTER ( langMatches(lang(?drugLabel), "EN"))
+FILTER ( lcase(str(?drugLabel)) IN ("fingolimod")) 
+
+?drug (skos:broader)+ ?parent .
+?parent skos:prefLabel ?parentCode ;
+        rdfs:label     ?parentName .
+}
+GROUP BY ?parentCode ?parentName
+ORDER BY ?level ?parentCode

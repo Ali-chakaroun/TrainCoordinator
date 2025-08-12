@@ -11,7 +11,7 @@ arguments:
     shellQuote: false
 
 outputs:
-  terminateData:                  # <-- renamed to match your workflow
+  terminateData: 
     type: File
     outputBinding:
       glob: terminate.json

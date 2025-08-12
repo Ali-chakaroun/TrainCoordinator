@@ -5,7 +5,7 @@ baseCommand: ["python", "/app/extractVigi_RDF.py"]
 
 requirements:
   DockerRequirement:
-    dockerPull: extract-vigi-data  # Docker image name
+    dockerPull: extract-vigi-data 
   NetworkAccess:
     networkAccess: true
 inputs:

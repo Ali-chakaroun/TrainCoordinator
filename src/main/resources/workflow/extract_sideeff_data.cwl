@@ -5,7 +5,7 @@ baseCommand: ["python", "/app/extractSideEFF_RDF.py"]
 
 requirements:
   DockerRequirement:
-    dockerPull: extract-sideeff-data  # Docker image name
+    dockerPull: extract-sideeff-data
   NetworkAccess:
     networkAccess: true
 inputs:

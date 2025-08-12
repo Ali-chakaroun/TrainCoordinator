@@ -8,12 +8,12 @@ requirements:
     dockerPull: extract-lareb-data  # Docker image name
   NetworkAccess:
     networkAccess: true
+    
 inputs:
   adrData:
     type: File
     inputBinding:
       position: 1
-    # This input will be supplied by the main.cwl via $(steps.extractADR.out.data)
   LData:
     type: File
     default:

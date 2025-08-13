@@ -3,8 +3,9 @@
 This is a **prototype Train Coordinator service** designed for orchestrating workflows and enforcing access control in **privacy-preserving data analysis** for federated healthcare environments.  
 
 This project extends the **FAIR Data Train (FDT)** framework by integrating:  
-- **Common Workflow Language (CWL)** for multi-step workflow execution.  https://www.commonwl.org/user_guide/introduction/quick-start.html
-- **Open Digital Rights Language (ODRL)** for fine-grained data access control.  https://www.w3.org/TR/odrl-model/
+- [**Common Workflow Language (CWL)**](https://www.commonwl.org/user_guide/introduction/quick-start.html) for multi-step workflow execution.  
+- [**Open Digital Rights Language (ODRL)**](https://www.w3.org/TR/odrl-model/) for fine-grained data access control.  
+
 ---
 
 ## 📌 Features

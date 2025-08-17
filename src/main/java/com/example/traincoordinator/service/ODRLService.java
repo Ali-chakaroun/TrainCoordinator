@@ -10,14 +10,13 @@ import java.nio.file.Path;
 public class ODRLService {
 
     public String executeODRLPolicy(String odrlTurtleString) throws IOException, InterruptedException {
-        // Call the Python script that expects a string input
         Path odrlPath = new ClassPathResource("ODRL/main.py")
                 .getFile().toPath();
         ProcessBuilder pb = new ProcessBuilder("python", odrlPath.toString());
 
         Process process = pb.start();
 
-        // Send the policy string to the Python process via stdin
+        // Send the user request to the odrl engine
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(process.getOutputStream()));
         writer.write(odrlTurtleString);
         writer.flush();
@@ -37,7 +36,7 @@ public class ODRLService {
             errorOutput.append(line).append("\n");
         }
         if (errorOutput.length() > 0) {
-            System.err.println("⚠️ Python error output:\n" + errorOutput);
+            System.err.println("Python error output:\n" + errorOutput);
         }
 
         int exitCode = process.waitFor();

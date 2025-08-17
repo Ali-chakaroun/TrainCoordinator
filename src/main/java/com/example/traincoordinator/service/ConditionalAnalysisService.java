@@ -11,7 +11,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class ConditionalAnalysisService {
     
     private final ObjectMapper objectMapper = new ObjectMapper();
-// executeAnalysis(String personName)
     public Map<String, Object> executeAnalysis() {
         try {
             Path workflowPath = new ClassPathResource("workflow/main.cwl")

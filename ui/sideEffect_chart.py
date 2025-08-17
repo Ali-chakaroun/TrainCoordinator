@@ -1,27 +1,25 @@
 from collections import defaultdict
-import itertools
 from rdflib import Graph, Literal
 import streamlit as st
 import pandas as pd
-import networkx as nx
 import json
 from streamlit_agraph import agraph, Node, Edge, Config
-import matplotlib.pyplot as plt 
+
 
 st.set_page_config(layout="wide")
 
-with open("../output/vigiData.json", "r") as f:
+with open("output/vigiData.json", "r") as f:
     vigi_data = json.load(f)
     
-with open("../output/ADRData.json", "r") as f:
+with open("output/ADRData.json", "r") as f:
     processed_data = json.load(f)
 
-with open("../output/SideEff.json") as f:
+with open("output/SideEff.json") as f:
     side_effects_data = json.load(f)
     
 processed_data = processed_data[0]
 
-with open("../output/atc_hierarchy.json") as f:        
+with open("output/atc_hierarchy.json") as f:        
     atc_levels = json.load(f)
     
 drug_to_level3 = {}
@@ -42,7 +40,7 @@ for item in atc_levels:
 
 # Extract Lareb data from ttl file
 g = Graph()
-g.parse("../output/extractDataFromL.ttl", format="turtle")
+g.parse("output/extractDataFromL.ttl", format="turtle")
 
 query = """
 PREFIX ex: <http://example.org/>
